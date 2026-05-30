@@ -2733,7 +2733,8 @@
                       "year":  2024,
                       "slug":  "zelda_echoes_of_wisdom",
                       "filename":  "334_zelda_echoes_of_wisdom_2024.md",
-                      "status":  "pending"
+                      "status":  "completed",
+                      "completed_at":  "2026-05-30T18:00:00.0000000+09:00"
                   },
                   {
                       "id":  335,
@@ -2741,7 +2742,8 @@
                       "year":  2025,
                       "slug":  "peak",
                       "filename":  "335_peak_2025.md",
-                      "status":  "pending"
+                      "status":  "completed",
+                      "completed_at":  "2026-05-30T18:00:00.0000000+09:00"
                   }
               ],
     "iteration":  6,
