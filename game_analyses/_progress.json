@@ -2697,7 +2697,8 @@
                       "year":  2025,
                       "slug":  "oblivion_remastered",
                       "filename":  "330_oblivion_remastered_2025.md",
-                      "status":  "pending"
+                      "status":  "completed",
+                      "completed_at":  "2026-05-30T12:00:00.0000000+09:00"
                   },
                   {
                       "id":  331,
@@ -2705,7 +2706,8 @@
                       "year":  2025,
                       "slug":  "battlefield_6",
                       "filename":  "331_battlefield_6_2025.md",
-                      "status":  "pending"
+                      "status":  "completed",
+                      "completed_at":  "2026-05-30T12:00:00.0000000+09:00"
                   },
                   {
                       "id":  332,
@@ -2713,7 +2715,8 @@
                       "year":  2025,
                       "slug":  "borderlands_4",
                       "filename":  "332_borderlands_4_2025.md",
-                      "status":  "pending"
+                      "status":  "completed",
+                      "completed_at":  "2026-05-30T12:00:00.0000000+09:00"
                   },
                   {
                       "id":  333,
@@ -2721,7 +2724,8 @@
                       "year":  2024,
                       "slug":  "paper_mario_ttyd",
                       "filename":  "333_paper_mario_ttyd_2024.md",
-                      "status":  "pending"
+                      "status":  "completed",
+                      "completed_at":  "2026-05-30T12:00:00.0000000+09:00"
                   },
                   {
                       "id":  334,
