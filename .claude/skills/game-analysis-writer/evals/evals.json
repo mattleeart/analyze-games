@@ -1,0 +1,33 @@
+{
+  "skill_name": "game-analysis-writer",
+  "evals": [
+    {
+      "id": 0,
+      "name": "single-hades-analysis",
+      "prompt": "Hades(2020, Supergiant Games) 게임 분석서를 아주 자세하게 만들어줘.",
+      "expected_output": "8개 섹션(개요·게임설명·시스템/메카닉·평가·성공요인·비평·영향/유산·부록), 한국어 8000자 이상, 작품명은 《》 표기(꺾쇠 <> 없음), 영어권 출처 인용, Metacritic/수상/판매 데이터 포함",
+      "assertions": [
+        {"id": "len-8000", "text": "본문이 한국어 8000자 이상이다"},
+        {"id": "eight-sections", "text": "8개 핵심 섹션(개요/게임설명/시스템·메카닉/평가/성공요인/비평/영향·유산/부록)이 모두 있다"},
+        {"id": "no-angle-brackets", "text": "작품명을 <> 꺾쇠로 감싼 곳이 없다 (《》 또는 일반 텍스트 사용)"},
+        {"id": "english-sources", "text": "영어권 매체/자료(IGN, GameSpot, Polygon, GDC, Metacritic 등)를 명시적으로 인용한다"},
+        {"id": "quant-data", "text": "Metacritic 점수, 수상(BAFTA/Hugo 등), 판매량 같은 정량 데이터가 출처와 함께 들어있다"}
+      ],
+      "files": []
+    },
+    {
+      "id": 1,
+      "name": "success-factor-vampire-survivors",
+      "prompt": "Vampire Survivors가 왜 그렇게 성공했는지 심층 분석해줘.",
+      "expected_output": "성공 요인 중심의 8개 섹션 분석서, 한국어 8000자 이상, 《》 표기, 영어권 출처 인용, 서바이버라이크 장르 창시/가격 전략/입소문 등 분석",
+      "assertions": [
+        {"id": "len-8000", "text": "본문이 한국어 8000자 이상이다"},
+        {"id": "eight-sections", "text": "8개 핵심 섹션이 모두 있다"},
+        {"id": "success-depth", "text": "성공 요인을 디자인/마케팅/타이밍/가격($4.99)/장르창시 등 다각도로 깊게 분석한다"},
+        {"id": "no-angle-brackets", "text": "작품명을 <> 꺾쇠로 감싼 곳이 없다"},
+        {"id": "english-sources", "text": "영어권 매체/자료를 명시적으로 인용한다"}
+      ],
+      "files": []
+    }
+  ]
+}

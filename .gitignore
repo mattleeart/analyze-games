@@ -1,0 +1,25 @@
+# === 로컬 전용 자산 (클라우드 routine에선 불필요) ===
+game_analyses/_logs/
+game_analyses/_wip/
+game_analyses/_worker.ps1
+game_analyses/_worker.lock
+game_analyses/_STATUS.md
+monitor/
+
+# 로컬 워커/스케줄러 스크립트 (클라우드 미사용 — 로컬 복구용으로만 보관)
+.claude/skills/game-analysis-writer/scripts/
+
+# 후보 목록 작업 파일 (로컬 메모)
+성공_게임_분석_후보_목록.md
+
+# Obsidian 로컬 vault 설정 (LiveSync 등 동기화 비밀 포함 가능 — 절대 커밋 금지)
+.obsidian/
+
+# 백업 파일
+*.bak
+*.bak_*
+game_analyses/_worker.*
+
+# OS
+Thumbs.db
+.DS_Store

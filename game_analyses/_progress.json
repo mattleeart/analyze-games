@@ -1,0 +1,2661 @@
+﻿{
+    "schema_version":  2,
+    "settings":  { "batch_size": 4, "min_size_bytes": 16000, "augment_count": 10 },
+    "created_at":  "2026-05-20",
+    "total_games":  325,
+    "games":  [
+                  {
+                      "id":  1,
+                      "title":  "Overwatch",
+                      "year":  2016,
+                      "slug":  "overwatch",
+                      "filename":  "01_overwatch_2016.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T01:22:09.1245129+09:00"
+                  },
+                  {
+                      "id":  2,
+                      "title":  "Uncharted 4: A Thief\u0027s End",
+                      "year":  2016,
+                      "slug":  "uncharted_4",
+                      "filename":  "02_uncharted_4_2016.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T01:22:09.1310231+09:00"
+                  },
+                  {
+                      "id":  3,
+                      "title":  "DOOM",
+                      "year":  2016,
+                      "slug":  "doom",
+                      "filename":  "03_doom_2016.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T01:22:09.1330251+09:00"
+                  },
+                  {
+                      "id":  4,
+                      "title":  "Dark Souls III",
+                      "year":  2016,
+                      "slug":  "dark_souls_iii",
+                      "filename":  "04_dark_souls_iii_2016.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T01:22:09.1921742+09:00"
+                  },
+                  {
+                      "id":  5,
+                      "title":  "Inside",
+                      "year":  2016,
+                      "slug":  "inside",
+                      "filename":  "05_inside_2016.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T01:22:09.1951731+09:00"
+                  },
+                  {
+                      "id":  6,
+                      "title":  "Stardew Valley",
+                      "year":  2016,
+                      "slug":  "stardew_valley",
+                      "filename":  "06_stardew_valley_2016.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  7,
+                      "title":  "Firewatch",
+                      "year":  2016,
+                      "slug":  "firewatch",
+                      "filename":  "07_firewatch_2016.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T06:22:09.1098887+09:00"
+                  },
+                  {
+                      "id":  8,
+                      "title":  "Titanfall 2",
+                      "year":  2016,
+                      "slug":  "titanfall_2",
+                      "filename":  "08_titanfall_2_2016.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T01:22:09.1971772+09:00"
+                  },
+                  {
+                      "id":  9,
+                      "title":  "No Man\u0027s Sky",
+                      "year":  2016,
+                      "slug":  "no_mans_sky",
+                      "filename":  "09_no_mans_sky_2016.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  10,
+                      "title":  "The Legend of Zelda: Breath of the Wild",
+                      "year":  2017,
+                      "slug":  "botw",
+                      "filename":  "10_zelda_botw_2017.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T06:22:09.1148578+09:00"
+                  },
+                  {
+                      "id":  11,
+                      "title":  "Persona 5",
+                      "year":  2017,
+                      "slug":  "persona_5",
+                      "filename":  "11_persona_5_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  12,
+                      "title":  "Horizon Zero Dawn",
+                      "year":  2017,
+                      "slug":  "horizon_zero_dawn",
+                      "filename":  "12_horizon_zero_dawn_2017.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T06:22:09.1168924+09:00"
+                  },
+                  {
+                      "id":  13,
+                      "title":  "Super Mario Odyssey",
+                      "year":  2017,
+                      "slug":  "mario_odyssey",
+                      "filename":  "13_mario_odyssey_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  14,
+                      "title":  "PUBG: Battlegrounds",
+                      "year":  2017,
+                      "slug":  "pubg",
+                      "filename":  "14_pubg_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  15,
+                      "title":  "NieR: Automata",
+                      "year":  2017,
+                      "slug":  "nier_automata",
+                      "filename":  "15_nier_automata_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  16,
+                      "title":  "Resident Evil 7: Biohazard",
+                      "year":  2017,
+                      "slug":  "re7",
+                      "filename":  "16_re7_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  17,
+                      "title":  "Cuphead",
+                      "year":  2017,
+                      "slug":  "cuphead",
+                      "filename":  "17_cuphead_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  18,
+                      "title":  "Hollow Knight",
+                      "year":  2017,
+                      "slug":  "hollow_knight",
+                      "filename":  "18_hollow_knight_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  19,
+                      "title":  "Divinity: Original Sin 2",
+                      "year":  2017,
+                      "slug":  "dos2",
+                      "filename":  "19_dos2_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  20,
+                      "title":  "What Remains of Edith Finch",
+                      "year":  2017,
+                      "slug":  "edith_finch",
+                      "filename":  "20_edith_finch_2017.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T01:22:09.2021780+09:00"
+                  },
+                  {
+                      "id":  21,
+                      "title":  "Red Dead Redemption 2",
+                      "year":  2018,
+                      "slug":  "rdr2",
+                      "filename":  "21_rdr2_2018.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  22,
+                      "title":  "God of War",
+                      "year":  2018,
+                      "slug":  "god_of_war_2018",
+                      "filename":  "22_god_of_war_2018.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  23,
+                      "title":  "Marvel\u0027s Spider-Man",
+                      "year":  2018,
+                      "slug":  "spiderman",
+                      "filename":  "23_spiderman_2018.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  24,
+                      "title":  "Monster Hunter: World",
+                      "year":  2018,
+                      "slug":  "mh_world",
+                      "filename":  "24_mh_world_2018.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  25,
+                      "title":  "Celeste",
+                      "year":  2018,
+                      "slug":  "celeste",
+                      "filename":  "25_celeste_2018.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  26,
+                      "title":  "Dead Cells",
+                      "year":  2018,
+                      "slug":  "dead_cells",
+                      "filename":  "26_dead_cells_2018.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  27,
+                      "title":  "Return of the Obra Dinn",
+                      "year":  2018,
+                      "slug":  "obra_dinn",
+                      "filename":  "27_obra_dinn_2018.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  28,
+                      "title":  "Into the Breach",
+                      "year":  2018,
+                      "slug":  "into_the_breach",
+                      "filename":  "28_into_the_breach_2018.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  29,
+                      "title":  "Sekiro: Shadows Die Twice",
+                      "year":  2019,
+                      "slug":  "sekiro",
+                      "filename":  "29_sekiro_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  30,
+                      "title":  "Resident Evil 2 Remake",
+                      "year":  2019,
+                      "slug":  "re2_remake",
+                      "filename":  "30_re2_remake_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  31,
+                      "title":  "Disco Elysium",
+                      "year":  2019,
+                      "slug":  "disco_elysium",
+                      "filename":  "31_disco_elysium_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  32,
+                      "title":  "Outer Wilds",
+                      "year":  2019,
+                      "slug":  "outer_wilds",
+                      "filename":  "32_outer_wilds_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  33,
+                      "title":  "Untitled Goose Game",
+                      "year":  2019,
+                      "slug":  "goose_game",
+                      "filename":  "33_goose_game_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  34,
+                      "title":  "Apex Legends",
+                      "year":  2019,
+                      "slug":  "apex_legends",
+                      "filename":  "34_apex_legends_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  35,
+                      "title":  "Death Stranding",
+                      "year":  2019,
+                      "slug":  "death_stranding",
+                      "filename":  "35_death_stranding_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  36,
+                      "title":  "The Last of Us Part II",
+                      "year":  2020,
+                      "slug":  "tlou2",
+                      "filename":  "36_tlou2_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  37,
+                      "title":  "Ghost of Tsushima",
+                      "year":  2020,
+                      "slug":  "ghost_of_tsushima",
+                      "filename":  "37_ghost_of_tsushima_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  38,
+                      "title":  "Hades",
+                      "year":  2020,
+                      "slug":  "hades",
+                      "filename":  "38_hades_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  39,
+                      "title":  "DOOM Eternal",
+                      "year":  2020,
+                      "slug":  "doom_eternal",
+                      "filename":  "39_doom_eternal_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  40,
+                      "title":  "Final Fantasy VII Remake",
+                      "year":  2020,
+                      "slug":  "ff7_remake",
+                      "filename":  "40_ff7_remake_2020.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T12:00:00.0000000+09:00"
+                  },
+                  {
+                      "id":  41,
+                      "title":  "Animal Crossing: New Horizons",
+                      "year":  2020,
+                      "slug":  "acnh",
+                      "filename":  "41_acnh_2020.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T12:00:00.0000000+09:00"
+                  },
+                  {
+                      "id":  42,
+                      "title":  "Cyberpunk 2077",
+                      "year":  2020,
+                      "slug":  "cyberpunk_2077",
+                      "filename":  "42_cyberpunk_2077_2020.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T12:00:00.0000000+09:00"
+                  },
+                  {
+                      "id":  43,
+                      "title":  "Fall Guys",
+                      "year":  2020,
+                      "slug":  "fall_guys",
+                      "filename":  "43_fall_guys_2020.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T12:00:00.0000000+09:00"
+                  },
+                  {
+                      "id":  44,
+                      "title":  "Among Us",
+                      "year":  2020,
+                      "slug":  "among_us",
+                      "filename":  "44_among_us_2020.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T12:00:00.0000000+09:00"
+                  },
+                  {
+                      "id":  45,
+                      "title":  "Valorant",
+                      "year":  2020,
+                      "slug":  "valorant",
+                      "filename":  "45_valorant_2020.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T12:00:00.0000000+09:00"
+                  },
+                  {
+                      "id":  46,
+                      "title":  "It Takes Two",
+                      "year":  2021,
+                      "slug":  "it_takes_two",
+                      "filename":  "46_it_takes_two_2021.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T22:01:59.831831+09:00"
+                  },
+                  {
+                      "id":  47,
+                      "title":  "Resident Evil Village",
+                      "year":  2021,
+                      "slug":  "re_village",
+                      "filename":  "47_re_village_2021.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T22:01:59.831831+09:00"
+                  },
+                  {
+                      "id":  48,
+                      "title":  "Inscryption",
+                      "year":  2021,
+                      "slug":  "inscryption",
+                      "filename":  "48_inscryption_2021.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T22:01:59.831831+09:00"
+                  },
+                  {
+                      "id":  49,
+                      "title":  "Loop Hero",
+                      "year":  2021,
+                      "slug":  "loop_hero",
+                      "filename":  "49_loop_hero_2021.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T22:01:59.831831+09:00"
+                  },
+                  {
+                      "id":  50,
+                      "title":  "Valheim",
+                      "year":  2021,
+                      "slug":  "valheim",
+                      "filename":  "50_valheim_2021.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T22:01:59.831831+09:00"
+                  },
+                  {
+                      "id":  51,
+                      "title":  "Deathloop",
+                      "year":  2021,
+                      "slug":  "deathloop",
+                      "filename":  "51_deathloop_2021.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T22:01:59.831831+09:00"
+                  },
+                  {
+                      "id":  52,
+                      "title":  "Forza Horizon 5",
+                      "year":  2021,
+                      "slug":  "forza_horizon_5",
+                      "filename":  "52_forza_horizon_5_2021.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-21T00:00:00.0000000+09:00"
+                  },
+                  {
+                      "id":  53,
+                      "title":  "Psychonauts 2",
+                      "year":  2021,
+                      "slug":  "psychonauts_2",
+                      "filename":  "53_psychonauts_2_2021.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-21T00:00:00.0000000+09:00"
+                  },
+                  {
+                      "id":  54,
+                      "title":  "Elden Ring",
+                      "year":  2022,
+                      "slug":  "elden_ring",
+                      "filename":  "54_elden_ring_2022.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-21T00:00:00.0000000+09:00"
+                  },
+                  {
+                      "id":  55,
+                      "title":  "God of War Ragnarök",
+                      "year":  2022,
+                      "slug":  "gow_ragnarok",
+                      "filename":  "55_gow_ragnarok_2022.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-21T00:00:00.0000000+09:00"
+                  },
+                  {
+                      "id":  56,
+                      "title":  "Horizon Forbidden West",
+                      "year":  2022,
+                      "slug":  "horizon_forbidden_west",
+                      "filename":  "56_horizon_forbidden_west_2022.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-21T00:00:00.0000000+09:00"
+                  },
+                  {
+                      "id":  57,
+                      "title":  "Stray",
+                      "year":  2022,
+                      "slug":  "stray",
+                      "filename":  "57_stray_2022.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-21T00:00:00.0000000+09:00"
+                  },
+                  {
+                      "id":  58,
+                      "title":  "Vampire Survivors",
+                      "year":  2022,
+                      "slug":  "vampire_survivors",
+                      "filename":  "58_vampire_survivors_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  59,
+                      "title":  "Splatoon 3",
+                      "year":  2022,
+                      "slug":  "splatoon_3",
+                      "filename":  "59_splatoon_3_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  60,
+                      "title":  "Baldur\u0027s Gate 3",
+                      "year":  2023,
+                      "slug":  "bg3",
+                      "filename":  "60_bg3_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  61,
+                      "title":  "The Legend of Zelda: Tears of the Kingdom",
+                      "year":  2023,
+                      "slug":  "totk",
+                      "filename":  "61_zelda_totk_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  62,
+                      "title":  "Resident Evil 4 Remake",
+                      "year":  2023,
+                      "slug":  "re4_remake",
+                      "filename":  "62_re4_remake_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  63,
+                      "title":  "Lies of P",
+                      "year":  2023,
+                      "slug":  "lies_of_p",
+                      "filename":  "63_lies_of_p_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  64,
+                      "title":  "Dave the Diver",
+                      "year":  2023,
+                      "slug":  "dave_the_diver",
+                      "filename":  "64_dave_the_diver_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  65,
+                      "title":  "Hi-Fi Rush",
+                      "year":  2023,
+                      "slug":  "hifi_rush",
+                      "filename":  "65_hifi_rush_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  66,
+                      "title":  "Alan Wake 2",
+                      "year":  2023,
+                      "slug":  "alan_wake_2",
+                      "filename":  "66_alan_wake_2_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  67,
+                      "title":  "Marvel\u0027s Spider-Man 2",
+                      "year":  2023,
+                      "slug":  "spiderman_2",
+                      "filename":  "67_spiderman_2_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  68,
+                      "title":  "Pizza Tower",
+                      "year":  2023,
+                      "slug":  "pizza_tower",
+                      "filename":  "68_pizza_tower_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  69,
+                      "title":  "Sea of Stars",
+                      "year":  2023,
+                      "slug":  "sea_of_stars",
+                      "filename":  "69_sea_of_stars_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  70,
+                      "title":  "Cocoon",
+                      "year":  2023,
+                      "slug":  "cocoon",
+                      "filename":  "70_cocoon_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  71,
+                      "title":  "Hogwarts Legacy",
+                      "year":  2023,
+                      "slug":  "hogwarts_legacy",
+                      "filename":  "71_hogwarts_legacy_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  72,
+                      "title":  "Cyberpunk 2077: Phantom Liberty",
+                      "year":  2023,
+                      "slug":  "phantom_liberty",
+                      "filename":  "72_phantom_liberty_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  73,
+                      "title":  "Helldivers 2",
+                      "year":  2024,
+                      "slug":  "helldivers_2",
+                      "filename":  "73_helldivers_2_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  74,
+                      "title":  "Black Myth: Wukong",
+                      "year":  2024,
+                      "slug":  "wukong",
+                      "filename":  "74_wukong_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  75,
+                      "title":  "Balatro",
+                      "year":  2024,
+                      "slug":  "balatro",
+                      "filename":  "75_balatro_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  76,
+                      "title":  "Astro Bot",
+                      "year":  2024,
+                      "slug":  "astro_bot",
+                      "filename":  "76_astro_bot_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  77,
+                      "title":  "Final Fantasy VII Rebirth",
+                      "year":  2024,
+                      "slug":  "ff7_rebirth",
+                      "filename":  "77_ff7_rebirth_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  78,
+                      "title":  "Elden Ring: Shadow of the Erdtree",
+                      "year":  2024,
+                      "slug":  "shadow_of_erdtree",
+                      "filename":  "78_shadow_of_erdtree_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  79,
+                      "title":  "Metaphor: ReFantazio",
+                      "year":  2024,
+                      "slug":  "metaphor",
+                      "filename":  "79_metaphor_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  80,
+                      "title":  "Palworld",
+                      "year":  2024,
+                      "slug":  "palworld",
+                      "filename":  "80_palworld_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  81,
+                      "title":  "Animal Well",
+                      "year":  2024,
+                      "slug":  "animal_well",
+                      "filename":  "81_animal_well_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  82,
+                      "title":  "UFO 50",
+                      "year":  2024,
+                      "slug":  "ufo_50",
+                      "filename":  "82_ufo_50_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  83,
+                      "title":  "Stellar Blade",
+                      "year":  2024,
+                      "slug":  "stellar_blade",
+                      "filename":  "83_stellar_blade_2024.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-22T08:48:42.3995044+09:00"
+                  },
+                  {
+                      "id":  84,
+                      "title":  "Clair Obscur: Expedition 33",
+                      "year":  2025,
+                      "slug":  "clair_obscur",
+                      "filename":  "84_clair_obscur_2025.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-22T08:48:42.3995044+09:00"
+                  },
+                  {
+                      "id":  85,
+                      "title":  "Monster Hunter Wilds",
+                      "year":  2025,
+                      "slug":  "mh_wilds",
+                      "filename":  "85_mh_wilds_2025.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-22T08:48:42.3995044+09:00"
+                  },
+                  {
+                      "id":  86,
+                      "title":  "Slay the Spire",
+                      "year":  2019,
+                      "slug":  "slay_the_spire",
+                      "filename":  "86_slay_the_spire_2019.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-22T08:48:42.3995044+09:00"
+                  },
+                  {
+                      "id":  87,
+                      "title":  "Subnautica",
+                      "year":  2018,
+                      "slug":  "subnautica",
+                      "filename":  "87_subnautica_2018.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-22T08:48:42.3995044+09:00"
+                  },
+                  {
+                      "id":  88,
+                      "title":  "The Witness",
+                      "year":  2016,
+                      "slug":  "the_witness",
+                      "filename":  "88_the_witness_2016.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-22T08:48:42.3995044+09:00"
+                  },
+                  {
+                      "id":  89,
+                      "title":  "Genshin Impact",
+                      "year":  2020,
+                      "slug":  "genshin_impact",
+                      "filename":  "89_genshin_impact_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  90,
+                      "title":  "Yakuza 0",
+                      "year":  2017,
+                      "slug":  "yakuza_0",
+                      "filename":  "90_yakuza_0_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  91,
+                      "title":  "Detroit: Become Human",
+                      "year":  2018,
+                      "slug":  "detroit_become_human",
+                      "filename":  "91_detroit_become_human_2018.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  92,
+                      "title":  "Sifu",
+                      "year":  2022,
+                      "slug":  "sifu",
+                      "filename":  "92_sifu_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  93,
+                      "title":  "Honkai: Star Rail",
+                      "year":  2023,
+                      "slug":  "honkai_star_rail",
+                      "filename":  "93_honkai_star_rail_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  94,
+                      "title":  "Like a Dragon: Infinite Wealth",
+                      "year":  2024,
+                      "slug":  "infinite_wealth",
+                      "filename":  "94_infinite_wealth_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  95,
+                      "title":  "Tunic",
+                      "year":  2022,
+                      "slug":  "tunic",
+                      "filename":  "95_tunic_2022.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-22T09:17:24.7754827+09:00"
+                  },
+                  {
+                      "id":  96,
+                      "title":  "Half-Life: Alyx",
+                      "year":  2020,
+                      "slug":  "half_life_alyx",
+                      "filename":  "96_half_life_alyx_2020.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T06:22:09.1329406+09:00"
+                  },
+                  {
+                      "id":  97,
+                      "title":  "Microsoft Flight Simulator",
+                      "year":  2020,
+                      "slug":  "msfs_2020",
+                      "filename":  "97_msfs_2020.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T06:22:09.1349416+09:00"
+                  },
+                  {
+                      "id":  98,
+                      "title":  "Hitman 3 / World of Assassination",
+                      "year":  2021,
+                      "slug":  "hitman_3",
+                      "filename":  "98_hitman_3_2021.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T06:22:09.1369718+09:00"
+                  },
+                  {
+                      "id":  99,
+                      "title":  "Returnal",
+                      "year":  2021,
+                      "slug":  "returnal",
+                      "filename":  "99_returnal_2021.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T06:22:09.1394824+09:00"
+                  },
+                  {
+                      "id":  100,
+                      "title":  "Kingdom Come: Deliverance",
+                      "year":  2018,
+                      "slug":  "kcd",
+                      "filename":  "100_kcd_2018.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T06:22:09.1414824+09:00"
+                  },
+                  {
+                      "id":  101,
+                      "title":  "Frostpunk",
+                      "year":  2018,
+                      "slug":  "frostpunk",
+                      "filename":  "101_frostpunk_2018.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T06:22:09.1595688+09:00"
+                  },
+                  {
+                      "id":  102,
+                      "title":  "Pentiment",
+                      "year":  2022,
+                      "slug":  "pentiment",
+                      "filename":  "102_pentiment_2022.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-22T09:17:24.7754827+09:00"
+                  },
+                  {
+                      "id":  103,
+                      "title":  "Diablo IV",
+                      "year":  2023,
+                      "slug":  "diablo_iv",
+                      "filename":  "103_diablo_iv_2023.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T06:22:09.1625377+09:00"
+                  },
+                  {
+                      "id":  104,
+                      "title":  "Octopath Traveler II",
+                      "year":  2023,
+                      "slug":  "octopath_traveler_ii",
+                      "filename":  "104_octopath_traveler_ii_2023.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-20T06:22:09.1645379+09:00"
+                  },
+                  {
+                      "id":  105,
+                      "title":  "Manor Lords",
+                      "year":  2024,
+                      "slug":  "manor_lords",
+                      "filename":  "105_manor_lords_2024.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-22T09:17:24.7754827+09:00"
+                  },
+                  {
+                      "id":  106,
+                      "title":  "Super Mario Bros. Wonder",
+                      "year":  2023,
+                      "slug":  "mario_wonder",
+                      "filename":  "106_mario_wonder_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  107,
+                      "title":  "Metroid Dread",
+                      "year":  2021,
+                      "slug":  "metroid_dread",
+                      "filename":  "107_metroid_dread_2021.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  108,
+                      "title":  "Star Wars Jedi: Survivor",
+                      "year":  2023,
+                      "slug":  "jedi_survivor",
+                      "filename":  "108_jedi_survivor_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  109,
+                      "title":  "Armored Core VI: Fires of Rubicon",
+                      "year":  2023,
+                      "slug":  "armored_core_vi",
+                      "filename":  "109_armored_core_vi_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  110,
+                      "title":  "Ori and the Will of the Wisps",
+                      "year":  2020,
+                      "slug":  "ori_wotw",
+                      "filename":  "110_ori_wotw_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  111,
+                      "title":  "Deep Rock Galactic",
+                      "year":  2020,
+                      "slug":  "deep_rock_galactic",
+                      "filename":  "111_deep_rock_galactic_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  112,
+                      "title":  "Lethal Company",
+                      "year":  2023,
+                      "slug":  "lethal_company",
+                      "filename":  "112_lethal_company_2023.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-22T00:00:00.0000000+09:00"
+                  },
+                  {
+                      "id":  113,
+                      "title":  "Phasmophobia",
+                      "year":  2020,
+                      "slug":  "phasmophobia",
+                      "filename":  "113_phasmophobia_2020.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-22T00:00:00.0000000+09:00"
+                  },
+                  {
+                      "id":  114,
+                      "title":  "RimWorld",
+                      "year":  2018,
+                      "slug":  "rimworld",
+                      "filename":  "114_rimworld_2018.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-22T00:00:00.0000000+09:00"
+                  },
+                  {
+                      "id":  115,
+                      "title":  "Crusader Kings III",
+                      "year":  2020,
+                      "slug":  "ck3",
+                      "filename":  "115_ck3_2020.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-22T00:00:00.0000000+09:00"
+                  },
+                  {
+                      "id":  116,
+                      "title":  "Street Fighter 6",
+                      "year":  2023,
+                      "slug":  "sf6",
+                      "filename":  "116_sf6_2023.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-22T00:00:00.0000000+09:00"
+                  },
+                  {
+                      "id":  117,
+                      "title":  "Tekken 8",
+                      "year":  2024,
+                      "slug":  "tekken_8",
+                      "filename":  "117_tekken_8_2024.md",
+                      "status":  "completed",
+                      "completed_at":  "2026-05-22T00:00:00.0000000+09:00"
+                  },
+                  {
+                      "id":  118,
+                      "title":  "Hellblade: Senua\u0027s Sacrifice",
+                      "year":  2017,
+                      "slug":  "hellblade",
+                      "filename":  "118_hellblade_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  119,
+                      "title":  "A Plague Tale: Requiem",
+                      "year":  2022,
+                      "slug":  "plague_tale_requiem",
+                      "filename":  "119_plague_tale_requiem_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  120,
+                      "title":  "Cult of the Lamb",
+                      "year":  2022,
+                      "slug":  "cult_of_the_lamb",
+                      "filename":  "120_cult_of_the_lamb_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  121,
+                      "title":  "Risk of Rain 2",
+                      "year":  2020,
+                      "slug":  "risk_of_rain_2",
+                      "filename":  "121_risk_of_rain_2_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  122,
+                      "title":  "Sea of Thieves",
+                      "year":  2018,
+                      "slug":  "sea_of_thieves",
+                      "filename":  "122_sea_of_thieves_2018.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  123,
+                      "title":  "Nioh 2",
+                      "year":  2020,
+                      "slug":  "nioh_2",
+                      "filename":  "123_nioh_2_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  124,
+                      "title":  "Xenoblade Chronicles 3",
+                      "year":  2022,
+                      "slug":  "xenoblade_3",
+                      "filename":  "124_xenoblade_3_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  125,
+                      "title":  "Dredge",
+                      "year":  2023,
+                      "slug":  "dredge",
+                      "filename":  "125_dredge_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  126,
+                      "title":  "Devil May Cry 5",
+                      "year":  2019,
+                      "slug":  "dmc5",
+                      "filename":  "126_dmc5_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  127,
+                      "title":  "Control",
+                      "year":  2019,
+                      "slug":  "control",
+                      "filename":  "127_control_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  128,
+                      "title":  "Fire Emblem: Three Houses",
+                      "year":  2019,
+                      "slug":  "fe_three_houses",
+                      "filename":  "128_fe_three_houses_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  129,
+                      "title":  "Halo Infinite",
+                      "year":  2021,
+                      "slug":  "halo_infinite",
+                      "filename":  "129_halo_infinite_2021.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  130,
+                      "title":  "Final Fantasy XVI",
+                      "year":  2023,
+                      "slug":  "ff16",
+                      "filename":  "130_ff16_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  131,
+                      "title":  "Silent Hill 2 (Remake)",
+                      "year":  2024,
+                      "slug":  "silent_hill_2_remake",
+                      "filename":  "131_silent_hill_2_remake_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  132,
+                      "title":  "Warhammer 40,000: Space Marine 2",
+                      "year":  2024,
+                      "slug":  "space_marine_2",
+                      "filename":  "132_space_marine_2_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  133,
+                      "title":  "Indiana Jones and the Great Circle",
+                      "year":  2024,
+                      "slug":  "indiana_jones_great_circle",
+                      "filename":  "133_indiana_jones_great_circle_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  134,
+                      "title":  "Split Fiction",
+                      "year":  2025,
+                      "slug":  "split_fiction",
+                      "filename":  "134_split_fiction_2025.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  135,
+                      "title":  "Kingdom Come: Deliverance II",
+                      "year":  2025,
+                      "slug":  "kcd2",
+                      "filename":  "135_kcd2_2025.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  136,
+                      "title":  "Dishonored 2",
+                      "year":  2016,
+                      "slug":  "dishonored_2",
+                      "filename":  "136_dishonored_2_2016.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  137,
+                      "title":  "Forza Horizon 4",
+                      "year":  2018,
+                      "slug":  "forza_horizon_4",
+                      "filename":  "137_forza_horizon_4_2018.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  138,
+                      "title":  "Demon\u0027s Souls",
+                      "year":  2020,
+                      "slug":  "demons_souls",
+                      "filename":  "138_demons_souls_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  139,
+                      "title":  "Ratchet \u0026 Clank: Rift Apart",
+                      "year":  2021,
+                      "slug":  "ratchet_clank_rift_apart",
+                      "filename":  "139_ratchet_clank_rift_apart_2021.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  140,
+                      "title":  "Dragon Quest XI",
+                      "year":  2018,
+                      "slug":  "dragon_quest_xi",
+                      "filename":  "140_dragon_quest_xi_2018.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  141,
+                      "title":  "Guilty Gear Strive",
+                      "year":  2021,
+                      "slug":  "guilty_gear_strive",
+                      "filename":  "141_guilty_gear_strive_2021.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  142,
+                      "title":  "Super Smash Bros. Ultimate",
+                      "year":  2018,
+                      "slug":  "smash_bros_ultimate",
+                      "filename":  "142_smash_bros_ultimate_2018.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  143,
+                      "title":  "Persona 3 Reload",
+                      "year":  2024,
+                      "slug":  "persona_3_reload",
+                      "filename":  "143_persona_3_reload_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  144,
+                      "title":  "Prince of Persia: The Lost Crown",
+                      "year":  2024,
+                      "slug":  "prince_of_persia_lost_crown",
+                      "filename":  "144_prince_of_persia_lost_crown_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  145,
+                      "title":  "Citizen Sleeper",
+                      "year":  2022,
+                      "slug":  "citizen_sleeper",
+                      "filename":  "145_citizen_sleeper_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  146,
+                      "title":  "Battlefield 1",
+                      "year":  2016,
+                      "slug":  "battlefield_1",
+                      "filename":  "146_battlefield_1_2016.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  147,
+                      "title":  "The Outer Worlds",
+                      "year":  2019,
+                      "slug":  "the_outer_worlds",
+                      "filename":  "147_the_outer_worlds_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  148,
+                      "title":  "Yakuza: Like a Dragon",
+                      "year":  2020,
+                      "slug":  "yakuza_like_a_dragon",
+                      "filename":  "148_yakuza_like_a_dragon_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  149,
+                      "title":  "Gears 5",
+                      "year":  2019,
+                      "slug":  "gears_5",
+                      "filename":  "149_gears_5_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  150,
+                      "title":  "Spiritfarer",
+                      "year":  2020,
+                      "slug":  "spiritfarer",
+                      "filename":  "150_spiritfarer_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  151,
+                      "title":  "Death\u0027s Door",
+                      "year":  2021,
+                      "slug":  "deaths_door",
+                      "filename":  "151_deaths_door_2021.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  152,
+                      "title":  "Neon White",
+                      "year":  2022,
+                      "slug":  "neon_white",
+                      "filename":  "152_neon_white_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  153,
+                      "title":  "Tales of Arise",
+                      "year":  2021,
+                      "slug":  "tales_of_arise",
+                      "filename":  "153_tales_of_arise_2021.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  154,
+                      "title":  "The Talos Principle 2",
+                      "year":  2023,
+                      "slug":  "the_talos_principle_2",
+                      "filename":  "154_the_talos_principle_2_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  155,
+                      "title":  "Pacific Drive",
+                      "year":  2024,
+                      "slug":  "pacific_drive",
+                      "filename":  "155_pacific_drive_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  156,
+                      "title":  "Dragon\u0027s Dogma 2",
+                      "year":  2024,
+                      "slug":  "dragons_dogma_2",
+                      "filename":  "156_dragons_dogma_2_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  157,
+                      "title":  "Senua\u0027s Saga: Hellblade II",
+                      "year":  2024,
+                      "slug":  "hellblade_2",
+                      "filename":  "157_hellblade_2_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  158,
+                      "title":  "Unicorn Overlord",
+                      "year":  2024,
+                      "slug":  "unicorn_overlord",
+                      "filename":  "158_unicorn_overlord_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  159,
+                      "title":  "Blue Prince",
+                      "year":  2025,
+                      "slug":  "blue_prince",
+                      "filename":  "159_blue_prince_2025.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  160,
+                      "title":  "Nine Sols",
+                      "year":  2024,
+                      "slug":  "nine_sols",
+                      "filename":  "160_nine_sols_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  161,
+                      "title":  "Death Stranding 2: On the Beach",
+                      "year":  2025,
+                      "slug":  "death_stranding_2",
+                      "filename":  "161_death_stranding_2_2025.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  162,
+                      "title":  "The Alters",
+                      "year":  2025,
+                      "slug":  "the_alters",
+                      "filename":  "162_the_alters_2025.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  163,
+                      "title":  "The First Berserker: Khazan",
+                      "year":  2025,
+                      "slug":  "khazan",
+                      "filename":  "163_khazan_2025.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  164,
+                      "title":  "Avowed",
+                      "year":  2025,
+                      "slug":  "avowed",
+                      "filename":  "164_avowed_2025.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  165,
+                      "title":  "Mouthwashing",
+                      "year":  2024,
+                      "slug":  "mouthwashing",
+                      "filename":  "165_mouthwashing_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  166,
+                      "title":  "Wolfenstein II: The New Colossus",
+                      "year":  2017,
+                      "slug":  "wolfenstein_2",
+                      "filename":  "166_wolfenstein_2_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  167,
+                      "title":  "Total War: Three Kingdoms",
+                      "year":  2019,
+                      "slug":  "total_war_three_kingdoms",
+                      "filename":  "167_total_war_three_kingdoms_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  168,
+                      "title":  "AI: The Somnium Files",
+                      "year":  2019,
+                      "slug":  "ai_somnium_files",
+                      "filename":  "168_ai_somnium_files_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  169,
+                      "title":  "13 Sentinels: Aegis Rim",
+                      "year":  2020,
+                      "slug":  "13_sentinels",
+                      "filename":  "169_13_sentinels_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  170,
+                      "title":  "Crash Bandicoot 4: It\u0027s About Time",
+                      "year":  2020,
+                      "slug":  "crash_bandicoot_4",
+                      "filename":  "170_crash_bandicoot_4_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  171,
+                      "title":  "Marvel\u0027s Guardians of the Galaxy",
+                      "year":  2021,
+                      "slug":  "guardians_of_the_galaxy",
+                      "filename":  "171_guardians_of_the_galaxy_2021.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  172,
+                      "title":  "Gran Turismo 7",
+                      "year":  2022,
+                      "slug":  "gran_turismo_7",
+                      "filename":  "172_gran_turismo_7_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  173,
+                      "title":  "Kirby and the Forgotten Land",
+                      "year":  2022,
+                      "slug":  "kirby_forgotten_land",
+                      "filename":  "173_kirby_forgotten_land_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  174,
+                      "title":  "Pikmin 4",
+                      "year":  2023,
+                      "slug":  "pikmin_4",
+                      "filename":  "174_pikmin_4_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  175,
+                      "title":  "Satisfactory",
+                      "year":  2024,
+                      "slug":  "satisfactory",
+                      "filename":  "175_satisfactory_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  176,
+                      "title":  "Final Fantasy XV",
+                      "year":  2016,
+                      "slug":  "final_fantasy_xv",
+                      "filename":  "176_final_fantasy_xv_2016.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  177,
+                      "title":  "Ace Combat 7: Skies Unknown",
+                      "year":  2019,
+                      "slug":  "ace_combat_7",
+                      "filename":  "177_ace_combat_7_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  178,
+                      "title":  "The Forgotten City",
+                      "year":  2021,
+                      "slug":  "the_forgotten_city",
+                      "filename":  "178_the_forgotten_city_2021.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  179,
+                      "title":  "Immortality",
+                      "year":  2022,
+                      "slug":  "immortality",
+                      "filename":  "179_immortality_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  180,
+                      "title":  "Chained Echoes",
+                      "year":  2022,
+                      "slug":  "chained_echoes",
+                      "filename":  "180_chained_echoes_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  181,
+                      "title":  "Bomb Rush Cyberfunk",
+                      "year":  2023,
+                      "slug":  "bomb_rush_cyberfunk",
+                      "filename":  "181_bomb_rush_cyberfunk_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  182,
+                      "title":  "Remnant II",
+                      "year":  2023,
+                      "slug":  "remnant_2",
+                      "filename":  "182_remnant_2_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  183,
+                      "title":  "Granblue Fantasy: Relink",
+                      "year":  2024,
+                      "slug":  "granblue_fantasy_relink",
+                      "filename":  "183_granblue_fantasy_relink_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  184,
+                      "title":  "Frostpunk 2",
+                      "year":  2024,
+                      "slug":  "frostpunk_2",
+                      "filename":  "184_frostpunk_2_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  185,
+                      "title":  "Marvel Rivals",
+                      "year":  2024,
+                      "slug":  "marvel_rivals",
+                      "filename":  "185_marvel_rivals_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  186,
+                      "title":  "Borderlands 3",
+                      "year":  2019,
+                      "slug":  "borderlands_3",
+                      "filename":  "186_borderlands_3_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  187,
+                      "title":  "Mortal Kombat 11",
+                      "year":  2019,
+                      "slug":  "mortal_kombat_11",
+                      "filename":  "187_mortal_kombat_11_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  188,
+                      "title":  "Gris",
+                      "year":  2018,
+                      "slug":  "gris",
+                      "filename":  "188_gris_2018.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  189,
+                      "title":  "Two Point Hospital",
+                      "year":  2018,
+                      "slug":  "two_point_hospital",
+                      "filename":  "189_two_point_hospital_2018.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  190,
+                      "title":  "Tetris Effect",
+                      "year":  2018,
+                      "slug":  "tetris_effect",
+                      "filename":  "190_tetris_effect_2018.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  191,
+                      "title":  "Triangle Strategy",
+                      "year":  2022,
+                      "slug":  "triangle_strategy",
+                      "filename":  "191_triangle_strategy_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  192,
+                      "title":  "Wo Long: Fallen Dynasty",
+                      "year":  2023,
+                      "slug":  "wo_long_fallen_dynasty",
+                      "filename":  "192_wo_long_fallen_dynasty_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  193,
+                      "title":  "Chants of Sennaar",
+                      "year":  2023,
+                      "slug":  "chants_of_sennaar",
+                      "filename":  "193_chants_of_sennaar_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  194,
+                      "title":  "The Stanley Parable: Ultra Deluxe",
+                      "year":  2022,
+                      "slug":  "stanley_parable_ultra_deluxe",
+                      "filename":  "194_stanley_parable_ultra_deluxe_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  195,
+                      "title":  "The Case of the Golden Idol",
+                      "year":  2022,
+                      "slug":  "the_case_of_the_golden_idol",
+                      "filename":  "195_the_case_of_the_golden_idol_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  196,
+                      "title":  "Assassin\u0027s Creed Odyssey",
+                      "year":  2018,
+                      "slug":  "ac_odyssey",
+                      "filename":  "196_ac_odyssey_2018.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  197,
+                      "title":  "Monster Hunter Rise",
+                      "year":  2021,
+                      "slug":  "mh_rise",
+                      "filename":  "197_mh_rise_2021.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  198,
+                      "title":  "Dragon Ball FighterZ",
+                      "year":  2018,
+                      "slug":  "dragon_ball_fighterz",
+                      "filename":  "198_dragon_ball_fighterz_2018.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  199,
+                      "title":  "Age of Empires IV",
+                      "year":  2021,
+                      "slug":  "age_of_empires_iv",
+                      "filename":  "199_age_of_empires_iv_2021.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  200,
+                      "title":  "Pokémon Legends: Arceus",
+                      "year":  2022,
+                      "slug":  "pokemon_legends_arceus",
+                      "filename":  "200_pokemon_legends_arceus_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  201,
+                      "title":  "Anno 1800",
+                      "year":  2019,
+                      "slug":  "anno_1800",
+                      "filename":  "201_anno_1800_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  202,
+                      "title":  "V Rising",
+                      "year":  2024,
+                      "slug":  "v_rising",
+                      "filename":  "202_v_rising_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  203,
+                      "title":  "Bayonetta 3",
+                      "year":  2022,
+                      "slug":  "bayonetta_3",
+                      "filename":  "203_bayonetta_3_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  204,
+                      "title":  "Atomic Heart",
+                      "year":  2023,
+                      "slug":  "atomic_heart",
+                      "filename":  "204_atomic_heart_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  205,
+                      "title":  "The Evil Within 2",
+                      "year":  2017,
+                      "slug":  "evil_within_2",
+                      "filename":  "205_evil_within_2_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  206,
+                      "title":  "Fortnite",
+                      "year":  2017,
+                      "slug":  "fortnite",
+                      "filename":  "206_fortnite_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  207,
+                      "title":  "Star Wars Jedi: Fallen Order",
+                      "year":  2019,
+                      "slug":  "star_wars_jedi_fallen_order",
+                      "filename":  "207_star_wars_jedi_fallen_order_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  208,
+                      "title":  "Dead Space (Remake)",
+                      "year":  2023,
+                      "slug":  "dead_space_remake",
+                      "filename":  "208_dead_space_remake_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  209,
+                      "title":  "Xenoblade Chronicles 2",
+                      "year":  2017,
+                      "slug":  "xenoblade_chronicles_2",
+                      "filename":  "209_xenoblade_chronicles_2_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  210,
+                      "title":  "Mario Kart 8 Deluxe",
+                      "year":  2017,
+                      "slug":  "mario_kart_8_deluxe",
+                      "filename":  "210_mario_kart_8_deluxe_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  211,
+                      "title":  "Final Fantasy XIV: Endwalker",
+                      "year":  2021,
+                      "slug":  "ffxiv_endwalker",
+                      "filename":  "211_ffxiv_endwalker_2021.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  212,
+                      "title":  "Grounded",
+                      "year":  2022,
+                      "slug":  "grounded",
+                      "filename":  "212_grounded_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  213,
+                      "title":  "Dead by Daylight",
+                      "year":  2016,
+                      "slug":  "dead_by_daylight",
+                      "filename":  "213_dead_by_daylight_2016.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  214,
+                      "title":  "Astral Chain",
+                      "year":  2019,
+                      "slug":  "astral_chain",
+                      "filename":  "214_astral_chain_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  215,
+                      "title":  "Still Wakes the Deep",
+                      "year":  2024,
+                      "slug":  "still_wakes_the_deep",
+                      "filename":  "215_still_wakes_the_deep_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  216,
+                      "title":  "Starfield",
+                      "year":  2023,
+                      "slug":  "starfield",
+                      "filename":  "216_starfield_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  217,
+                      "title":  "Marvel\u0027s Spider-Man: Miles Morales",
+                      "year":  2020,
+                      "slug":  "spiderman_miles_morales",
+                      "filename":  "217_spiderman_miles_morales_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  218,
+                      "title":  "Prey",
+                      "year":  2017,
+                      "slug":  "prey",
+                      "filename":  "218_prey_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  219,
+                      "title":  "Octopath Traveler",
+                      "year":  2018,
+                      "slug":  "octopath_traveler",
+                      "filename":  "219_octopath_traveler_2018.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  220,
+                      "title":  "Hyper Light Drifter",
+                      "year":  2016,
+                      "slug":  "hyper_light_drifter",
+                      "filename":  "220_hyper_light_drifter_2016.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  221,
+                      "title":  "Shadow Tactics: Blades of the Shogun",
+                      "year":  2016,
+                      "slug":  "shadow_tactics",
+                      "filename":  "221_shadow_tactics_2016.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  222,
+                      "title":  "Teardown",
+                      "year":  2022,
+                      "slug":  "teardown",
+                      "filename":  "222_teardown_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  223,
+                      "title":  "Sons of the Forest",
+                      "year":  2024,
+                      "slug":  "sons_of_the_forest",
+                      "filename":  "223_sons_of_the_forest_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  224,
+                      "title":  "Doki Doki Literature Club",
+                      "year":  2017,
+                      "slug":  "doki_doki_literature_club",
+                      "filename":  "224_doki_doki_literature_club_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  225,
+                      "title":  "Wildermyth",
+                      "year":  2021,
+                      "slug":  "wildermyth",
+                      "filename":  "225_wildermyth_2021.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  226,
+                      "title":  "Factorio",
+                      "year":  2020,
+                      "slug":  "factorio",
+                      "filename":  "226_factorio_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  227,
+                      "title":  "Wasteland 3",
+                      "year":  2020,
+                      "slug":  "wasteland_3",
+                      "filename":  "227_wasteland_3_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  228,
+                      "title":  "Streets of Rage 4",
+                      "year":  2020,
+                      "slug":  "streets_of_rage_4",
+                      "filename":  "228_streets_of_rage_4_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  229,
+                      "title":  "Skul: The Hero Slayer",
+                      "year":  2021,
+                      "slug":  "skul_the_hero_slayer",
+                      "filename":  "229_skul_the_hero_slayer_2021.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  230,
+                      "title":  "Kena: Bridge of Spirits",
+                      "year":  2021,
+                      "slug":  "kena_bridge_of_spirits",
+                      "filename":  "230_kena_bridge_of_spirits_2021.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  231,
+                      "title":  "Sniper Elite 5",
+                      "year":  2022,
+                      "slug":  "sniper_elite_5",
+                      "filename":  "231_sniper_elite_5_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  232,
+                      "title":  "Blasphemous 2",
+                      "year":  2023,
+                      "slug":  "blasphemous_2",
+                      "filename":  "232_blasphemous_2_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  233,
+                      "title":  "The Finals",
+                      "year":  2023,
+                      "slug":  "the_finals",
+                      "filename":  "233_the_finals_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  234,
+                      "title":  "Judgment",
+                      "year":  2019,
+                      "slug":  "judgment",
+                      "filename":  "234_judgment_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  235,
+                      "title":  "The Messenger",
+                      "year":  2018,
+                      "slug":  "the_messenger",
+                      "filename":  "235_the_messenger_2018.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  236,
+                      "title":  "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+                      "year":  2024,
+                      "slug":  "stalker_2",
+                      "filename":  "236_stalker_2_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  237,
+                      "title":  "Warhammer 40,000: Darktide",
+                      "year":  2022,
+                      "slug":  "warhammer_40k_darktide",
+                      "filename":  "237_warhammer_40k_darktide_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  238,
+                      "title":  "Last Epoch",
+                      "year":  2024,
+                      "slug":  "last_epoch",
+                      "filename":  "238_last_epoch_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  239,
+                      "title":  "1000xRESIST",
+                      "year":  2024,
+                      "slug":  "1000xresist",
+                      "filename":  "239_1000xresist_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  240,
+                      "title":  "Tactical Breach Wizards",
+                      "year":  2024,
+                      "slug":  "tactical_breach_wizards",
+                      "filename":  "240_tactical_breach_wizards_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  241,
+                      "title":  "Mass Effect Legendary Edition",
+                      "year":  2021,
+                      "slug":  "mass_effect_legendary_edition",
+                      "filename":  "241_mass_effect_legendary_edition_2021.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  242,
+                      "title":  "Crow Country",
+                      "year":  2024,
+                      "slug":  "crow_country",
+                      "filename":  "242_crow_country_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  243,
+                      "title":  "Caves of Qud",
+                      "year":  2024,
+                      "slug":  "caves_of_qud",
+                      "filename":  "243_caves_of_qud_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  244,
+                      "title":  "Brotato",
+                      "year":  2023,
+                      "slug":  "brotato",
+                      "filename":  "244_brotato_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  245,
+                      "title":  "Eiyuden Chronicle: Hundred Heroes",
+                      "year":  2024,
+                      "slug":  "eiyuden_chronicle",
+                      "filename":  "245_eiyuden_chronicle_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  246,
+                      "title":  "Kingdom Hearts III",
+                      "year":  2019,
+                      "slug":  "kingdom_hearts_iii",
+                      "filename":  "246_kingdom_hearts_iii_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  247,
+                      "title":  "Assassin\u0027s Creed Origins",
+                      "year":  2017,
+                      "slug":  "ac_origins",
+                      "filename":  "247_ac_origins_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  248,
+                      "title":  "Pillars of Eternity II: Deadfire",
+                      "year":  2018,
+                      "slug":  "pillars_of_eternity_ii",
+                      "filename":  "248_pillars_of_eternity_ii_2018.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  249,
+                      "title":  "Pathfinder: Wrath of the Righteous",
+                      "year":  2021,
+                      "slug":  "pathfinder_wotr",
+                      "filename":  "249_pathfinder_wotr_2021.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  250,
+                      "title":  "Sonic Mania",
+                      "year":  2017,
+                      "slug":  "sonic_mania",
+                      "filename":  "250_sonic_mania_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  251,
+                      "title":  "Total War: Warhammer II",
+                      "year":  2017,
+                      "slug":  "total_war_warhammer_ii",
+                      "filename":  "251_total_war_warhammer_ii_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  252,
+                      "title":  "Darkest Dungeon",
+                      "year":  2016,
+                      "slug":  "darkest_dungeon",
+                      "filename":  "252_darkest_dungeon_2016.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  253,
+                      "title":  "Spelunky 2",
+                      "year":  2020,
+                      "slug":  "spelunky_2",
+                      "filename":  "253_spelunky_2_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  254,
+                      "title":  "NieR Replicant ver.1.22474487139...",
+                      "year":  2021,
+                      "slug":  "nier_replicant",
+                      "filename":  "254_nier_replicant_2021.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  255,
+                      "title":  "Yakuza 6: The Song of Life",
+                      "year":  2018,
+                      "slug":  "yakuza_6",
+                      "filename":  "255_yakuza_6_2018.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  256,
+                      "title":  "Assassin\u0027s Creed Valhalla",
+                      "year":  2020,
+                      "slug":  "ac_valhalla",
+                      "filename":  "256_ac_valhalla_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  257,
+                      "title":  "Call of Duty: Modern Warfare",
+                      "year":  2019,
+                      "slug":  "cod_modern_warfare",
+                      "filename":  "257_cod_modern_warfare_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  258,
+                      "title":  "Destiny 2",
+                      "year":  2017,
+                      "slug":  "destiny_2",
+                      "filename":  "258_destiny_2_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  259,
+                      "title":  "Shin Megami Tensei V",
+                      "year":  2021,
+                      "slug":  "shin_megami_tensei_v",
+                      "filename":  "259_shin_megami_tensei_v_2021.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  260,
+                      "title":  "Tales of Berseria",
+                      "year":  2016,
+                      "slug":  "tales_of_berseria",
+                      "filename":  "260_tales_of_berseria_2016.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  261,
+                      "title":  "Mortal Kombat 1",
+                      "year":  2023,
+                      "slug":  "mortal_kombat_1",
+                      "filename":  "261_mortal_kombat_1_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  262,
+                      "title":  "Ghostrunner",
+                      "year":  2020,
+                      "slug":  "ghostrunner",
+                      "filename":  "262_ghostrunner_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  263,
+                      "title":  "Katana Zero",
+                      "year":  2019,
+                      "slug":  "katana_zero",
+                      "filename":  "263_katana_zero_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  264,
+                      "title":  "Road 96",
+                      "year":  2021,
+                      "slug":  "road_96",
+                      "filename":  "264_road_96_2021.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  265,
+                      "title":  "Eastward",
+                      "year":  2021,
+                      "slug":  "eastward",
+                      "filename":  "265_eastward_2021.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  266,
+                      "title":  "Persona 5 Royal",
+                      "year":  2020,
+                      "slug":  "persona_5_royal",
+                      "filename":  "266_persona_5_royal_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  267,
+                      "title":  "Stellaris",
+                      "year":  2016,
+                      "slug":  "stellaris",
+                      "filename":  "267_stellaris_2016.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  268,
+                      "title":  "Total War: Warhammer III",
+                      "year":  2022,
+                      "slug":  "total_war_warhammer_iii",
+                      "filename":  "268_total_war_warhammer_iii_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  269,
+                      "title":  "Cities: Skylines II",
+                      "year":  2023,
+                      "slug":  "cities_skylines_ii",
+                      "filename":  "269_cities_skylines_ii_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  270,
+                      "title":  "Little Nightmares II",
+                      "year":  2021,
+                      "slug":  "little_nightmares_ii",
+                      "filename":  "270_little_nightmares_ii_2021.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  271,
+                      "title":  "Shadow of the Tomb Raider",
+                      "year":  2018,
+                      "slug":  "shadow_of_the_tomb_raider",
+                      "filename":  "271_shadow_of_the_tomb_raider_2018.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  272,
+                      "title":  "Dyson Sphere Program",
+                      "year":  2021,
+                      "slug":  "dyson_sphere_program",
+                      "filename":  "272_dyson_sphere_program_2021.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  273,
+                      "title":  "Naraka: Bladepoint",
+                      "year":  2021,
+                      "slug":  "naraka_bladepoint",
+                      "filename":  "273_naraka_bladepoint_2021.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  274,
+                      "title":  "Sonic Frontiers",
+                      "year":  2022,
+                      "slug":  "sonic_frontiers",
+                      "filename":  "274_sonic_frontiers_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  275,
+                      "title":  "Ender Lilies: Quietus of the Knights",
+                      "year":  2021,
+                      "slug":  "ender_lilies",
+                      "filename":  "275_ender_lilies_2021.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  276,
+                      "title":  "Sid Meier\u0027s Civilization VI",
+                      "year":  2016,
+                      "slug":  "civilization_vi",
+                      "filename":  "276_civilization_vi_2016.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  277,
+                      "title":  "XCOM 2",
+                      "year":  2016,
+                      "slug":  "xcom_2",
+                      "filename":  "277_xcom_2_2016.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  278,
+                      "title":  "Nioh",
+                      "year":  2017,
+                      "slug":  "nioh",
+                      "filename":  "278_nioh_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  279,
+                      "title":  "Night in the Woods",
+                      "year":  2017,
+                      "slug":  "night_in_the_woods",
+                      "filename":  "279_night_in_the_woods_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  280,
+                      "title":  "Pyre",
+                      "year":  2017,
+                      "slug":  "pyre",
+                      "filename":  "280_pyre_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  281,
+                      "title":  "Gravity Rush 2",
+                      "year":  2017,
+                      "slug":  "gravity_rush_2",
+                      "filename":  "281_gravity_rush_2_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  282,
+                      "title":  "Baba Is You",
+                      "year":  2019,
+                      "slug":  "baba_is_you",
+                      "filename":  "282_baba_is_you_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  283,
+                      "title":  "Unpacking",
+                      "year":  2021,
+                      "slug":  "unpacking",
+                      "filename":  "283_unpacking_2021.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  284,
+                      "title":  "Against the Storm",
+                      "year":  2023,
+                      "slug":  "against_the_storm",
+                      "filename":  "284_against_the_storm_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  285,
+                      "title":  "Lorelei and the Laser Eyes",
+                      "year":  2024,
+                      "slug":  "lorelei_and_the_laser_eyes",
+                      "filename":  "285_lorelei_and_the_laser_eyes_2024.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  286,
+                      "title":  "Yakuza Kiwami 2",
+                      "year":  2018,
+                      "slug":  "yakuza_kiwami_2",
+                      "filename":  "286_yakuza_kiwami_2_2018.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  287,
+                      "title":  "Trials of Mana",
+                      "year":  2020,
+                      "slug":  "trials_of_mana",
+                      "filename":  "287_trials_of_mana_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  288,
+                      "title":  "The Legend of Heroes: Trails of Cold Steel III",
+                      "year":  2019,
+                      "slug":  "trails_of_cold_steel_3",
+                      "filename":  "288_trails_of_cold_steel_3_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  289,
+                      "title":  "Bugsnax",
+                      "year":  2020,
+                      "slug":  "bugsnax",
+                      "filename":  "289_bugsnax_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  290,
+                      "title":  "Wandersong",
+                      "year":  2018,
+                      "slug":  "wandersong",
+                      "filename":  "290_wandersong_2018.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  291,
+                      "title":  "Hardspace: Shipbreaker",
+                      "year":  2022,
+                      "slug":  "hardspace_shipbreaker",
+                      "filename":  "291_hardspace_shipbreaker_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  292,
+                      "title":  "A Short Hike",
+                      "year":  2019,
+                      "slug":  "a_short_hike",
+                      "filename":  "292_a_short_hike_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  293,
+                      "title":  "Slay the Princess",
+                      "year":  2023,
+                      "slug":  "slay_the_princess",
+                      "filename":  "293_slay_the_princess_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  294,
+                      "title":  "Sackboy: A Big Adventure",
+                      "year":  2020,
+                      "slug":  "sackboy_a_big_adventure",
+                      "filename":  "294_sackboy_a_big_adventure_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  295,
+                      "title":  "Tinykin",
+                      "year":  2022,
+                      "slug":  "tinykin",
+                      "filename":  "295_tinykin_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  296,
+                      "title":  "Metro Exodus",
+                      "year":  2019,
+                      "slug":  "metro_exodus",
+                      "filename":  "296_metro_exodus_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  297,
+                      "title":  "Hunt: Showdown",
+                      "year":  2019,
+                      "slug":  "hunt_showdown",
+                      "filename":  "297_hunt_showdown_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  298,
+                      "title":  "Signalis",
+                      "year":  2022,
+                      "slug":  "signalis",
+                      "filename":  "298_signalis_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  299,
+                      "title":  "Monster Train",
+                      "year":  2020,
+                      "slug":  "monster_train",
+                      "filename":  "299_monster_train_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  300,
+                      "title":  "Marvel\u0027s Midnight Suns",
+                      "year":  2022,
+                      "slug":  "marvels_midnight_suns",
+                      "filename":  "300_marvels_midnight_suns_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  301,
+                      "title":  "Rogue Legacy 2",
+                      "year":  2022,
+                      "slug":  "rogue_legacy_2",
+                      "filename":  "301_rogue_legacy_2_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  302,
+                      "title":  "Tony Hawk\u0027s Pro Skater 1 + 2",
+                      "year":  2020,
+                      "slug":  "thps_1_2",
+                      "filename":  "302_thps_1_2_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  303,
+                      "title":  "Dwarf Fortress",
+                      "year":  2022,
+                      "slug":  "dwarf_fortress",
+                      "filename":  "303_dwarf_fortress_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  304,
+                      "title":  "Planet Zoo",
+                      "year":  2019,
+                      "slug":  "planet_zoo",
+                      "filename":  "304_planet_zoo_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  305,
+                      "title":  "Live A Live",
+                      "year":  2022,
+                      "slug":  "live_a_live",
+                      "filename":  "305_live_a_live_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  306,
+                      "title":  "Days Gone",
+                      "year":  2019,
+                      "slug":  "days_gone",
+                      "filename":  "306_days_gone_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  307,
+                      "title":  "Forza Motorsport",
+                      "year":  2023,
+                      "slug":  "forza_motorsport",
+                      "filename":  "307_forza_motorsport_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  308,
+                      "title":  "Desperados III",
+                      "year":  2020,
+                      "slug":  "desperados_iii",
+                      "filename":  "308_desperados_iii_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  309,
+                      "title":  "Age of Empires II: Definitive Edition",
+                      "year":  2019,
+                      "slug":  "age_of_empires_ii_de",
+                      "filename":  "309_age_of_empires_ii_de_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  310,
+                      "title":  "Luigi\u0027s Mansion 3",
+                      "year":  2019,
+                      "slug":  "luigis_mansion_3",
+                      "filename":  "310_luigis_mansion_3_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  311,
+                      "title":  "Pokémon Sword and Shield",
+                      "year":  2019,
+                      "slug":  "pokemon_sword_shield",
+                      "filename":  "311_pokemon_sword_shield_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  312,
+                      "title":  "Danganronpa V3: Killing Harmony",
+                      "year":  2017,
+                      "slug":  "danganronpa_v3",
+                      "filename":  "312_danganronpa_v3_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  313,
+                      "title":  "The Great Ace Attorney Chronicles",
+                      "year":  2021,
+                      "slug":  "the_great_ace_attorney_chronicles",
+                      "filename":  "313_the_great_ace_attorney_chronicles_2021.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  314,
+                      "title":  "A Hat in Time",
+                      "year":  2017,
+                      "slug":  "a_hat_in_time",
+                      "filename":  "314_a_hat_in_time_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  315,
+                      "title":  "Mount \u0026 Blade II: Bannerlord",
+                      "year":  2022,
+                      "slug":  "bannerlord",
+                      "filename":  "315_bannerlord_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  316,
+                      "title":  "Resident Evil 3 Remake",
+                      "year":  2020,
+                      "slug":  "resident_evil_3_remake",
+                      "filename":  "316_resident_evil_3_remake_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  317,
+                      "title":  "Mafia: Definitive Edition",
+                      "year":  2020,
+                      "slug":  "mafia_definitive_edition",
+                      "filename":  "317_mafia_definitive_edition_2020.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  318,
+                      "title":  "Crash Bandicoot N. Sane Trilogy",
+                      "year":  2017,
+                      "slug":  "crash_bandicoot_n_sane_trilogy",
+                      "filename":  "318_crash_bandicoot_n_sane_trilogy_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  319,
+                      "title":  "Yakuza Kiwami",
+                      "year":  2017,
+                      "slug":  "yakuza_kiwami",
+                      "filename":  "319_yakuza_kiwami_2017.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  320,
+                      "title":  "Tactics Ogre: Reborn",
+                      "year":  2022,
+                      "slug":  "tactics_ogre_reborn",
+                      "filename":  "320_tactics_ogre_reborn_2022.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  321,
+                      "title":  "Star Ocean: The Second Story R",
+                      "year":  2023,
+                      "slug":  "star_ocean_the_second_story_r",
+                      "filename":  "321_star_ocean_the_second_story_r_2023.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  322,
+                      "title":  "Beat Saber",
+                      "year":  2019,
+                      "slug":  "beat_saber",
+                      "filename":  "322_beat_saber_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  323,
+                      "title":  "Bloodstained: Ritual of the Night",
+                      "year":  2019,
+                      "slug":  "bloodstained_ritual_of_the_night",
+                      "filename":  "323_bloodstained_ritual_of_the_night_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  324,
+                      "title":  "Super Mario Maker 2",
+                      "year":  2019,
+                      "slug":  "super_mario_maker_2",
+                      "filename":  "324_super_mario_maker_2_2019.md",
+                      "status":  "completed"
+                  },
+                  {
+                      "id":  325,
+                      "title":  "Mario + Rabbids Kingdom Battle",
+                      "year":  2017,
+                      "slug":  "mario_rabbids_kingdom_battle",
+                      "filename":  "325_mario_rabbids_kingdom_battle_2017.md",
+                      "status":  "completed"
+                  }
+              ],
+    "iteration":  5,
+    "notes":  "초기 85개 + iteration 2에서 86-95 추가 + iteration 3에서 96-105 추가. iteration 3 신규: VR(Half-Life Alyx), 시뮬레이션(MSFS), 스텔스(Hitman 3), 액션 로그라이크(Returnal), 슬라브 RPG(KCD), 폴란드 시티빌더(Frostpunk), 내러티브 아트(Pentiment), 라이브 ARPG(Diablo IV), JRPG(Octopath II), 인디 시티빌더(Manor Lords). 다국적·다장르 균형: USA 4, Poland 2, Czech 1, Japan 1, Finland 1, France/Microsoft 1. iteration 5에서 126-135 추가(WebSearch 검증, Metacritic 80+ 평론·상업 성공작): 캐릭터 액션(DMC5), 액션 어드벤처(Control), SRPG(Fire Emblem Three Houses), FPS(Halo Infinite), 액션 JRPG(FF XVI), 서바이벌 호러(Silent Hill 2 Remake), 3인칭 슈터(Space Marine 2), 액션 어드벤처(Indiana Jones Great Circle), 협동 액션(Split Fiction), 오픈월드 RPG(KCD II). 연도 분포 2019~2025."
+}
