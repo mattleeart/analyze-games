@@ -6,7 +6,7 @@
         "augment_count": 10
     },
     "created_at": "2026-05-20",
-    "total_games": 345,
+    "total_games": 355,
     "games": [
         {
             "id": 1,
@@ -3112,8 +3112,88 @@
             "filename": "345_ender_magnolia_2025.md",
             "status": "completed",
             "completed_at": "2026-05-30T18:30:00.000000+00:00"
+        },
+        {
+            "id": 346,
+            "title": "The Last of Us Part I",
+            "year": 2022,
+            "slug": "tlou_part_i",
+            "filename": "346_tlou_part_i_2022.md",
+            "status": "pending"
+        },
+        {
+            "id": 347,
+            "title": "Lost Judgment",
+            "year": 2021,
+            "slug": "lost_judgment",
+            "filename": "347_lost_judgment_2021.md",
+            "status": "pending"
+        },
+        {
+            "id": 348,
+            "title": "Assassin's Creed Mirage",
+            "year": 2023,
+            "slug": "ac_mirage",
+            "filename": "348_ac_mirage_2023.md",
+            "status": "pending"
+        },
+        {
+            "id": 349,
+            "title": "PowerWash Simulator",
+            "year": 2022,
+            "slug": "powerwash_simulator",
+            "filename": "349_powerwash_simulator_2022.md",
+            "status": "pending"
+        },
+        {
+            "id": 350,
+            "title": "The King of Fighters XV",
+            "year": 2022,
+            "slug": "kof_xv",
+            "filename": "350_kof_xv_2022.md",
+            "status": "pending"
+        },
+        {
+            "id": 351,
+            "title": "Company of Heroes 3",
+            "year": 2023,
+            "slug": "company_of_heroes_3",
+            "filename": "351_company_of_heroes_3_2023.md",
+            "status": "pending"
+        },
+        {
+            "id": 352,
+            "title": "Bravely Default II",
+            "year": 2021,
+            "slug": "bravely_default_ii",
+            "filename": "352_bravely_default_ii_2021.md",
+            "status": "pending"
+        },
+        {
+            "id": 353,
+            "title": "Sonic x Shadow Generations",
+            "year": 2024,
+            "slug": "sonic_x_shadow_generations",
+            "filename": "353_sonic_x_shadow_generations_2024.md",
+            "status": "pending"
+        },
+        {
+            "id": 354,
+            "title": "Uncharted: The Lost Legacy",
+            "year": 2017,
+            "slug": "uncharted_lost_legacy",
+            "filename": "354_uncharted_lost_legacy_2017.md",
+            "status": "pending"
+        },
+        {
+            "id": 355,
+            "title": "Path of Exile 2",
+            "year": 2024,
+            "slug": "path_of_exile_2",
+            "filename": "355_path_of_exile_2_2024.md",
+            "status": "pending"
         }
     ],
-    "iteration": 9,
+    "iteration": 10,
     "notes": "초기 85개 + iteration 2에서 86-95 추가 + iteration 3에서 96-105 추가. iteration 3 신규: VR(Half-Life Alyx), 시뮬레이션(MSFS), 스텔스(Hitman 3), 액션 로그라이크(Returnal), 슬라브 RPG(KCD), 폴란드 시티빌더(Frostpunk), 내러티브 아트(Pentiment), 라이브 ARPG(Diablo IV), JRPG(Octopath II), 인디 시티빌더(Manor Lords). 다국적·다장르 균형: USA 4, Poland 2, Czech 1, Japan 1, Finland 1, France/Microsoft 1. iteration 5에서 126-135 추가(WebSearch 검증, Metacritic 80+ 평론·상업 성공작): 캐릭터 액션(DMC5), 액션 어드벤처(Control), SRPG(Fire Emblem Three Houses), FPS(Halo Infinite), 액션 JRPG(FF XVI), 서바이벌 호러(Silent Hill 2 Remake), 3인칭 슈터(Space Marine 2), 액션 어드벤처(Indiana Jones Great Circle), 협동 액션(Split Fiction), 오픈월드 RPG(KCD II). 연도 분포 2019~2025. iteration 6에서 326-335 추가(WebSearch 검증, Metacritic 80+ 또는 명백한 상업·문화 성공작): 레이싱(Forza Horizon 3), 전략(Total War: Warhammer), 메트로배니아(Hollow Knight: Silksong), 협동 로그라이크(Elden Ring: Nightreign), RPG 리마스터(Oblivion Remastered), FPS(Battlefield 6), 루터슈터(Borderlands 4), JRPG 리메이크(Paper Mario TTYD), 액션 어드벤처(Zelda: Echoes of Wisdom), 인디 협동(Peak). 연도 분포 2016, 2024~2025. iteration 7에서 336-345 추가(WebSearch 검증, Metacritic 80+ 또는 명백한 상업·문화 성공작): 로그라이크(Hades II), 서구 CRPG(Warhammer 40K: Rogue Trader), 4X 전략(Old World), JRPG HD-2D 리메이크(Dragon Quest III HD-2D Remake), 액션 RPG(Persona 5 Strikers), 몬스터 수집 RPG(Cassette Beasts), 인디 어드벤처(The Plucky Squire), 서바이벌 호러(Amnesia: The Bunker), 소울라이크(Another Crab's Treasure), 메트로배니아(Ender Magnolia). 국가: USA 3, Cyprus 1, Japan 2, UK 2, Sweden 1. 연도 분포 2021~2025."
 }
