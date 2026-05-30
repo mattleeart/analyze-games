@@ -3109,7 +3109,8 @@
             "year": 2025,
             "slug": "ender_magnolia",
             "filename": "345_ender_magnolia_2025.md",
-            "status": "pending"
+            "status": "completed",
+            "completed_at": "2026-05-30T18:30:00.000000+00:00"
         }
     ],
     "iteration": 9,
