@@ -3335,7 +3335,8 @@
       "year": 2025,
       "slug": "monster_hunter_wilds",
       "filename": "370_monster_hunter_wilds_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-05-31T18:16:47"
     },
     {
       "id": 371,
@@ -3343,7 +3344,8 @@
       "year": 2019,
       "slug": "a_plague_tale_innocence",
       "filename": "371_a_plague_tale_innocence_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-05-31T18:16:47"
     },
     {
       "id": 372,
@@ -3351,7 +3353,8 @@
       "year": 2016,
       "slug": "gears_of_war_4",
       "filename": "372_gears_of_war_4_2016.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-05-31T18:16:47"
     },
     {
       "id": 373,
@@ -3359,7 +3362,8 @@
       "year": 2020,
       "slug": "gears_tactics",
       "filename": "373_gears_tactics_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-05-31T18:16:47"
     },
     {
       "id": 374,
