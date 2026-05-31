@@ -3191,7 +3191,8 @@
             "year": 2017,
             "slug": "uncharted_lost_legacy",
             "filename": "354_uncharted_lost_legacy_2017.md",
-            "status": "pending"
+            "status": "completed",
+            "completed_at": "2026-05-31T04:13:00.000000+00:00"
         },
         {
             "id": 355,
@@ -3199,9 +3200,10 @@
             "year": 2024,
             "slug": "path_of_exile_2",
             "filename": "355_path_of_exile_2_2024.md",
-            "status": "pending"
+            "status": "completed",
+            "completed_at": "2026-05-31T04:13:00.000000+00:00"
         }
     ],
-    "iteration": 10,
+    "iteration": 11,
     "notes": "초기 85개 + iteration 2에서 86-95 추가 + iteration 3에서 96-105 추가. iteration 3 신규: VR(Half-Life Alyx), 시뮬레이션(MSFS), 스텔스(Hitman 3), 액션 로그라이크(Returnal), 슬라브 RPG(KCD), 폴란드 시티빌더(Frostpunk), 내러티브 아트(Pentiment), 라이브 ARPG(Diablo IV), JRPG(Octopath II), 인디 시티빌더(Manor Lords). 다국적·다장르 균형: USA 4, Poland 2, Czech 1, Japan 1, Finland 1, France/Microsoft 1. iteration 5에서 126-135 추가(WebSearch 검증, Metacritic 80+ 평론·상업 성공작): 캐릭터 액션(DMC5), 액션 어드벤처(Control), SRPG(Fire Emblem Three Houses), FPS(Halo Infinite), 액션 JRPG(FF XVI), 서바이벌 호러(Silent Hill 2 Remake), 3인칭 슈터(Space Marine 2), 액션 어드벤처(Indiana Jones Great Circle), 협동 액션(Split Fiction), 오픈월드 RPG(KCD II). 연도 분포 2019~2025. iteration 6에서 326-335 추가(WebSearch 검증, Metacritic 80+ 또는 명백한 상업·문화 성공작): 레이싱(Forza Horizon 3), 전략(Total War: Warhammer), 메트로배니아(Hollow Knight: Silksong), 협동 로그라이크(Elden Ring: Nightreign), RPG 리마스터(Oblivion Remastered), FPS(Battlefield 6), 루터슈터(Borderlands 4), JRPG 리메이크(Paper Mario TTYD), 액션 어드벤처(Zelda: Echoes of Wisdom), 인디 협동(Peak). 연도 분포 2016, 2024~2025. iteration 7에서 336-345 추가(WebSearch 검증, Metacritic 80+ 또는 명백한 상업·문화 성공작): 로그라이크(Hades II), 서구 CRPG(Warhammer 40K: Rogue Trader), 4X 전략(Old World), JRPG HD-2D 리메이크(Dragon Quest III HD-2D Remake), 액션 RPG(Persona 5 Strikers), 몬스터 수집 RPG(Cassette Beasts), 인디 어드벤처(The Plucky Squire), 서바이벌 호러(Amnesia: The Bunker), 소울라이크(Another Crab's Treasure), 메트로배니아(Ender Magnolia). 국가: USA 3, Cyprus 1, Japan 2, UK 2, Sweden 1. 연도 분포 2021~2025."
 }
