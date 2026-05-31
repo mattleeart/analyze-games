@@ -3371,7 +3371,8 @@
       "year": 2022,
       "slug": "pokemon_scarlet_and_violet",
       "filename": "374_pokemon_scarlet_and_violet_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-05-31T20:13:09Z"
     },
     {
       "id": 375,
@@ -3379,7 +3380,8 @@
       "year": 2023,
       "slug": "fire_emblem_engage",
       "filename": "375_fire_emblem_engage_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-05-31T20:13:09Z"
     },
     {
       "id": 376,
@@ -3387,7 +3389,8 @@
       "year": 2020,
       "slug": "xenoblade_chronicles_definitive_edition",
       "filename": "376_xenoblade_chronicles_definitive_edition_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-05-31T20:13:09Z"
     },
     {
       "id": 377,
@@ -3395,7 +3398,8 @@
       "year": 2023,
       "slug": "metroid_prime_remastered",
       "filename": "377_metroid_prime_remastered_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-05-31T20:13:09Z"
     },
     {
       "id": 378,
@@ -3622,6 +3626,6 @@
       "status": "pending"
     }
   ],
-  "iteration": 13,
+  "iteration": 14,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
