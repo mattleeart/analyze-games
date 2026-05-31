@@ -3281,7 +3281,8 @@
             "year": 2025,
             "slug": "pirate_yakuza_in_hawaii",
             "filename": "364_pirate_yakuza_in_hawaii_2025.md",
-            "status": "pending"
+            "status": "completed",
+            "completed_at": "2026-05-31T00:00:00.000000+00:00"
         },
         {
             "id": 365,
@@ -3289,7 +3290,8 @@
             "year": 2022,
             "slug": "ghostwire_tokyo",
             "filename": "365_ghostwire_tokyo_2022.md",
-            "status": "pending"
+            "status": "completed",
+            "completed_at": "2026-05-31T00:00:00.000000+00:00"
         }
     ],
     "iteration": 12,
