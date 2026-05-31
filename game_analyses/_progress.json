@@ -3209,7 +3209,8 @@
             "year": 2025,
             "slug": "mario_kart_world",
             "filename": "356_mario_kart_world_2025.md",
-            "status": "pending"
+            "status": "completed",
+            "completed_at": "2026-05-31T05:30:00.000000+00:00"
         },
         {
             "id": 357,
@@ -3217,7 +3218,8 @@
             "year": 2025,
             "slug": "donkey_kong_bananza",
             "filename": "357_donkey_kong_bananza_2025.md",
-            "status": "pending"
+            "status": "completed",
+            "completed_at": "2026-05-31T05:30:00.000000+00:00"
         },
         {
             "id": 358,
@@ -3225,7 +3227,8 @@
             "year": 2025,
             "slug": "ghost_of_yotei",
             "filename": "358_ghost_of_yotei_2025.md",
-            "status": "pending"
+            "status": "completed",
+            "completed_at": "2026-05-31T05:30:00.000000+00:00"
         },
         {
             "id": 359,
@@ -3233,7 +3236,8 @@
             "year": 2025,
             "slug": "ac_shadows",
             "filename": "359_ac_shadows_2025.md",
-            "status": "pending"
+            "status": "completed",
+            "completed_at": "2026-05-31T05:30:00.000000+00:00"
         },
         {
             "id": 360,
