@@ -3245,7 +3245,8 @@
             "year": 2025,
             "slug": "doom_the_dark_ages",
             "filename": "360_doom_the_dark_ages_2025.md",
-            "status": "pending"
+            "status": "completed",
+            "completed_at": "2026-05-31T12:00:00.000000+00:00"
         },
         {
             "id": 361,
@@ -3253,7 +3254,8 @@
             "year": 2025,
             "slug": "civilization_vii",
             "filename": "361_civilization_vii_2025.md",
-            "status": "pending"
+            "status": "completed",
+            "completed_at": "2026-05-31T12:00:00.000000+00:00"
         },
         {
             "id": 362,
@@ -3261,7 +3263,8 @@
             "year": 2025,
             "slug": "mgs_delta_snake_eater",
             "filename": "362_mgs_delta_snake_eater_2025.md",
-            "status": "pending"
+            "status": "completed",
+            "completed_at": "2026-05-31T12:00:00.000000+00:00"
         },
         {
             "id": 363,
@@ -3269,7 +3272,8 @@
             "year": 2025,
             "slug": "silent_hill_f",
             "filename": "363_silent_hill_f_2025.md",
-            "status": "pending"
+            "status": "completed",
+            "completed_at": "2026-05-31T12:00:00.000000+00:00"
         },
         {
             "id": 364,
