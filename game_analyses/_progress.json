@@ -6,7 +6,7 @@
         "augment_count": 10
     },
     "created_at": "2026-05-20",
-    "total_games": 355,
+    "total_games": 365,
     "games": [
         {
             "id": 1,
@@ -3202,8 +3202,88 @@
             "filename": "355_path_of_exile_2_2024.md",
             "status": "completed",
             "completed_at": "2026-05-31T04:13:00.000000+00:00"
+        },
+        {
+            "id": 356,
+            "title": "Mario Kart World",
+            "year": 2025,
+            "slug": "mario_kart_world",
+            "filename": "356_mario_kart_world_2025.md",
+            "status": "pending"
+        },
+        {
+            "id": 357,
+            "title": "Donkey Kong Bananza",
+            "year": 2025,
+            "slug": "donkey_kong_bananza",
+            "filename": "357_donkey_kong_bananza_2025.md",
+            "status": "pending"
+        },
+        {
+            "id": 358,
+            "title": "Ghost of Yotei",
+            "year": 2025,
+            "slug": "ghost_of_yotei",
+            "filename": "358_ghost_of_yotei_2025.md",
+            "status": "pending"
+        },
+        {
+            "id": 359,
+            "title": "Assassin's Creed Shadows",
+            "year": 2025,
+            "slug": "ac_shadows",
+            "filename": "359_ac_shadows_2025.md",
+            "status": "pending"
+        },
+        {
+            "id": 360,
+            "title": "DOOM: The Dark Ages",
+            "year": 2025,
+            "slug": "doom_the_dark_ages",
+            "filename": "360_doom_the_dark_ages_2025.md",
+            "status": "pending"
+        },
+        {
+            "id": 361,
+            "title": "Sid Meier's Civilization VII",
+            "year": 2025,
+            "slug": "civilization_vii",
+            "filename": "361_civilization_vii_2025.md",
+            "status": "pending"
+        },
+        {
+            "id": 362,
+            "title": "Metal Gear Solid Delta: Snake Eater",
+            "year": 2025,
+            "slug": "mgs_delta_snake_eater",
+            "filename": "362_mgs_delta_snake_eater_2025.md",
+            "status": "pending"
+        },
+        {
+            "id": 363,
+            "title": "Silent Hill f",
+            "year": 2025,
+            "slug": "silent_hill_f",
+            "filename": "363_silent_hill_f_2025.md",
+            "status": "pending"
+        },
+        {
+            "id": 364,
+            "title": "Like a Dragon: Pirate Yakuza in Hawaii",
+            "year": 2025,
+            "slug": "pirate_yakuza_in_hawaii",
+            "filename": "364_pirate_yakuza_in_hawaii_2025.md",
+            "status": "pending"
+        },
+        {
+            "id": 365,
+            "title": "Ghostwire: Tokyo",
+            "year": 2022,
+            "slug": "ghostwire_tokyo",
+            "filename": "365_ghostwire_tokyo_2022.md",
+            "status": "pending"
         }
     ],
-    "iteration": 11,
-    "notes": "초기 85개 + iteration 2에서 86-95 추가 + iteration 3에서 96-105 추가. iteration 3 신규: VR(Half-Life Alyx), 시뮬레이션(MSFS), 스텔스(Hitman 3), 액션 로그라이크(Returnal), 슬라브 RPG(KCD), 폴란드 시티빌더(Frostpunk), 내러티브 아트(Pentiment), 라이브 ARPG(Diablo IV), JRPG(Octopath II), 인디 시티빌더(Manor Lords). 다국적·다장르 균형: USA 4, Poland 2, Czech 1, Japan 1, Finland 1, France/Microsoft 1. iteration 5에서 126-135 추가(WebSearch 검증, Metacritic 80+ 평론·상업 성공작): 캐릭터 액션(DMC5), 액션 어드벤처(Control), SRPG(Fire Emblem Three Houses), FPS(Halo Infinite), 액션 JRPG(FF XVI), 서바이벌 호러(Silent Hill 2 Remake), 3인칭 슈터(Space Marine 2), 액션 어드벤처(Indiana Jones Great Circle), 협동 액션(Split Fiction), 오픈월드 RPG(KCD II). 연도 분포 2019~2025. iteration 6에서 326-335 추가(WebSearch 검증, Metacritic 80+ 또는 명백한 상업·문화 성공작): 레이싱(Forza Horizon 3), 전략(Total War: Warhammer), 메트로배니아(Hollow Knight: Silksong), 협동 로그라이크(Elden Ring: Nightreign), RPG 리마스터(Oblivion Remastered), FPS(Battlefield 6), 루터슈터(Borderlands 4), JRPG 리메이크(Paper Mario TTYD), 액션 어드벤처(Zelda: Echoes of Wisdom), 인디 협동(Peak). 연도 분포 2016, 2024~2025. iteration 7에서 336-345 추가(WebSearch 검증, Metacritic 80+ 또는 명백한 상업·문화 성공작): 로그라이크(Hades II), 서구 CRPG(Warhammer 40K: Rogue Trader), 4X 전략(Old World), JRPG HD-2D 리메이크(Dragon Quest III HD-2D Remake), 액션 RPG(Persona 5 Strikers), 몬스터 수집 RPG(Cassette Beasts), 인디 어드벤처(The Plucky Squire), 서바이벌 호러(Amnesia: The Bunker), 소울라이크(Another Crab's Treasure), 메트로배니아(Ender Magnolia). 국가: USA 3, Cyprus 1, Japan 2, UK 2, Sweden 1. 연도 분포 2021~2025."
+    "iteration": 12,
+    "notes": "초기 85개 + iteration 2에서 86-95 추가 + iteration 3에서 96-105 추가. iteration 3 신규: VR(Half-Life Alyx), 시뮬레이션(MSFS), 스텔스(Hitman 3), 액션 로그라이크(Returnal), 슬라브 RPG(KCD), 폴란드 시티빌더(Frostpunk), 내러티브 아트(Pentiment), 라이브 ARPG(Diablo IV), JRPG(Octopath II), 인디 시티빌더(Manor Lords). 다국적·다장르 균형: USA 4, Poland 2, Czech 1, Japan 1, Finland 1, France/Microsoft 1. iteration 5에서 126-135 추가(WebSearch 검증, Metacritic 80+ 평론·상업 성공작): 캐릭터 액션(DMC5), 액션 어드벤처(Control), SRPG(Fire Emblem Three Houses), FPS(Halo Infinite), 액션 JRPG(FF XVI), 서바이벌 호러(Silent Hill 2 Remake), 3인칭 슈터(Space Marine 2), 액션 어드벤처(Indiana Jones Great Circle), 협동 액션(Split Fiction), 오픈월드 RPG(KCD II). 연도 분포 2019~2025. iteration 6에서 326-335 추가(WebSearch 검증, Metacritic 80+ 또는 명백한 상업·문화 성공작): 레이싱(Forza Horizon 3), 전략(Total War: Warhammer), 메트로배니아(Hollow Knight: Silksong), 협동 로그라이크(Elden Ring: Nightreign), RPG 리마스터(Oblivion Remastered), FPS(Battlefield 6), 루터슈터(Borderlands 4), JRPG 리메이크(Paper Mario TTYD), 액션 어드벤처(Zelda: Echoes of Wisdom), 인디 협동(Peak). 연도 분포 2016, 2024~2025. iteration 7에서 336-345 추가(WebSearch 검증, Metacritic 80+ 또는 명백한 상업·문화 성공작): 로그라이크(Hades II), 서구 CRPG(Warhammer 40K: Rogue Trader), 4X 전략(Old World), JRPG HD-2D 리메이크(Dragon Quest III HD-2D Remake), 액션 RPG(Persona 5 Strikers), 몬스터 수집 RPG(Cassette Beasts), 인디 어드벤처(The Plucky Squire), 서바이벌 호러(Amnesia: The Bunker), 소울라이크(Another Crab's Treasure), 메트로배니아(Ender Magnolia). 국가: USA 3, Cyprus 1, Japan 2, UK 2, Sweden 1. 연도 분포 2021~2025. iteration 11에서 356-365 추가(queue-collector, WebSearch 검증, Metacritic 80+ 또는 명백한 상업·문화 성공작): 레이싱(Mario Kart World, 14.7M 판매), 3D 플랫포머(Donkey Kong Bananza, MC 91), 오픈월드 액션(Ghost of Yotei, MC 87), AAA 스텔스(Assassin's Creed Shadows, MC 82), FPS(DOOM: The Dark Ages, MC 85), 4X 전략(Civilization VII), 스텔스 리메이크(Metal Gear Solid Delta: Snake Eater, MC 86), 서바이벌 호러(Silent Hill f, 2M+ 판매), 액션 어드벤처(Like a Dragon: Pirate Yakuza in Hawaii, MC 81), 초자연 액션(Ghostwire: Tokyo, MC 77). 연도 분포 2022, 2025."
 }
