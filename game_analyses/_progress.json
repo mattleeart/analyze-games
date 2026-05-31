@@ -3407,7 +3407,8 @@
       "year": 2019,
       "slug": "the_legend_of_zelda_links_awakening",
       "filename": "378_the_legend_of_zelda_links_awakening_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-05-31T22:14:09Z"
     },
     {
       "id": 379,
@@ -3415,7 +3416,8 @@
       "year": 2021,
       "slug": "super_mario_3d_world_bowsers_fury",
       "filename": "379_super_mario_3d_world_bowsers_fury_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-05-31T22:14:09Z"
     },
     {
       "id": 380,
@@ -3423,7 +3425,8 @@
       "year": 2020,
       "slug": "astros_playroom",
       "filename": "380_astros_playroom_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-05-31T22:14:09Z"
     },
     {
       "id": 381,
@@ -3431,7 +3434,8 @@
       "year": 2018,
       "slug": "spyro_reignited_trilogy",
       "filename": "381_spyro_reignited_trilogy_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-05-31T22:14:09Z"
     },
     {
       "id": 382,
