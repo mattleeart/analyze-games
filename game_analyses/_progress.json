@@ -3119,7 +3119,8 @@
             "year": 2022,
             "slug": "tlou_part_i",
             "filename": "346_tlou_part_i_2022.md",
-            "status": "pending"
+            "status": "completed",
+            "completed_at": "2026-05-31T00:13:30.551046+00:00"
         },
         {
             "id": 347,
@@ -3127,7 +3128,8 @@
             "year": 2021,
             "slug": "lost_judgment",
             "filename": "347_lost_judgment_2021.md",
-            "status": "pending"
+            "status": "completed",
+            "completed_at": "2026-05-31T00:13:30.551046+00:00"
         },
         {
             "id": 348,
@@ -3135,7 +3137,8 @@
             "year": 2023,
             "slug": "ac_mirage",
             "filename": "348_ac_mirage_2023.md",
-            "status": "pending"
+            "status": "completed",
+            "completed_at": "2026-05-31T00:13:30.551046+00:00"
         },
         {
             "id": 349,
@@ -3143,7 +3146,8 @@
             "year": 2022,
             "slug": "powerwash_simulator",
             "filename": "349_powerwash_simulator_2022.md",
-            "status": "pending"
+            "status": "completed",
+            "completed_at": "2026-05-31T00:13:30.551046+00:00"
         },
         {
             "id": 350,
