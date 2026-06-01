@@ -3479,7 +3479,8 @@
       "year": 2024,
       "slug": "romancing_saga_2_revenge_of_the_seven",
       "filename": "386_romancing_saga_2_revenge_of_the_seven_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T02:18:29.255653+00:00"
     },
     {
       "id": 387,
@@ -3487,7 +3488,8 @@
       "year": 2024,
       "slug": "visions_of_mana",
       "filename": "387_visions_of_mana_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T02:18:29.255653+00:00"
     },
     {
       "id": 388,
@@ -3495,7 +3497,8 @@
       "year": 2017,
       "slug": "ys_viii_lacrimosa_of_dana",
       "filename": "388_ys_viii_lacrimosa_of_dana_2017.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T02:18:29.255653+00:00"
     },
     {
       "id": 389,
@@ -3503,7 +3506,8 @@
       "year": 2023,
       "slug": "trails_into_reverie",
       "filename": "389_trails_into_reverie_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T02:18:29.255653+00:00"
     },
     {
       "id": 390,
