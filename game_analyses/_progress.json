@@ -6,7 +6,7 @@
     "augment_count": 40
   },
   "created_at": "2026-05-20",
-  "total_games": 405,
+  "total_games": 445,
   "games": [
     {
       "id": 1,
@@ -3652,8 +3652,328 @@
       "filename": "405_wartales_2023.md",
       "status": "completed",
       "completed_at": "2026-06-01T10:13:58.587793Z"
+    },
+    {
+      "id": 406,
+      "title": "Far Cry 5",
+      "year": 2018,
+      "slug": "far_cry_5",
+      "filename": "406_far_cry_5_2018.md",
+      "status": "pending"
+    },
+    {
+      "id": 407,
+      "title": "Far Cry 6",
+      "year": 2021,
+      "slug": "far_cry_6",
+      "filename": "407_far_cry_6_2021.md",
+      "status": "pending"
+    },
+    {
+      "id": 408,
+      "title": "Tom Clancy's The Division 2",
+      "year": 2019,
+      "slug": "the_division_2",
+      "filename": "408_the_division_2_2019.md",
+      "status": "pending"
+    },
+    {
+      "id": 409,
+      "title": "Watch Dogs 2",
+      "year": 2016,
+      "slug": "watch_dogs_2",
+      "filename": "409_watch_dogs_2_2016.md",
+      "status": "pending"
+    },
+    {
+      "id": 410,
+      "title": "Watch Dogs: Legion",
+      "year": 2020,
+      "slug": "watch_dogs_legion",
+      "filename": "410_watch_dogs_legion_2020.md",
+      "status": "pending"
+    },
+    {
+      "id": 411,
+      "title": "Ni no Kuni II: Revenant Kingdom",
+      "year": 2018,
+      "slug": "ni_no_kuni_ii",
+      "filename": "411_ni_no_kuni_ii_2018.md",
+      "status": "pending"
+    },
+    {
+      "id": 412,
+      "title": "Like a Dragon Gaiden: The Man Who Erased His Name",
+      "year": 2023,
+      "slug": "like_a_dragon_gaiden",
+      "filename": "412_like_a_dragon_gaiden_2023.md",
+      "status": "pending"
+    },
+    {
+      "id": 413,
+      "title": "Star Wars Outlaws",
+      "year": 2024,
+      "slug": "star_wars_outlaws",
+      "filename": "413_star_wars_outlaws_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 414,
+      "title": "Avatar: Frontiers of Pandora",
+      "year": 2023,
+      "slug": "avatar_frontiers_of_pandora",
+      "filename": "414_avatar_frontiers_of_pandora_2023.md",
+      "status": "pending"
+    },
+    {
+      "id": 415,
+      "title": "RoboCop: Rogue City",
+      "year": 2023,
+      "slug": "robocop_rogue_city",
+      "filename": "415_robocop_rogue_city_2023.md",
+      "status": "pending"
+    },
+    {
+      "id": 416,
+      "title": "Lords of the Fallen",
+      "year": 2023,
+      "slug": "lords_of_the_fallen",
+      "filename": "416_lords_of_the_fallen_2023.md",
+      "status": "pending"
+    },
+    {
+      "id": 417,
+      "title": "Code Vein",
+      "year": 2019,
+      "slug": "code_vein",
+      "filename": "417_code_vein_2019.md",
+      "status": "pending"
+    },
+    {
+      "id": 418,
+      "title": "The Outlast Trials",
+      "year": 2024,
+      "slug": "the_outlast_trials",
+      "filename": "418_the_outlast_trials_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 419,
+      "title": "Blasphemous",
+      "year": 2019,
+      "slug": "blasphemous",
+      "filename": "419_blasphemous_2019.md",
+      "status": "pending"
+    },
+    {
+      "id": 420,
+      "title": "Sable",
+      "year": 2021,
+      "slug": "sable",
+      "filename": "420_sable_2021.md",
+      "status": "pending"
+    },
+    {
+      "id": 421,
+      "title": "Crisis Core: Final Fantasy VII Reunion",
+      "year": 2022,
+      "slug": "crisis_core_ff7_reunion",
+      "filename": "421_crisis_core_ff7_reunion_2022.md",
+      "status": "pending"
+    },
+    {
+      "id": 422,
+      "title": "Stranger of Paradise: Final Fantasy Origin",
+      "year": 2022,
+      "slug": "stranger_of_paradise",
+      "filename": "422_stranger_of_paradise_2022.md",
+      "status": "pending"
+    },
+    {
+      "id": 423,
+      "title": "Humankind",
+      "year": 2021,
+      "slug": "humankind",
+      "filename": "423_humankind_2021.md",
+      "status": "pending"
+    },
+    {
+      "id": 424,
+      "title": "Mortal Shell",
+      "year": 2020,
+      "slug": "mortal_shell",
+      "filename": "424_mortal_shell_2020.md",
+      "status": "pending"
+    },
+    {
+      "id": 425,
+      "title": "Wreckfest",
+      "year": 2018,
+      "slug": "wreckfest",
+      "filename": "425_wreckfest_2018.md",
+      "status": "pending"
+    },
+    {
+      "id": 426,
+      "title": "DiRT Rally 2.0",
+      "year": 2019,
+      "slug": "dirt_rally_2",
+      "filename": "426_dirt_rally_2_2019.md",
+      "status": "pending"
+    },
+    {
+      "id": 427,
+      "title": "Ring Fit Adventure",
+      "year": 2019,
+      "slug": "ring_fit_adventure",
+      "filename": "427_ring_fit_adventure_2019.md",
+      "status": "pending"
+    },
+    {
+      "id": 428,
+      "title": "Hyrule Warriors: Age of Calamity",
+      "year": 2020,
+      "slug": "hyrule_warriors_age_of_calamity",
+      "filename": "428_hyrule_warriors_age_of_calamity_2020.md",
+      "status": "pending"
+    },
+    {
+      "id": 429,
+      "title": "Dreams",
+      "year": 2020,
+      "slug": "dreams",
+      "filename": "429_dreams_2020.md",
+      "status": "pending"
+    },
+    {
+      "id": 430,
+      "title": "The Last Guardian",
+      "year": 2016,
+      "slug": "the_last_guardian",
+      "filename": "430_the_last_guardian_2016.md",
+      "status": "pending"
+    },
+    {
+      "id": 431,
+      "title": "Quantum Break",
+      "year": 2016,
+      "slug": "quantum_break",
+      "filename": "431_quantum_break_2016.md",
+      "status": "pending"
+    },
+    {
+      "id": 432,
+      "title": "Viewfinder",
+      "year": 2023,
+      "slug": "viewfinder",
+      "filename": "432_viewfinder_2023.md",
+      "status": "pending"
+    },
+    {
+      "id": 433,
+      "title": "Tchia",
+      "year": 2023,
+      "slug": "tchia",
+      "filename": "433_tchia_2023.md",
+      "status": "pending"
+    },
+    {
+      "id": 434,
+      "title": "Shadow Gambit: The Cursed Crew",
+      "year": 2023,
+      "slug": "shadow_gambit",
+      "filename": "434_shadow_gambit_2023.md",
+      "status": "pending"
+    },
+    {
+      "id": 435,
+      "title": "NORCO",
+      "year": 2022,
+      "slug": "norco",
+      "filename": "435_norco_2022.md",
+      "status": "pending"
+    },
+    {
+      "id": 436,
+      "title": "Paradise Killer",
+      "year": 2020,
+      "slug": "paradise_killer",
+      "filename": "436_paradise_killer_2020.md",
+      "status": "pending"
+    },
+    {
+      "id": 437,
+      "title": "In Stars and Time",
+      "year": 2023,
+      "slug": "in_stars_and_time",
+      "filename": "437_in_stars_and_time_2023.md",
+      "status": "pending"
+    },
+    {
+      "id": 438,
+      "title": "Roadwarden",
+      "year": 2022,
+      "slug": "roadwarden",
+      "filename": "438_roadwarden_2022.md",
+      "status": "pending"
+    },
+    {
+      "id": 439,
+      "title": "Cobalt Core",
+      "year": 2023,
+      "slug": "cobalt_core",
+      "filename": "439_cobalt_core_2023.md",
+      "status": "pending"
+    },
+    {
+      "id": 440,
+      "title": "Wildfrost",
+      "year": 2023,
+      "slug": "wildfrost",
+      "filename": "440_wildfrost_2023.md",
+      "status": "pending"
+    },
+    {
+      "id": 441,
+      "title": "GRIME",
+      "year": 2021,
+      "slug": "grime",
+      "filename": "441_grime_2021.md",
+      "status": "pending"
+    },
+    {
+      "id": 442,
+      "title": "Songs of Conquest",
+      "year": 2024,
+      "slug": "songs_of_conquest",
+      "filename": "442_songs_of_conquest_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 443,
+      "title": "Theatrhythm Final Bar Line",
+      "year": 2023,
+      "slug": "theatrhythm_final_bar_line",
+      "filename": "443_theatrhythm_final_bar_line_2023.md",
+      "status": "pending"
+    },
+    {
+      "id": 444,
+      "title": "The Medium",
+      "year": 2021,
+      "slug": "the_medium",
+      "filename": "444_the_medium_2021.md",
+      "status": "pending"
+    },
+    {
+      "id": 445,
+      "title": "The Callisto Protocol",
+      "year": 2022,
+      "slug": "the_callisto_protocol",
+      "filename": "445_the_callisto_protocol_2022.md",
+      "status": "pending"
     }
   ],
-  "iteration": 17,
+  "iteration": 18,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
