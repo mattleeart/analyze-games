@@ -3731,7 +3731,8 @@
       "year": 2023,
       "slug": "avatar_frontiers_of_pandora",
       "filename": "414_avatar_frontiers_of_pandora_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T20:14:03.746839+00:00"
     },
     {
       "id": 415,
@@ -3739,7 +3740,8 @@
       "year": 2023,
       "slug": "robocop_rogue_city",
       "filename": "415_robocop_rogue_city_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T20:14:03.746839+00:00"
     },
     {
       "id": 416,
@@ -3747,7 +3749,8 @@
       "year": 2023,
       "slug": "lords_of_the_fallen",
       "filename": "416_lords_of_the_fallen_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T20:14:03.746839+00:00"
     },
     {
       "id": 417,
@@ -3755,7 +3758,8 @@
       "year": 2019,
       "slug": "code_vein",
       "filename": "417_code_vein_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T20:14:03.746839+00:00"
     },
     {
       "id": 418,
@@ -3982,6 +3986,6 @@
       "status": "pending"
     }
   ],
-  "iteration": 19,
+  "iteration": 20,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
