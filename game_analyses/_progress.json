@@ -3551,7 +3551,8 @@
       "year": 2024,
       "slug": "world_of_warcraft_the_war_within",
       "filename": "394_world_of_warcraft_the_war_within_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T06:14:27Z"
     },
     {
       "id": 395,
@@ -3559,7 +3560,8 @@
       "year": 2024,
       "slug": "wuthering_waves",
       "filename": "395_wuthering_waves_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T06:14:27Z"
     },
     {
       "id": 396,
@@ -3567,7 +3569,8 @@
       "year": 2024,
       "slug": "enshrouded",
       "filename": "396_enshrouded_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T06:14:27Z"
     },
     {
       "id": 397,
@@ -3575,7 +3578,8 @@
       "year": 2024,
       "slug": "core_keeper",
       "filename": "397_core_keeper_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T06:14:27Z"
     },
     {
       "id": 398,
@@ -3642,6 +3646,6 @@
       "status": "pending"
     }
   ],
-  "iteration": 15,
+  "iteration": 16,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
