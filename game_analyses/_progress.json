@@ -3515,7 +3515,8 @@
       "year": 2024,
       "slug": "trails_through_daybreak",
       "filename": "390_trails_through_daybreak_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T04:13:46Z"
     },
     {
       "id": 391,
@@ -3523,7 +3524,8 @@
       "year": 2019,
       "slug": "dragon_quest_builders_2",
       "filename": "391_dragon_quest_builders_2_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T04:13:46Z"
     },
     {
       "id": 392,
@@ -3531,7 +3533,8 @@
       "year": 2022,
       "slug": "lost_ark",
       "filename": "392_lost_ark_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T04:13:46Z"
     },
     {
       "id": 393,
@@ -3539,7 +3542,8 @@
       "year": 2021,
       "slug": "new_world",
       "filename": "393_new_world_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T04:13:46Z"
     },
     {
       "id": 394,
