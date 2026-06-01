@@ -3443,7 +3443,8 @@
       "year": 2017,
       "slug": "final_fantasy_xii_the_zodiac_age",
       "filename": "382_final_fantasy_xii_the_zodiac_age_2017.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T00:15:01.817881+00:00"
     },
     {
       "id": 383,
@@ -3451,7 +3452,8 @@
       "year": 2024,
       "slug": "final_fantasy_xiv_dawntrail",
       "filename": "383_final_fantasy_xiv_dawntrail_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T00:15:01.817881+00:00"
     },
     {
       "id": 384,
@@ -3459,7 +3461,8 @@
       "year": 2023,
       "slug": "like_a_dragon_ishin",
       "filename": "384_like_a_dragon_ishin_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T00:15:01.817881+00:00"
     },
     {
       "id": 385,
@@ -3467,7 +3470,8 @@
       "year": 2019,
       "slug": "atelier_ryza",
       "filename": "385_atelier_ryza_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T00:15:01.817881+00:00"
     },
     {
       "id": 386,
@@ -3630,6 +3634,6 @@
       "status": "pending"
     }
   ],
-  "iteration": 14,
+  "iteration": 15,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
