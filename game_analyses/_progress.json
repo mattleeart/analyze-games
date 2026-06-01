@@ -3587,7 +3587,8 @@
       "year": 2022,
       "slug": "raft",
       "filename": "398_raft_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T08:16:59Z"
     },
     {
       "id": 399,
@@ -3595,7 +3596,8 @@
       "year": 2018,
       "slug": "the_forest",
       "filename": "399_the_forest_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T08:16:59Z"
     },
     {
       "id": 400,
@@ -3603,7 +3605,8 @@
       "year": 2024,
       "slug": "age_of_mythology_retold",
       "filename": "400_age_of_mythology_retold_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T08:16:59Z"
     },
     {
       "id": 401,
@@ -3611,7 +3614,8 @@
       "year": 2019,
       "slug": "they_are_billions",
       "filename": "401_they_are_billions_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T08:16:59Z"
     },
     {
       "id": 402,
@@ -3646,6 +3650,6 @@
       "status": "pending"
     }
   ],
-  "iteration": 16,
+  "iteration": 17,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
