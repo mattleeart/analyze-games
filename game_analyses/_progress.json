@@ -3695,7 +3695,8 @@
       "year": 2020,
       "slug": "watch_dogs_legion",
       "filename": "410_watch_dogs_legion_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T16:13:38.140079Z"
     },
     {
       "id": 411,
@@ -3703,7 +3704,8 @@
       "year": 2018,
       "slug": "ni_no_kuni_ii",
       "filename": "411_ni_no_kuni_ii_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T16:13:38.140079Z"
     },
     {
       "id": 412,
@@ -3711,7 +3713,8 @@
       "year": 2023,
       "slug": "like_a_dragon_gaiden",
       "filename": "412_like_a_dragon_gaiden_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T16:13:38.140079Z"
     },
     {
       "id": 413,
@@ -3719,7 +3722,8 @@
       "year": 2024,
       "slug": "star_wars_outlaws",
       "filename": "413_star_wars_outlaws_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-01T16:13:38.140079Z"
     },
     {
       "id": 414,
@@ -3978,6 +3982,6 @@
       "status": "pending"
     }
   ],
-  "iteration": 18,
+  "iteration": 19,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
