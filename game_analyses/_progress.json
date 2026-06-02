@@ -3839,7 +3839,8 @@
       "year": 2019,
       "slug": "dirt_rally_2",
       "filename": "426_dirt_rally_2_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T02:13:11Z"
     },
     {
       "id": 427,
@@ -3847,7 +3848,8 @@
       "year": 2019,
       "slug": "ring_fit_adventure",
       "filename": "427_ring_fit_adventure_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T02:13:11Z"
     },
     {
       "id": 428,
@@ -3855,7 +3857,8 @@
       "year": 2020,
       "slug": "hyrule_warriors_age_of_calamity",
       "filename": "428_hyrule_warriors_age_of_calamity_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T02:13:11Z"
     },
     {
       "id": 429,
@@ -3863,7 +3866,8 @@
       "year": 2020,
       "slug": "dreams",
       "filename": "429_dreams_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T02:13:11Z"
     },
     {
       "id": 430,
@@ -3994,6 +3998,6 @@
       "status": "pending"
     }
   ],
-  "iteration": 21,
+  "iteration": 22,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
