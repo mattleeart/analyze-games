@@ -3803,7 +3803,8 @@
       "year": 2022,
       "slug": "stranger_of_paradise",
       "filename": "422_stranger_of_paradise_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T00:14:59.473058+00:00"
     },
     {
       "id": 423,
@@ -3811,7 +3812,8 @@
       "year": 2021,
       "slug": "humankind",
       "filename": "423_humankind_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T00:14:59.473058+00:00"
     },
     {
       "id": 424,
@@ -3819,7 +3821,8 @@
       "year": 2020,
       "slug": "mortal_shell",
       "filename": "424_mortal_shell_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T00:14:59.473058+00:00"
     },
     {
       "id": 425,
@@ -3827,7 +3830,8 @@
       "year": 2018,
       "slug": "wreckfest",
       "filename": "425_wreckfest_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T00:14:59.473058+00:00"
     },
     {
       "id": 426,
