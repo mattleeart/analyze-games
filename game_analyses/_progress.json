@@ -4091,7 +4091,8 @@
       "year": 2025,
       "slug": "wuchang_fallen_feathers",
       "filename": "454_wuchang_fallen_feathers_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T20:14:50.408639Z"
     },
     {
       "id": 455,
@@ -4234,7 +4235,8 @@
       "year": 2025,
       "slug": "dying_light_the_beast",
       "filename": "470_dying_light_the_beast_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T20:14:50.408639Z"
     },
     {
       "id": 471,
@@ -4242,7 +4244,8 @@
       "year": 2025,
       "slug": "cronos_the_new_dawn",
       "filename": "471_cronos_the_new_dawn_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T20:14:50.408639Z"
     },
     {
       "id": 472,
@@ -4250,7 +4253,8 @@
       "year": 2025,
       "slug": "little_nightmares_iii",
       "filename": "472_little_nightmares_iii_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T20:14:50.408639Z"
     },
     {
       "id": 473,
@@ -4258,7 +4262,8 @@
       "year": 2025,
       "slug": "two_point_museum",
       "filename": "473_two_point_museum_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T20:14:50.408639Z"
     },
     {
       "id": 474,
@@ -4266,7 +4271,8 @@
       "year": 2025,
       "slug": "pokemon_legends_za",
       "filename": "474_pokemon_legends_za_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T20:14:50.408639Z"
     },
     {
       "id": 475,
@@ -4274,7 +4280,8 @@
       "year": 2025,
       "slug": "metroid_prime_4_beyond",
       "filename": "475_metroid_prime_4_beyond_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T20:14:50.408639Z"
     },
     {
       "id": 476,
@@ -4282,7 +4289,8 @@
       "year": 2025,
       "slug": "dispatch",
       "filename": "476_dispatch_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T20:14:50.408639Z"
     },
     {
       "id": 477,
@@ -4290,7 +4298,8 @@
       "year": 2024,
       "slug": "ys_x_nordics",
       "filename": "477_ys_x_nordics_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T20:14:50.408639Z"
     },
     {
       "id": 478,
@@ -4298,7 +4307,8 @@
       "year": 2025,
       "slug": "fantasy_life_i",
       "filename": "478_fantasy_life_i_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T20:14:50.408639Z"
     },
     {
       "id": 479,
@@ -4306,7 +4316,8 @@
       "year": 2025,
       "slug": "rune_factory_guardians_of_azuma",
       "filename": "479_rune_factory_guardians_of_azuma_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T20:14:50.408639Z"
     },
     {
       "id": 480,
@@ -4314,7 +4325,8 @@
       "year": 2025,
       "slug": "ff_tactics_ivalice_chronicles",
       "filename": "480_ff_tactics_ivalice_chronicles_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T20:14:50.408639Z"
     },
     {
       "id": 481,
@@ -4322,7 +4334,8 @@
       "year": 2025,
       "slug": "sonic_racing_crossworlds",
       "filename": "481_sonic_racing_crossworlds_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T20:14:50.408639Z"
     },
     {
       "id": 482,
@@ -4330,7 +4343,8 @@
       "year": 2025,
       "slug": "thps_3_4",
       "filename": "482_thps_3_4_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T20:14:50.408639Z"
     },
     {
       "id": 483,
@@ -4338,7 +4352,8 @@
       "year": 2025,
       "slug": "mafia_the_old_country",
       "filename": "483_mafia_the_old_country_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T20:14:50.408639Z"
     },
     {
       "id": 484,
@@ -4346,7 +4361,8 @@
       "year": 2024,
       "slug": "lego_horizon_adventures",
       "filename": "484_lego_horizon_adventures_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T20:14:50.408639Z"
     },
     {
       "id": 485,
@@ -4354,7 +4370,8 @@
       "year": 2025,
       "slug": "dragon_quest_1_2_hd2d",
       "filename": "485_dragon_quest_1_2_hd2d_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T20:14:50.408639Z"
     }
   ],
   "iteration": 27,
