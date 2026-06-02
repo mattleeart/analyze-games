@@ -3875,7 +3875,8 @@
       "year": 2016,
       "slug": "the_last_guardian",
       "filename": "430_the_last_guardian_2016.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T04:14:06.022562"
     },
     {
       "id": 431,
@@ -3883,7 +3884,8 @@
       "year": 2016,
       "slug": "quantum_break",
       "filename": "431_quantum_break_2016.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T04:14:06.022562"
     },
     {
       "id": 432,
@@ -3891,7 +3893,8 @@
       "year": 2023,
       "slug": "viewfinder",
       "filename": "432_viewfinder_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T04:14:06.022562"
     },
     {
       "id": 433,
@@ -3899,7 +3902,8 @@
       "year": 2023,
       "slug": "tchia",
       "filename": "433_tchia_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T04:14:06.022562"
     },
     {
       "id": 434,
