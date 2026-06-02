@@ -4055,7 +4055,8 @@
       "year": 2021,
       "slug": "scarlet_nexus",
       "filename": "450_scarlet_nexus_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T16:15:47Z"
     },
     {
       "id": 451,
@@ -4063,7 +4064,8 @@
       "year": 2022,
       "slug": "trails_from_zero",
       "filename": "451_trails_from_zero_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T16:15:47Z"
     },
     {
       "id": 452,
@@ -4071,7 +4073,8 @@
       "year": 2022,
       "slug": "thymesia",
       "filename": "452_thymesia_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T16:15:47Z"
     },
     {
       "id": 453,
@@ -4079,7 +4082,8 @@
       "year": 2022,
       "slug": "steelrising",
       "filename": "453_steelrising_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T16:15:47Z"
     },
     {
       "id": 454,
@@ -4338,6 +4342,6 @@
       "status": "pending"
     }
   ],
-  "iteration": 25,
+  "iteration": 26,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
