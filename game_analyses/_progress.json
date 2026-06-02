@@ -3983,7 +3983,8 @@
       "year": 2024,
       "slug": "songs_of_conquest",
       "filename": "442_songs_of_conquest_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T10:14:08.730682Z"
     },
     {
       "id": 443,
@@ -3991,7 +3992,8 @@
       "year": 2023,
       "slug": "theatrhythm_final_bar_line",
       "filename": "443_theatrhythm_final_bar_line_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T10:14:08.730682Z"
     },
     {
       "id": 444,
@@ -3999,7 +4001,8 @@
       "year": 2021,
       "slug": "the_medium",
       "filename": "444_the_medium_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T10:14:08.730682Z"
     },
     {
       "id": 445,
@@ -4007,9 +4010,10 @@
       "year": 2022,
       "slug": "the_callisto_protocol",
       "filename": "445_the_callisto_protocol_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T10:14:08.730682Z"
     }
   ],
-  "iteration": 23,
+  "iteration": 24,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
