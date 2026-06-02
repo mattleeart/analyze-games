@@ -3,7 +3,7 @@
   "settings": {
     "batch_size": 25,
     "min_size_bytes": 16000,
-    "augment_count": 40
+    "augment_count": 100
   },
   "created_at": "2026-05-20",
   "total_games": 485,
