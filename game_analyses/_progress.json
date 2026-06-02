@@ -4019,7 +4019,8 @@
       "year": 2020,
       "slug": "persona_4_golden",
       "filename": "446_persona_4_golden_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T14:14:33.865460"
     },
     {
       "id": 447,
@@ -4027,7 +4028,8 @@
       "year": 2024,
       "slug": "rise_of_the_ronin",
       "filename": "447_rise_of_the_ronin_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T14:14:33.865460"
     },
     {
       "id": 448,
@@ -4035,7 +4037,8 @@
       "year": 2024,
       "slug": "dragon_age_veilguard",
       "filename": "448_dragon_age_veilguard_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T14:14:33.865460"
     },
     {
       "id": 449,
@@ -4043,7 +4046,8 @@
       "year": 2022,
       "slug": "star_ocean_divine_force",
       "filename": "449_star_ocean_divine_force_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T14:14:33.865460"
     },
     {
       "id": 450,
