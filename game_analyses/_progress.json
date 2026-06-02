@@ -4099,7 +4099,8 @@
       "year": 2024,
       "slug": "banishers_ghosts_of_new_eden",
       "filename": "455_banishers_ghosts_of_new_eden_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T18:15:37Z"
     },
     {
       "id": 456,
@@ -4107,7 +4108,8 @@
       "year": 2016,
       "slug": "human_fall_flat",
       "filename": "456_human_fall_flat_2016.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T18:15:37Z"
     },
     {
       "id": 457,
@@ -4115,7 +4117,8 @@
       "year": 2018,
       "slug": "overcooked_2",
       "filename": "457_overcooked_2_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T18:15:37Z"
     },
     {
       "id": 458,
@@ -4123,7 +4126,8 @@
       "year": 2020,
       "slug": "snowrunner",
       "filename": "458_snowrunner_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T18:15:37Z"
     },
     {
       "id": 459,
@@ -4131,7 +4135,8 @@
       "year": 2024,
       "slug": "content_warning",
       "filename": "459_content_warning_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T18:15:37Z"
     },
     {
       "id": 460,
@@ -4139,7 +4144,8 @@
       "year": 2025,
       "slug": "schedule_i",
       "filename": "460_schedule_i_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T18:15:37Z"
     },
     {
       "id": 461,
@@ -4147,7 +4153,8 @@
       "year": 2025,
       "slug": "repo",
       "filename": "461_repo_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T18:15:37Z"
     },
     {
       "id": 462,
@@ -4155,7 +4162,8 @@
       "year": 2019,
       "slug": "dicey_dungeons",
       "filename": "462_dicey_dungeons_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T18:15:37Z"
     },
     {
       "id": 463,
@@ -4163,7 +4171,8 @@
       "year": 2023,
       "slug": "backpack_hero",
       "filename": "463_backpack_hero_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T18:15:37Z"
     },
     {
       "id": 464,
@@ -4171,7 +4180,8 @@
       "year": 2023,
       "slug": "disney_dreamlight_valley",
       "filename": "464_disney_dreamlight_valley_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T18:15:37Z"
     },
     {
       "id": 465,
@@ -4179,7 +4189,8 @@
       "year": 2020,
       "slug": "star_wars_squadrons",
       "filename": "465_star_wars_squadrons_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T18:15:37Z"
     },
     {
       "id": 466,
@@ -4187,7 +4198,8 @@
       "year": 2022,
       "slug": "overwatch_2",
       "filename": "466_overwatch_2_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T18:15:37Z"
     },
     {
       "id": 467,
@@ -4195,7 +4207,8 @@
       "year": 2024,
       "slug": "zenless_zone_zero",
       "filename": "467_zenless_zone_zero_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T18:15:37Z"
     },
     {
       "id": 468,
@@ -4203,7 +4216,8 @@
       "year": 2025,
       "slug": "ninja_gaiden_4",
       "filename": "468_ninja_gaiden_4_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T18:15:37Z"
     },
     {
       "id": 469,
@@ -4211,7 +4225,8 @@
       "year": 2025,
       "slug": "the_outer_worlds_2",
       "filename": "469_the_outer_worlds_2_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T18:15:37Z"
     },
     {
       "id": 470,
@@ -4342,6 +4357,6 @@
       "status": "pending"
     }
   ],
-  "iteration": 26,
+  "iteration": 27,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
