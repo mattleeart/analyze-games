@@ -3947,7 +3947,8 @@
       "year": 2022,
       "slug": "roadwarden",
       "filename": "438_roadwarden_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T08:25:59.399825+00:00"
     },
     {
       "id": 439,
@@ -3955,7 +3956,8 @@
       "year": 2023,
       "slug": "cobalt_core",
       "filename": "439_cobalt_core_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T08:25:59.399825+00:00"
     },
     {
       "id": 440,
@@ -3963,7 +3965,8 @@
       "year": 2023,
       "slug": "wildfrost",
       "filename": "440_wildfrost_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T08:25:59.399825+00:00"
     },
     {
       "id": 441,
@@ -3971,7 +3974,8 @@
       "year": 2021,
       "slug": "grime",
       "filename": "441_grime_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T08:25:59.399825+00:00"
     },
     {
       "id": 442,
