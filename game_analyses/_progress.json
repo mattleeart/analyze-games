@@ -3911,7 +3911,8 @@
       "year": 2023,
       "slug": "shadow_gambit",
       "filename": "434_shadow_gambit_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T06:14:38.852488"
     },
     {
       "id": 435,
@@ -3919,7 +3920,8 @@
       "year": 2022,
       "slug": "norco",
       "filename": "435_norco_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T06:14:38.852488"
     },
     {
       "id": 436,
@@ -3927,7 +3929,8 @@
       "year": 2020,
       "slug": "paradise_killer",
       "filename": "436_paradise_killer_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T06:14:38.852488"
     },
     {
       "id": 437,
@@ -3935,7 +3938,8 @@
       "year": 2023,
       "slug": "in_stars_and_time",
       "filename": "437_in_stars_and_time_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-02T06:14:38.852488"
     },
     {
       "id": 438,
@@ -4002,6 +4006,6 @@
       "status": "pending"
     }
   ],
-  "iteration": 22,
+  "iteration": 23,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
