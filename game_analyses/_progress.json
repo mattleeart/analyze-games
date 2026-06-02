@@ -6,7 +6,7 @@
     "augment_count": 40
   },
   "created_at": "2026-05-20",
-  "total_games": 445,
+  "total_games": 485,
   "games": [
     {
       "id": 1,
@@ -4012,8 +4012,328 @@
       "filename": "445_the_callisto_protocol_2022.md",
       "status": "completed",
       "completed_at": "2026-06-02T10:14:08.730682Z"
+    },
+    {
+      "id": 446,
+      "title": "Persona 4 Golden",
+      "year": 2020,
+      "slug": "persona_4_golden",
+      "filename": "446_persona_4_golden_2020.md",
+      "status": "pending"
+    },
+    {
+      "id": 447,
+      "title": "Rise of the Ronin",
+      "year": 2024,
+      "slug": "rise_of_the_ronin",
+      "filename": "447_rise_of_the_ronin_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 448,
+      "title": "Dragon Age: The Veilguard",
+      "year": 2024,
+      "slug": "dragon_age_veilguard",
+      "filename": "448_dragon_age_veilguard_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 449,
+      "title": "Star Ocean: The Divine Force",
+      "year": 2022,
+      "slug": "star_ocean_divine_force",
+      "filename": "449_star_ocean_divine_force_2022.md",
+      "status": "pending"
+    },
+    {
+      "id": 450,
+      "title": "Scarlet Nexus",
+      "year": 2021,
+      "slug": "scarlet_nexus",
+      "filename": "450_scarlet_nexus_2021.md",
+      "status": "pending"
+    },
+    {
+      "id": 451,
+      "title": "The Legend of Heroes: Trails from Zero",
+      "year": 2022,
+      "slug": "trails_from_zero",
+      "filename": "451_trails_from_zero_2022.md",
+      "status": "pending"
+    },
+    {
+      "id": 452,
+      "title": "Thymesia",
+      "year": 2022,
+      "slug": "thymesia",
+      "filename": "452_thymesia_2022.md",
+      "status": "pending"
+    },
+    {
+      "id": 453,
+      "title": "Steelrising",
+      "year": 2022,
+      "slug": "steelrising",
+      "filename": "453_steelrising_2022.md",
+      "status": "pending"
+    },
+    {
+      "id": 454,
+      "title": "Wuchang: Fallen Feathers",
+      "year": 2025,
+      "slug": "wuchang_fallen_feathers",
+      "filename": "454_wuchang_fallen_feathers_2025.md",
+      "status": "pending"
+    },
+    {
+      "id": 455,
+      "title": "Banishers: Ghosts of New Eden",
+      "year": 2024,
+      "slug": "banishers_ghosts_of_new_eden",
+      "filename": "455_banishers_ghosts_of_new_eden_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 456,
+      "title": "Human: Fall Flat",
+      "year": 2016,
+      "slug": "human_fall_flat",
+      "filename": "456_human_fall_flat_2016.md",
+      "status": "pending"
+    },
+    {
+      "id": 457,
+      "title": "Overcooked 2",
+      "year": 2018,
+      "slug": "overcooked_2",
+      "filename": "457_overcooked_2_2018.md",
+      "status": "pending"
+    },
+    {
+      "id": 458,
+      "title": "SnowRunner",
+      "year": 2020,
+      "slug": "snowrunner",
+      "filename": "458_snowrunner_2020.md",
+      "status": "pending"
+    },
+    {
+      "id": 459,
+      "title": "Content Warning",
+      "year": 2024,
+      "slug": "content_warning",
+      "filename": "459_content_warning_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 460,
+      "title": "Schedule I",
+      "year": 2025,
+      "slug": "schedule_i",
+      "filename": "460_schedule_i_2025.md",
+      "status": "pending"
+    },
+    {
+      "id": 461,
+      "title": "R.E.P.O.",
+      "year": 2025,
+      "slug": "repo",
+      "filename": "461_repo_2025.md",
+      "status": "pending"
+    },
+    {
+      "id": 462,
+      "title": "Dicey Dungeons",
+      "year": 2019,
+      "slug": "dicey_dungeons",
+      "filename": "462_dicey_dungeons_2019.md",
+      "status": "pending"
+    },
+    {
+      "id": 463,
+      "title": "Backpack Hero",
+      "year": 2023,
+      "slug": "backpack_hero",
+      "filename": "463_backpack_hero_2023.md",
+      "status": "pending"
+    },
+    {
+      "id": 464,
+      "title": "Disney Dreamlight Valley",
+      "year": 2023,
+      "slug": "disney_dreamlight_valley",
+      "filename": "464_disney_dreamlight_valley_2023.md",
+      "status": "pending"
+    },
+    {
+      "id": 465,
+      "title": "Star Wars: Squadrons",
+      "year": 2020,
+      "slug": "star_wars_squadrons",
+      "filename": "465_star_wars_squadrons_2020.md",
+      "status": "pending"
+    },
+    {
+      "id": 466,
+      "title": "Overwatch 2",
+      "year": 2022,
+      "slug": "overwatch_2",
+      "filename": "466_overwatch_2_2022.md",
+      "status": "pending"
+    },
+    {
+      "id": 467,
+      "title": "Zenless Zone Zero",
+      "year": 2024,
+      "slug": "zenless_zone_zero",
+      "filename": "467_zenless_zone_zero_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 468,
+      "title": "Ninja Gaiden 4",
+      "year": 2025,
+      "slug": "ninja_gaiden_4",
+      "filename": "468_ninja_gaiden_4_2025.md",
+      "status": "pending"
+    },
+    {
+      "id": 469,
+      "title": "The Outer Worlds 2",
+      "year": 2025,
+      "slug": "the_outer_worlds_2",
+      "filename": "469_the_outer_worlds_2_2025.md",
+      "status": "pending"
+    },
+    {
+      "id": 470,
+      "title": "Dying Light: The Beast",
+      "year": 2025,
+      "slug": "dying_light_the_beast",
+      "filename": "470_dying_light_the_beast_2025.md",
+      "status": "pending"
+    },
+    {
+      "id": 471,
+      "title": "Cronos: The New Dawn",
+      "year": 2025,
+      "slug": "cronos_the_new_dawn",
+      "filename": "471_cronos_the_new_dawn_2025.md",
+      "status": "pending"
+    },
+    {
+      "id": 472,
+      "title": "Little Nightmares III",
+      "year": 2025,
+      "slug": "little_nightmares_iii",
+      "filename": "472_little_nightmares_iii_2025.md",
+      "status": "pending"
+    },
+    {
+      "id": 473,
+      "title": "Two Point Museum",
+      "year": 2025,
+      "slug": "two_point_museum",
+      "filename": "473_two_point_museum_2025.md",
+      "status": "pending"
+    },
+    {
+      "id": 474,
+      "title": "Pokémon Legends: Z-A",
+      "year": 2025,
+      "slug": "pokemon_legends_za",
+      "filename": "474_pokemon_legends_za_2025.md",
+      "status": "pending"
+    },
+    {
+      "id": 475,
+      "title": "Metroid Prime 4: Beyond",
+      "year": 2025,
+      "slug": "metroid_prime_4_beyond",
+      "filename": "475_metroid_prime_4_beyond_2025.md",
+      "status": "pending"
+    },
+    {
+      "id": 476,
+      "title": "Dispatch",
+      "year": 2025,
+      "slug": "dispatch",
+      "filename": "476_dispatch_2025.md",
+      "status": "pending"
+    },
+    {
+      "id": 477,
+      "title": "Ys X: Nordics",
+      "year": 2024,
+      "slug": "ys_x_nordics",
+      "filename": "477_ys_x_nordics_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 478,
+      "title": "Fantasy Life i: The Girl Who Steals Time",
+      "year": 2025,
+      "slug": "fantasy_life_i",
+      "filename": "478_fantasy_life_i_2025.md",
+      "status": "pending"
+    },
+    {
+      "id": 479,
+      "title": "Rune Factory: Guardians of Azuma",
+      "year": 2025,
+      "slug": "rune_factory_guardians_of_azuma",
+      "filename": "479_rune_factory_guardians_of_azuma_2025.md",
+      "status": "pending"
+    },
+    {
+      "id": 480,
+      "title": "Final Fantasy Tactics: The Ivalice Chronicles",
+      "year": 2025,
+      "slug": "ff_tactics_ivalice_chronicles",
+      "filename": "480_ff_tactics_ivalice_chronicles_2025.md",
+      "status": "pending"
+    },
+    {
+      "id": 481,
+      "title": "Sonic Racing: CrossWorlds",
+      "year": 2025,
+      "slug": "sonic_racing_crossworlds",
+      "filename": "481_sonic_racing_crossworlds_2025.md",
+      "status": "pending"
+    },
+    {
+      "id": 482,
+      "title": "Tony Hawk's Pro Skater 3 + 4",
+      "year": 2025,
+      "slug": "thps_3_4",
+      "filename": "482_thps_3_4_2025.md",
+      "status": "pending"
+    },
+    {
+      "id": 483,
+      "title": "Mafia: The Old Country",
+      "year": 2025,
+      "slug": "mafia_the_old_country",
+      "filename": "483_mafia_the_old_country_2025.md",
+      "status": "pending"
+    },
+    {
+      "id": 484,
+      "title": "LEGO Horizon Adventures",
+      "year": 2024,
+      "slug": "lego_horizon_adventures",
+      "filename": "484_lego_horizon_adventures_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 485,
+      "title": "Dragon Quest I & II HD-2D Remake",
+      "year": 2025,
+      "slug": "dragon_quest_1_2_hd2d",
+      "filename": "485_dragon_quest_1_2_hd2d_2025.md",
+      "status": "pending"
     }
   ],
-  "iteration": 24,
+  "iteration": 25,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
