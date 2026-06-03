@@ -5306,7 +5306,8 @@
       "year": 2016,
       "slug": "the_king_of_fighters_xiv",
       "filename": "589_the_king_of_fighters_xiv_2016.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T20:13:28.062787+00:00"
     },
     {
       "id": 590,
@@ -5323,7 +5324,8 @@
       "year": 2016,
       "slug": "grim_dawn",
       "filename": "591_grim_dawn_2016.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T20:13:28.062906+00:00"
     },
     {
       "id": 592,
@@ -5331,7 +5333,8 @@
       "year": 2016,
       "slug": "oxenfree",
       "filename": "592_oxenfree_2016.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T20:13:43.017672+00:00"
     },
     {
       "id": 593,
@@ -5410,7 +5413,8 @@
       "year": 2017,
       "slug": "tekken_7",
       "filename": "601_tekken_7_2017.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T20:13:43.017716+00:00"
     },
     {
       "id": 602,
@@ -5454,7 +5458,8 @@
       "year": 2017,
       "slug": "sniper_elite_4",
       "filename": "606_sniper_elite_4_2017.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T20:13:43.017724+00:00"
     },
     {
       "id": 607,
@@ -5462,7 +5467,8 @@
       "year": 2017,
       "slug": "outlast_2",
       "filename": "607_outlast_2_2017.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T20:13:28.062935+00:00"
     },
     {
       "id": 608,
@@ -5494,7 +5500,8 @@
       "year": 2017,
       "slug": "getting_over_it_with_bennett_foddy",
       "filename": "611_getting_over_it_with_bennett_foddy_2017.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T20:13:43.017745+00:00"
     },
     {
       "id": 612,
