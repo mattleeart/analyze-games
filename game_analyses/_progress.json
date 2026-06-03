@@ -4892,7 +4892,8 @@
       "year": 2020,
       "slug": "the_legend_of_heroes_trails_of_cold_steel_iv",
       "filename": "543_the_legend_of_heroes_trails_of_cold_steel_iv_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T05:28:46.638654+00:00"
     },
     {
       "id": 544,
@@ -4989,7 +4990,8 @@
       "year": 2023,
       "slug": "dragon_quest_monsters_the_dark_prince",
       "filename": "554_dragon_quest_monsters_the_dark_prince_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T05:28:46.638654+00:00"
     },
     {
       "id": 555,
@@ -4997,7 +4999,8 @@
       "year": 2018,
       "slug": "soulcalibur_vi",
       "filename": "555_soulcalibur_vi_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T05:28:46.638654+00:00"
     },
     {
       "id": 556,
