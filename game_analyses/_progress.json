@@ -5477,7 +5477,8 @@
       "year": 2017,
       "slug": "little_nightmares",
       "filename": "608_little_nightmares_2017.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T20:14:56.287881+00:00"
     },
     {
       "id": 609,
@@ -5563,7 +5564,8 @@
       "year": 2018,
       "slug": "warhammer_40000_mechanicus",
       "filename": "618_warhammer_40000_mechanicus_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T20:14:56.287960+00:00"
     },
     {
       "id": 619,
@@ -5571,7 +5573,8 @@
       "year": 2018,
       "slug": "jurassic_world_evolution",
       "filename": "619_jurassic_world_evolution_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T20:14:56.287968+00:00"
     },
     {
       "id": 620,
