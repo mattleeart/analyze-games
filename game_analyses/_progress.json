@@ -5189,7 +5189,8 @@
       "year": 2021,
       "slug": "back_4_blood",
       "filename": "576_back_4_blood_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T12:15:09.550921+00:00"
     },
     {
       "id": 577,
@@ -5197,7 +5198,8 @@
       "year": 2017,
       "slug": "gang_beasts",
       "filename": "577_gang_beasts_2017.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T12:15:09.550921+00:00"
     },
     {
       "id": 578,
@@ -5205,7 +5207,8 @@
       "year": 2020,
       "slug": "moving_out",
       "filename": "578_moving_out_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T12:15:09.550921+00:00"
     },
     {
       "id": 579,
@@ -5213,7 +5216,8 @@
       "year": 2022,
       "slug": "plateup",
       "filename": "579_plateup_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T12:15:09.550921+00:00"
     },
     {
       "id": 580,
@@ -5221,7 +5225,8 @@
       "year": 2017,
       "slug": "stick_fight_the_game",
       "filename": "580_stick_fight_the_game_2017.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T12:15:09.550921+00:00"
     },
     {
       "id": 581,
@@ -5229,7 +5234,8 @@
       "year": 2019,
       "slug": "superliminal",
       "filename": "581_superliminal_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T12:15:09.550921+00:00"
     },
     {
       "id": 582,
@@ -5237,7 +5243,8 @@
       "year": 2022,
       "slug": "patrick_s_parabox",
       "filename": "582_patrick_s_parabox_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T12:15:09.550921+00:00"
     },
     {
       "id": 583,
@@ -5245,7 +5252,8 @@
       "year": 2020,
       "slug": "coffee_talk",
       "filename": "583_coffee_talk_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T12:15:09.550921+00:00"
     },
     {
       "id": 584,
@@ -5253,7 +5261,8 @@
       "year": 2022,
       "slug": "as_dusk_falls",
       "filename": "584_as_dusk_falls_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T12:15:09.550921+00:00"
     },
     {
       "id": 585,
@@ -5261,7 +5270,8 @@
       "year": 2022,
       "slug": "strange_horticulture",
       "filename": "585_strange_horticulture_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T12:15:09.550921+00:00"
     }
   ],
   "iteration": 29,
