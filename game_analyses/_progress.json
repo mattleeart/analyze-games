@@ -5493,7 +5493,8 @@
       "year": 2017,
       "slug": "star_wars_battlefront_ii",
       "filename": "610_star_wars_battlefront_ii_2017.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T20:14:22.005270+00:00"
     },
     {
       "id": 611,
@@ -5518,7 +5519,8 @@
       "year": 2017,
       "slug": "slime_rancher",
       "filename": "613_slime_rancher_2017.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T20:14:22.005312+00:00"
     },
     {
       "id": 614,
@@ -5526,7 +5528,8 @@
       "year": 2018,
       "slug": "valkyria_chronicles_4",
       "filename": "614_valkyria_chronicles_4_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T20:14:22.005320+00:00"
     },
     {
       "id": 615,
@@ -5542,7 +5545,8 @@
       "year": 2018,
       "slug": "guacamelee_2",
       "filename": "616_guacamelee_2_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T20:14:22.005328+00:00"
     },
     {
       "id": 617,
