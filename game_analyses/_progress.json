@@ -5512,7 +5512,8 @@
       "year": 2017,
       "slug": "steamworld_dig_2",
       "filename": "612_steamworld_dig_2_2017.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T20:15:17.937879+00:00"
     },
     {
       "id": 613,
@@ -5556,7 +5557,8 @@
       "year": 2018,
       "slug": "mutant_year_zero_road_to_eden",
       "filename": "617_mutant_year_zero_road_to_eden_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T20:15:17.937932+00:00"
     },
     {
       "id": 618,
@@ -5582,7 +5584,8 @@
       "year": 2018,
       "slug": "northgard",
       "filename": "620_northgard_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T20:15:17.937946+00:00"
     },
     {
       "id": 621,
