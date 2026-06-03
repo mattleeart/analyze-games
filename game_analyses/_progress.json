@@ -1,7 +1,7 @@
 ﻿{
   "schema_version": 2,
   "settings": {
-    "batch_size": 25,
+    "batch_size": 20,
     "min_size_bytes": 16000,
     "augment_count": 100
   },
