@@ -4865,7 +4865,8 @@
       "year": 2019,
       "slug": "outward",
       "filename": "540_outward_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T05:28:10.229077+00:00"
     },
     {
       "id": 541,
@@ -4882,7 +4883,8 @@
       "year": 2017,
       "slug": "mass_effect_andromeda",
       "filename": "542_mass_effect_andromeda_2017.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T05:28:10.229077+00:00"
     },
     {
       "id": 543,
@@ -4898,7 +4900,8 @@
       "year": 2021,
       "slug": "ys_ix_monstrum_nox",
       "filename": "544_ys_ix_monstrum_nox_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T05:28:10.229077+00:00"
     },
     {
       "id": 545,
@@ -4906,7 +4909,8 @@
       "year": 2021,
       "slug": "atelier_ryza_2_lost_legends_and_the_secret_fairy",
       "filename": "545_atelier_ryza_2_lost_legends_and_the_secret_fairy_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T05:28:10.229077+00:00"
     },
     {
       "id": 546,
@@ -4914,7 +4918,8 @@
       "year": 2023,
       "slug": "atelier_ryza_3_alchemist_of_the_end_and_the_secret_key",
       "filename": "546_atelier_ryza_3_alchemist_of_the_end_and_the_secret_key_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T05:28:10.229077+00:00"
     },
     {
       "id": 547,
@@ -4922,7 +4927,8 @@
       "year": 2019,
       "slug": "tales_of_vesperia_definitive_edition",
       "filename": "547_tales_of_vesperia_definitive_edition_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T05:28:10.229077+00:00"
     },
     {
       "id": 548,
@@ -4930,7 +4936,8 @@
       "year": 2022,
       "slug": "soul_hackers_2",
       "filename": "548_soul_hackers_2_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T05:28:10.229077+00:00"
     },
     {
       "id": 549,
@@ -4938,7 +4945,8 @@
       "year": 2022,
       "slug": "digimon_survive",
       "filename": "549_digimon_survive_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T05:28:10.229077+00:00"
     },
     {
       "id": 550,
@@ -4955,7 +4963,8 @@
       "year": 2021,
       "slug": "cris_tales",
       "filename": "551_cris_tales_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T05:28:10.229077+00:00"
     },
     {
       "id": 552,
@@ -4971,7 +4980,8 @@
       "year": 2022,
       "slug": "dragon_quest_treasures",
       "filename": "553_dragon_quest_treasures_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-03T05:28:10.229077+00:00"
     },
     {
       "id": 554,
