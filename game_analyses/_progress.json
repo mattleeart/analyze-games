@@ -7061,7 +7061,8 @@
       "year": 2025,
       "slug": "promise_mascot_agency",
       "filename": "784_promise_mascot_agency_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T16:16:35.237846+00:00"
     },
     {
       "id": 785,
@@ -7069,9 +7070,10 @@
       "year": 2025,
       "slug": "absolum",
       "filename": "785_absolum_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T16:16:35.237846+00:00"
     }
   ],
-  "iteration": 35,
+  "iteration": 36,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
