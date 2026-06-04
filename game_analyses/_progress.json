@@ -6341,7 +6341,8 @@
       "year": 2023,
       "slug": "advance_wars_1_2_re_boot_camp",
       "filename": "704_advance_wars_1_2_re_boot_camp_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T08:15:37Z"
     },
     {
       "id": 705,
@@ -6358,7 +6359,8 @@
       "year": 2021,
       "slug": "warioware_get_it_together",
       "filename": "706_warioware_get_it_together_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T08:15:37Z"
     },
     {
       "id": 707,
@@ -6366,7 +6368,8 @@
       "year": 2023,
       "slug": "trepang2",
       "filename": "707_trepang2_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T08:15:37Z"
     },
     {
       "id": 708,
@@ -6374,7 +6377,8 @@
       "year": 2024,
       "slug": "riven",
       "filename": "708_riven_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T08:15:37Z"
     },
     {
       "id": 709,
@@ -6382,7 +6386,8 @@
       "year": 2023,
       "slug": "void_stranger",
       "filename": "709_void_stranger_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T08:15:37Z"
     },
     {
       "id": 710,
@@ -6390,7 +6395,8 @@
       "year": 2024,
       "slug": "botany_manor",
       "filename": "710_botany_manor_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T08:15:37Z"
     },
     {
       "id": 711,
@@ -6398,7 +6404,8 @@
       "year": 2024,
       "slug": "the_rise_of_the_golden_idol",
       "filename": "711_the_rise_of_the_golden_idol_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T08:15:37Z"
     },
     {
       "id": 712,
@@ -6406,7 +6413,8 @@
       "year": 2024,
       "slug": "tiny_glade",
       "filename": "712_tiny_glade_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T08:15:37Z"
     },
     {
       "id": 713,
@@ -6414,7 +6422,8 @@
       "year": 2024,
       "slug": "children_of_the_sun",
       "filename": "713_children_of_the_sun_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T08:15:37Z"
     },
     {
       "id": 714,
@@ -6422,7 +6431,8 @@
       "year": 2024,
       "slug": "ultros",
       "filename": "714_ultros_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T08:15:37Z"
     },
     {
       "id": 715,
@@ -6430,7 +6440,8 @@
       "year": 2024,
       "slug": "bo_path_of_the_teal_lotus",
       "filename": "715_bo_path_of_the_teal_lotus_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T08:15:37Z"
     },
     {
       "id": 716,
@@ -6438,7 +6449,8 @@
       "year": 2023,
       "slug": "afterimage",
       "filename": "716_afterimage_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T08:15:37Z"
     },
     {
       "id": 717,
@@ -6454,7 +6466,8 @@
       "year": 2024,
       "slug": "deep_rock_galactic_survivor",
       "filename": "718_deep_rock_galactic_survivor_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T08:15:37Z"
     },
     {
       "id": 719,
@@ -6470,7 +6483,8 @@
       "year": 2023,
       "slug": "coral_island",
       "filename": "720_coral_island_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T08:15:37Z"
     },
     {
       "id": 721,
@@ -6478,7 +6492,8 @@
       "year": 2023,
       "slug": "my_time_at_sandrock",
       "filename": "721_my_time_at_sandrock_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T08:15:37Z"
     },
     {
       "id": 722,
@@ -6486,7 +6501,8 @@
       "year": 2022,
       "slug": "harvestella",
       "filename": "722_harvestella_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T08:15:37Z"
     },
     {
       "id": 723,
@@ -6494,7 +6510,8 @@
       "year": 2022,
       "slug": "potion_craft_alchemist_simulator",
       "filename": "723_potion_craft_alchemist_simulator_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T08:15:37Z"
     },
     {
       "id": 724,
@@ -6993,6 +7010,6 @@
       "status": "pending"
     }
   ],
-  "iteration": 33,
+  "iteration": 34,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
