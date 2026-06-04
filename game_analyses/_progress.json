@@ -6125,7 +6125,8 @@
       "year": 2024,
       "slug": "indika",
       "filename": "680_indika_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T04:13:55.580901+00:00"
     },
     {
       "id": 681,
@@ -6133,7 +6134,8 @@
       "year": 2024,
       "slug": "thank_goodness_youre_here",
       "filename": "681_thank_goodness_youre_here_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T04:13:55.580901+00:00"
     },
     {
       "id": 682,
@@ -6141,7 +6143,8 @@
       "year": 2024,
       "slug": "neva",
       "filename": "682_neva_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T04:13:55.580901+00:00"
     },
     {
       "id": 683,
@@ -6149,7 +6152,8 @@
       "year": 2024,
       "slug": "mullet_mad_jack",
       "filename": "683_mullet_mad_jack_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T04:13:55.580901+00:00"
     },
     {
       "id": 684,
@@ -6157,7 +6161,8 @@
       "year": 2025,
       "slug": "citizen_sleeper_2_starward_vector",
       "filename": "684_citizen_sleeper_2_starward_vector_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T04:13:55.580901+00:00"
     },
     {
       "id": 685,
@@ -6165,7 +6170,8 @@
       "year": 2025,
       "slug": "tainted_grail_the_fall_of_avalon",
       "filename": "685_tainted_grail_the_fall_of_avalon_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T04:13:55.580901+00:00"
     }
   ],
   "iteration": 31,
