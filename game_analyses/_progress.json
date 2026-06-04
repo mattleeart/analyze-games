@@ -5953,7 +5953,8 @@
       "year": 2022,
       "slug": "olliolli_world",
       "filename": "661_olliolli_world_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T00:00:00Z"
     },
     {
       "id": 662,
@@ -5961,7 +5962,8 @@
       "year": 2022,
       "slug": "lego_star_wars_the_skywalker_saga",
       "filename": "662_lego_star_wars_the_skywalker_saga_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T00:00:00Z"
     },
     {
       "id": 663,
@@ -5969,7 +5971,8 @@
       "year": 2022,
       "slug": "nobody_saves_the_world",
       "filename": "663_nobody_saves_the_world_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T00:00:00Z"
     },
     {
       "id": 664,
@@ -5977,7 +5980,8 @@
       "year": 2022,
       "slug": "return_to_monkey_island",
       "filename": "664_return_to_monkey_island_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T00:00:00Z"
     },
     {
       "id": 665,
@@ -5985,7 +5989,8 @@
       "year": 2022,
       "slug": "rollerdrome",
       "filename": "665_rollerdrome_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T00:00:00Z"
     },
     {
       "id": 666,
@@ -5993,7 +5998,8 @@
       "year": 2022,
       "slug": "card_shark",
       "filename": "666_card_shark_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T00:00:00Z"
     },
     {
       "id": 667,
@@ -6001,7 +6007,8 @@
       "year": 2023,
       "slug": "wargroove_2",
       "filename": "667_wargroove_2_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T00:00:00Z"
     },
     {
       "id": 668,
@@ -6017,7 +6024,8 @@
       "year": 2023,
       "slug": "terra_nil",
       "filename": "669_terra_nil_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T00:00:00Z"
     },
     {
       "id": 670,
@@ -6033,7 +6041,8 @@
       "year": 2023,
       "slug": "humanity",
       "filename": "671_humanity_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T00:00:00Z"
     },
     {
       "id": 672,
@@ -6081,7 +6090,8 @@
       "year": 2023,
       "slug": "the_cosmic_wheel_sisterhood",
       "filename": "677_the_cosmic_wheel_sisterhood_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T00:00:00Z"
     },
     {
       "id": 678,
