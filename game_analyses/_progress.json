@@ -5945,7 +5945,8 @@
       "year": 2022,
       "slug": "trek_to_yomi",
       "filename": "660_trek_to_yomi_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T00:00:00Z"
     },
     {
       "id": 661,
@@ -6016,7 +6017,8 @@
       "year": 2023,
       "slug": "age_of_wonders_4",
       "filename": "668_age_of_wonders_4_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T00:00:00Z"
     },
     {
       "id": 669,
@@ -6033,7 +6035,8 @@
       "year": 2023,
       "slug": "world_of_horror",
       "filename": "670_world_of_horror_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T00:00:00Z"
     },
     {
       "id": 671,
@@ -6050,7 +6053,8 @@
       "year": 2023,
       "slug": "venba",
       "filename": "672_venba_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T00:00:00Z"
     },
     {
       "id": 673,
@@ -6058,7 +6062,8 @@
       "year": 2023,
       "slug": "jusant",
       "filename": "673_jusant_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T00:00:00Z"
     },
     {
       "id": 674,
@@ -6066,7 +6071,8 @@
       "year": 2023,
       "slug": "el_paso_elsewhere",
       "filename": "674_el_paso_elsewhere_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T00:00:00Z"
     },
     {
       "id": 675,
@@ -6074,7 +6080,8 @@
       "year": 2023,
       "slug": "super_mario_rpg",
       "filename": "675_super_mario_rpg_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T00:00:00Z"
     },
     {
       "id": 676,
@@ -6107,7 +6114,8 @@
       "year": 2024,
       "slug": "tales_of_kenzera_zau",
       "filename": "679_tales_of_kenzera_zau_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-04T00:00:00Z"
     },
     {
       "id": 680,
