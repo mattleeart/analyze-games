@@ -6,7 +6,7 @@
     "augment_count": 100
   },
   "created_at": "2026-05-20",
-  "total_games": 985,
+  "total_games": 1085,
   "games": [
     {
       "id": 1,
@@ -8872,8 +8872,808 @@
       "filename": "985_heavens_vault_2019.md",
       "status": "completed",
       "completed_at": "2026-06-05T18:11:47Z"
+    },
+    {
+      "id": 986,
+      "title": "Mullet MadJack",
+      "year": 2024,
+      "slug": "mullet_madjack",
+      "filename": "986_mullet_madjack_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 987,
+      "title": "Felvidek",
+      "year": 2024,
+      "slug": "felvidek",
+      "filename": "987_felvidek_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 988,
+      "title": "Sticky Business",
+      "year": 2023,
+      "slug": "sticky_business",
+      "filename": "988_sticky_business_2023.md",
+      "status": "pending"
+    },
+    {
+      "id": 989,
+      "title": "Turbo Kid",
+      "year": 2024,
+      "slug": "turbo_kid",
+      "filename": "989_turbo_kid_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 990,
+      "title": "Cinnabunny",
+      "year": 2025,
+      "slug": "cinnabunny",
+      "filename": "990_cinnabunny_2025.md",
+      "status": "pending"
+    },
+    {
+      "id": 991,
+      "title": "Echo Point Nova",
+      "year": 2024,
+      "slug": "echo_point_nova",
+      "filename": "991_echo_point_nova_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 992,
+      "title": "Look Outside",
+      "year": 2025,
+      "slug": "look_outside",
+      "filename": "992_look_outside_2025.md",
+      "status": "pending"
+    },
+    {
+      "id": 993,
+      "title": "Victory Heat Rally",
+      "year": 2024,
+      "slug": "victory_heat_rally",
+      "filename": "993_victory_heat_rally_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 994,
+      "title": "Gigasword",
+      "year": 2025,
+      "slug": "gigasword",
+      "filename": "994_gigasword_2025.md",
+      "status": "pending"
+    },
+    {
+      "id": 995,
+      "title": "Diceomancer",
+      "year": 2024,
+      "slug": "diceomancer",
+      "filename": "995_diceomancer_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 996,
+      "title": "POSTAL: Brain Damaged",
+      "year": 2022,
+      "slug": "postal_brain_damaged",
+      "filename": "996_postal_brain_damaged_2022.md",
+      "status": "pending"
+    },
+    {
+      "id": 997,
+      "title": "Wizordum",
+      "year": 2024,
+      "slug": "wizordum",
+      "filename": "997_wizordum_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 998,
+      "title": "Forgive Me Father",
+      "year": 2022,
+      "slug": "forgive_me_father",
+      "filename": "998_forgive_me_father_2022.md",
+      "status": "pending"
+    },
+    {
+      "id": 999,
+      "title": "I Am Your Beast",
+      "year": 2024,
+      "slug": "i_am_your_beast",
+      "filename": "999_i_am_your_beast_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 1000,
+      "title": "Peripeteia",
+      "year": 2024,
+      "slug": "peripeteia",
+      "filename": "1000_peripeteia_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 1001,
+      "title": "Zero Sievert",
+      "year": 2023,
+      "slug": "zero_sievert",
+      "filename": "1001_zero_sievert_2023.md",
+      "status": "pending"
+    },
+    {
+      "id": 1002,
+      "title": "Witchfire",
+      "year": 2023,
+      "slug": "witchfire",
+      "filename": "1002_witchfire_2023.md",
+      "status": "pending"
+    },
+    {
+      "id": 1003,
+      "title": "Darkwood",
+      "year": 2017,
+      "slug": "darkwood",
+      "filename": "1003_darkwood_2017.md",
+      "status": "pending"
+    },
+    {
+      "id": 1004,
+      "title": "Voidigo",
+      "year": 2023,
+      "slug": "voidigo",
+      "filename": "1004_voidigo_2023.md",
+      "status": "pending"
+    },
+    {
+      "id": 1005,
+      "title": "Nova Drift",
+      "year": 2022,
+      "slug": "nova_drift",
+      "filename": "1005_nova_drift_2022.md",
+      "status": "pending"
+    },
+    {
+      "id": 1006,
+      "title": "Tails of Iron",
+      "year": 2021,
+      "slug": "tails_of_iron",
+      "filename": "1006_tails_of_iron_2021.md",
+      "status": "pending"
+    },
+    {
+      "id": 1007,
+      "title": "The Wonderful 101: Remastered",
+      "year": 2020,
+      "slug": "the_wonderful_101_remastered",
+      "filename": "1007_the_wonderful_101_remastered_2020.md",
+      "status": "pending"
+    },
+    {
+      "id": 1008,
+      "title": "Romancing SaGa 2",
+      "year": 2017,
+      "slug": "romancing_saga_2",
+      "filename": "1008_romancing_saga_2_2017.md",
+      "status": "pending"
+    },
+    {
+      "id": 1009,
+      "title": "La-Mulana 2",
+      "year": 2018,
+      "slug": "la_mulana_2",
+      "filename": "1009_la_mulana_2_2018.md",
+      "status": "pending"
+    },
+    {
+      "id": 1010,
+      "title": "Danmaku Unlimited 3",
+      "year": 2018,
+      "slug": "danmaku_unlimited_3",
+      "filename": "1010_danmaku_unlimited_3_2018.md",
+      "status": "pending"
+    },
+    {
+      "id": 1011,
+      "title": "Root Double: Before Crime After Days",
+      "year": 2016,
+      "slug": "root_double_before_crime_after_days",
+      "filename": "1011_root_double_before_crime_after_days_2016.md",
+      "status": "pending"
+    },
+    {
+      "id": 1012,
+      "title": "BOKURA",
+      "year": 2023,
+      "slug": "bokura",
+      "filename": "1012_bokura_2023.md",
+      "status": "pending"
+    },
+    {
+      "id": 1013,
+      "title": "Bladed Fury",
+      "year": 2018,
+      "slug": "bladed_fury",
+      "filename": "1013_bladed_fury_2018.md",
+      "status": "pending"
+    },
+    {
+      "id": 1014,
+      "title": "The Scroll of Taiwu",
+      "year": 2018,
+      "slug": "the_scroll_of_taiwu",
+      "filename": "1014_the_scroll_of_taiwu_2018.md",
+      "status": "pending"
+    },
+    {
+      "id": 1015,
+      "title": "Amazing Cultivation Simulator",
+      "year": 2021,
+      "slug": "amazing_cultivation_simulator",
+      "filename": "1015_amazing_cultivation_simulator_2021.md",
+      "status": "pending"
+    },
+    {
+      "id": 1016,
+      "title": "ANNO: Mutationem",
+      "year": 2022,
+      "slug": "anno_mutationem",
+      "filename": "1016_anno_mutationem_2022.md",
+      "status": "pending"
+    },
+    {
+      "id": 1017,
+      "title": "Dungreed",
+      "year": 2018,
+      "slug": "dungreed",
+      "filename": "1017_dungreed_2018.md",
+      "status": "pending"
+    },
+    {
+      "id": 1018,
+      "title": "Troubleshooter: Abandoned Children",
+      "year": 2020,
+      "slug": "troubleshooter_abandoned_children",
+      "filename": "1018_troubleshooter_abandoned_children_2020.md",
+      "status": "pending"
+    },
+    {
+      "id": 1019,
+      "title": "Sakuna: Of Rice and Ruin",
+      "year": 2020,
+      "slug": "sakuna_of_rice_and_ruin",
+      "filename": "1019_sakuna_of_rice_and_ruin_2020.md",
+      "status": "pending"
+    },
+    {
+      "id": 1020,
+      "title": "Death end re;Quest",
+      "year": 2018,
+      "slug": "death_end_re_quest",
+      "filename": "1020_death_end_re_quest_2018.md",
+      "status": "pending"
+    },
+    {
+      "id": 1021,
+      "title": "Raging Loop",
+      "year": 2019,
+      "slug": "raging_loop",
+      "filename": "1021_raging_loop_2019.md",
+      "status": "pending"
+    },
+    {
+      "id": 1022,
+      "title": "Valdis Story: Abyssal City",
+      "year": 2016,
+      "slug": "valdis_story_abyssal_city",
+      "filename": "1022_valdis_story_abyssal_city_2016.md",
+      "status": "pending"
+    },
+    {
+      "id": 1023,
+      "title": "Hoa",
+      "year": 2021,
+      "slug": "hoa",
+      "filename": "1023_hoa_2021.md",
+      "status": "pending"
+    },
+    {
+      "id": 1024,
+      "title": "FAR: Lone Sails",
+      "year": 2018,
+      "slug": "far_lone_sails",
+      "filename": "1024_far_lone_sails_2018.md",
+      "status": "pending"
+    },
+    {
+      "id": 1025,
+      "title": "Supraland",
+      "year": 2019,
+      "slug": "supraland",
+      "filename": "1025_supraland_2019.md",
+      "status": "pending"
+    },
+    {
+      "id": 1026,
+      "title": "Iris and the Giant",
+      "year": 2020,
+      "slug": "iris_and_the_giant",
+      "filename": "1026_iris_and_the_giant_2020.md",
+      "status": "pending"
+    },
+    {
+      "id": 1027,
+      "title": "Alina of the Arena",
+      "year": 2024,
+      "slug": "alina_of_the_arena",
+      "filename": "1027_alina_of_the_arena_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 1028,
+      "title": "The Excavation of Hob's Barrow",
+      "year": 2022,
+      "slug": "the_excavation_of_hob_s_barrow",
+      "filename": "1028_the_excavation_of_hob_s_barrow_2022.md",
+      "status": "pending"
+    },
+    {
+      "id": 1029,
+      "title": "Before I Forget",
+      "year": 2020,
+      "slug": "before_i_forget",
+      "filename": "1029_before_i_forget_2020.md",
+      "status": "pending"
+    },
+    {
+      "id": 1030,
+      "title": "Fields of Mistria",
+      "year": 2024,
+      "slug": "fields_of_mistria",
+      "filename": "1030_fields_of_mistria_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 1031,
+      "title": "Wylde Flowers",
+      "year": 2022,
+      "slug": "wylde_flowers",
+      "filename": "1031_wylde_flowers_2022.md",
+      "status": "pending"
+    },
+    {
+      "id": 1032,
+      "title": "RPG Time: The Legend of Wright",
+      "year": 2022,
+      "slug": "rpg_time_the_legend_of_wright",
+      "filename": "1032_rpg_time_the_legend_of_wright_2022.md",
+      "status": "pending"
+    },
+    {
+      "id": 1033,
+      "title": "Die in the Dungeon",
+      "year": 2025,
+      "slug": "die_in_the_dungeon",
+      "filename": "1033_die_in_the_dungeon_2025.md",
+      "status": "pending"
+    },
+    {
+      "id": 1034,
+      "title": "Anodyne 2: Return to Dust",
+      "year": 2019,
+      "slug": "anodyne_2_return_to_dust",
+      "filename": "1034_anodyne_2_return_to_dust_2019.md",
+      "status": "pending"
+    },
+    {
+      "id": 1035,
+      "title": "Minit",
+      "year": 2018,
+      "slug": "minit",
+      "filename": "1035_minit_2018.md",
+      "status": "pending"
+    },
+    {
+      "id": 1036,
+      "title": "Sapiens",
+      "year": 2022,
+      "slug": "sapiens",
+      "filename": "1036_sapiens_2022.md",
+      "status": "pending"
+    },
+    {
+      "id": 1037,
+      "title": "Garden Story",
+      "year": 2021,
+      "slug": "garden_story",
+      "filename": "1037_garden_story_2021.md",
+      "status": "pending"
+    },
+    {
+      "id": 1038,
+      "title": "Mythwrecked: Ambrosia Island",
+      "year": 2024,
+      "slug": "mythwrecked_ambrosia_island",
+      "filename": "1038_mythwrecked_ambrosia_island_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 1039,
+      "title": "Open Roads",
+      "year": 2024,
+      "slug": "open_roads",
+      "filename": "1039_open_roads_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 1040,
+      "title": "Saturnalia",
+      "year": 2022,
+      "slug": "saturnalia",
+      "filename": "1040_saturnalia_2022.md",
+      "status": "pending"
+    },
+    {
+      "id": 1041,
+      "title": "Lonesome Village",
+      "year": 2022,
+      "slug": "lonesome_village",
+      "filename": "1041_lonesome_village_2022.md",
+      "status": "pending"
+    },
+    {
+      "id": 1042,
+      "title": "Saltsea Chronicles",
+      "year": 2023,
+      "slug": "saltsea_chronicles",
+      "filename": "1042_saltsea_chronicles_2023.md",
+      "status": "pending"
+    },
+    {
+      "id": 1043,
+      "title": "Behind the Frame: The Finest Scenery",
+      "year": 2021,
+      "slug": "behind_the_frame_the_finest_scenery",
+      "filename": "1043_behind_the_frame_the_finest_scenery_2021.md",
+      "status": "pending"
+    },
+    {
+      "id": 1044,
+      "title": "Encased: A Sci-Fi Post-Apocalyptic RPG",
+      "year": 2021,
+      "slug": "encased_a_sci_fi_post_apocalyptic_rpg",
+      "filename": "1044_encased_a_sci_fi_post_apocalyptic_rpg_2021.md",
+      "status": "pending"
+    },
+    {
+      "id": 1045,
+      "title": "UnderRail",
+      "year": 2016,
+      "slug": "underrail",
+      "filename": "1045_underrail_2016.md",
+      "status": "pending"
+    },
+    {
+      "id": 1046,
+      "title": "Sovereign Syndicate",
+      "year": 2024,
+      "slug": "sovereign_syndicate",
+      "filename": "1046_sovereign_syndicate_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 1047,
+      "title": "The Surge",
+      "year": 2017,
+      "slug": "the_surge",
+      "filename": "1047_the_surge_2017.md",
+      "status": "pending"
+    },
+    {
+      "id": 1048,
+      "title": "Victor Vran: Overkill Edition",
+      "year": 2017,
+      "slug": "victor_vran_overkill_edition",
+      "filename": "1048_victor_vran_overkill_edition_2017.md",
+      "status": "pending"
+    },
+    {
+      "id": 1049,
+      "title": "Book of Demons",
+      "year": 2018,
+      "slug": "book_of_demons",
+      "filename": "1049_book_of_demons_2018.md",
+      "status": "pending"
+    },
+    {
+      "id": 1050,
+      "title": "Torchlight III",
+      "year": 2020,
+      "slug": "torchlight_iii",
+      "filename": "1050_torchlight_iii_2020.md",
+      "status": "pending"
+    },
+    {
+      "id": 1051,
+      "title": "Massive Chalice",
+      "year": 2016,
+      "slug": "massive_chalice",
+      "filename": "1051_massive_chalice_2016.md",
+      "status": "pending"
+    },
+    {
+      "id": 1052,
+      "title": "The Banner Saga 3",
+      "year": 2018,
+      "slug": "the_banner_saga_3",
+      "filename": "1052_the_banner_saga_3_2018.md",
+      "status": "pending"
+    },
+    {
+      "id": 1053,
+      "title": "Fae Tactics",
+      "year": 2020,
+      "slug": "fae_tactics",
+      "filename": "1053_fae_tactics_2020.md",
+      "status": "pending"
+    },
+    {
+      "id": 1054,
+      "title": "Vigil: The Longest Night",
+      "year": 2020,
+      "slug": "vigil_the_longest_night",
+      "filename": "1054_vigil_the_longest_night_2020.md",
+      "status": "pending"
+    },
+    {
+      "id": 1055,
+      "title": "Pascal's Wager",
+      "year": 2021,
+      "slug": "pascal_s_wager",
+      "filename": "1055_pascal_s_wager_2021.md",
+      "status": "pending"
+    },
+    {
+      "id": 1056,
+      "title": "ELEX",
+      "year": 2017,
+      "slug": "elex",
+      "filename": "1056_elex_2017.md",
+      "status": "pending"
+    },
+    {
+      "id": 1057,
+      "title": "Across the Obelisk",
+      "year": 2023,
+      "slug": "across_the_obelisk",
+      "filename": "1057_across_the_obelisk_2023.md",
+      "status": "pending"
+    },
+    {
+      "id": 1058,
+      "title": "Lost Eidolons",
+      "year": 2022,
+      "slug": "lost_eidolons",
+      "filename": "1058_lost_eidolons_2022.md",
+      "status": "pending"
+    },
+    {
+      "id": 1059,
+      "title": "Iratus: Lord of the Dead",
+      "year": 2020,
+      "slug": "iratus_lord_of_the_dead",
+      "filename": "1059_iratus_lord_of_the_dead_2020.md",
+      "status": "pending"
+    },
+    {
+      "id": 1060,
+      "title": "Airborne Kingdom",
+      "year": 2020,
+      "slug": "airborne_kingdom",
+      "filename": "1060_airborne_kingdom_2020.md",
+      "status": "pending"
+    },
+    {
+      "id": 1061,
+      "title": "Imperator: Rome",
+      "year": 2019,
+      "slug": "imperator_rome",
+      "filename": "1061_imperator_rome_2019.md",
+      "status": "pending"
+    },
+    {
+      "id": 1062,
+      "title": "Airships: Conquer the Skies",
+      "year": 2018,
+      "slug": "airships_conquer_the_skies",
+      "filename": "1062_airships_conquer_the_skies_2018.md",
+      "status": "pending"
+    },
+    {
+      "id": 1063,
+      "title": "Warpips",
+      "year": 2021,
+      "slug": "warpips",
+      "filename": "1063_warpips_2021.md",
+      "status": "pending"
+    },
+    {
+      "id": 1064,
+      "title": "Tavern Master",
+      "year": 2021,
+      "slug": "tavern_master",
+      "filename": "1064_tavern_master_2021.md",
+      "status": "pending"
+    },
+    {
+      "id": 1065,
+      "title": "Mars First Logistics",
+      "year": 2023,
+      "slug": "mars_first_logistics",
+      "filename": "1065_mars_first_logistics_2023.md",
+      "status": "pending"
+    },
+    {
+      "id": 1066,
+      "title": "Infection Free Zone",
+      "year": 2024,
+      "slug": "infection_free_zone",
+      "filename": "1066_infection_free_zone_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 1067,
+      "title": "Ozymandias: Bronze Age Empire Sim",
+      "year": 2022,
+      "slug": "ozymandias_bronze_age_empire_sim",
+      "filename": "1067_ozymandias_bronze_age_empire_sim_2022.md",
+      "status": "pending"
+    },
+    {
+      "id": 1068,
+      "title": "Just King",
+      "year": 2023,
+      "slug": "just_king",
+      "filename": "1068_just_king_2023.md",
+      "status": "pending"
+    },
+    {
+      "id": 1069,
+      "title": "Ixion",
+      "year": 2022,
+      "slug": "ixion",
+      "filename": "1069_ixion_2022.md",
+      "status": "pending"
+    },
+    {
+      "id": 1070,
+      "title": "Railway Empire 2",
+      "year": 2023,
+      "slug": "railway_empire_2",
+      "filename": "1070_railway_empire_2_2023.md",
+      "status": "pending"
+    },
+    {
+      "id": 1071,
+      "title": "Mashinky",
+      "year": 2017,
+      "slug": "mashinky",
+      "filename": "1071_mashinky_2017.md",
+      "status": "pending"
+    },
+    {
+      "id": 1072,
+      "title": "Avorion",
+      "year": 2020,
+      "slug": "avorion",
+      "filename": "1072_avorion_2020.md",
+      "status": "pending"
+    },
+    {
+      "id": 1073,
+      "title": "Highfleet",
+      "year": 2021,
+      "slug": "highfleet",
+      "filename": "1073_highfleet_2021.md",
+      "status": "pending"
+    },
+    {
+      "id": 1074,
+      "title": "Software Inc",
+      "year": 2024,
+      "slug": "software_inc",
+      "filename": "1074_software_inc_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 1075,
+      "title": "TCG Card Shop Simulator",
+      "year": 2024,
+      "slug": "tcg_card_shop_simulator",
+      "filename": "1075_tcg_card_shop_simulator_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 1076,
+      "title": "Endzone: A World Apart",
+      "year": 2021,
+      "slug": "endzone_a_world_apart",
+      "filename": "1076_endzone_a_world_apart_2021.md",
+      "status": "pending"
+    },
+    {
+      "id": 1077,
+      "title": "Sumerian Six",
+      "year": 2024,
+      "slug": "sumerian_six",
+      "filename": "1077_sumerian_six_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 1078,
+      "title": "The Lamplighters League",
+      "year": 2023,
+      "slug": "the_lamplighters_league",
+      "filename": "1078_the_lamplighters_league_2023.md",
+      "status": "pending"
+    },
+    {
+      "id": 1079,
+      "title": "Solar Ash",
+      "year": 2021,
+      "slug": "solar_ash",
+      "filename": "1079_solar_ash_2021.md",
+      "status": "pending"
+    },
+    {
+      "id": 1080,
+      "title": "Unravel",
+      "year": 2016,
+      "slug": "unravel",
+      "filename": "1080_unravel_2016.md",
+      "status": "pending"
+    },
+    {
+      "id": 1081,
+      "title": "Middle-earth: Shadow of War",
+      "year": 2017,
+      "slug": "middle_earth_shadow_of_war",
+      "filename": "1081_middle_earth_shadow_of_war_2017.md",
+      "status": "pending"
+    },
+    {
+      "id": 1082,
+      "title": "Ara: History Untold",
+      "year": 2024,
+      "slug": "ara_history_untold",
+      "filename": "1082_ara_history_untold_2024.md",
+      "status": "pending"
+    },
+    {
+      "id": 1083,
+      "title": "Foundation",
+      "year": 2025,
+      "slug": "foundation",
+      "filename": "1083_foundation_2025.md",
+      "status": "pending"
+    },
+    {
+      "id": 1084,
+      "title": "Injustice 2",
+      "year": 2017,
+      "slug": "injustice_2",
+      "filename": "1084_injustice_2_2017.md",
+      "status": "pending"
+    },
+    {
+      "id": 1085,
+      "title": "Rhythm Doctor",
+      "year": 2021,
+      "slug": "rhythm_doctor",
+      "filename": "1085_rhythm_doctor_2021.md",
+      "status": "pending"
     }
   ],
-  "iteration": 45,
+  "iteration": 46,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
