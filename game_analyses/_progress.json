@@ -8789,7 +8789,8 @@
       "year": 2024,
       "slug": "pennys_big_breakaway",
       "filename": "976_pennys_big_breakaway_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T18:11:47Z"
     },
     {
       "id": 977,
@@ -8797,7 +8798,8 @@
       "year": 2024,
       "slug": "dungeons_of_hinterberg",
       "filename": "977_dungeons_of_hinterberg_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T18:11:47Z"
     },
     {
       "id": 978,
@@ -8805,7 +8807,8 @@
       "year": 2024,
       "slug": "cryptmaster",
       "filename": "978_cryptmaster_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T18:11:47Z"
     },
     {
       "id": 979,
@@ -8813,7 +8816,8 @@
       "year": 2024,
       "slug": "shapez_2",
       "filename": "979_shapez_2_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T18:11:47Z"
     },
     {
       "id": 980,
@@ -8821,7 +8825,8 @@
       "year": 2024,
       "slug": "factorio_space_age",
       "filename": "980_factorio_space_age_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T18:11:47Z"
     },
     {
       "id": 981,
@@ -8829,7 +8834,8 @@
       "year": 2024,
       "slug": "thronefall",
       "filename": "981_thronefall_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T18:11:47Z"
     },
     {
       "id": 982,
@@ -8837,7 +8843,8 @@
       "year": 2024,
       "slug": "rivals_of_aether_ii",
       "filename": "982_rivals_of_aether_ii_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T18:11:47Z"
     },
     {
       "id": 983,
@@ -8845,7 +8852,8 @@
       "year": 2025,
       "slug": "monster_train_2",
       "filename": "983_monster_train_2_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T18:11:47Z"
     },
     {
       "id": 984,
@@ -8853,7 +8861,8 @@
       "year": 2025,
       "slug": "tempest_rising",
       "filename": "984_tempest_rising_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T18:11:47Z"
     },
     {
       "id": 985,
@@ -8861,9 +8870,10 @@
       "year": 2019,
       "slug": "heavens_vault",
       "filename": "985_heavens_vault_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T18:11:47Z"
     }
   ],
-  "iteration": 44,
+  "iteration": 45,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
