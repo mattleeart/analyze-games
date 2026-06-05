@@ -8654,7 +8654,8 @@
       "year": 2023,
       "slug": "planet_of_lana",
       "filename": "961_planet_of_lana_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T16:12:14Z"
     },
     {
       "id": 962,
@@ -8662,7 +8663,8 @@
       "year": 2023,
       "slug": "a_space_for_the_unbound",
       "filename": "962_a_space_for_the_unbound_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T16:12:14Z"
     },
     {
       "id": 963,
@@ -8670,7 +8672,8 @@
       "year": 2023,
       "slug": "oxenfree_2",
       "filename": "963_oxenfree_2_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T16:12:14Z"
     },
     {
       "id": 964,
@@ -8678,7 +8681,8 @@
       "year": 2023,
       "slug": "ghost_trick",
       "filename": "964_ghost_trick_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T16:12:14Z"
     },
     {
       "id": 965,
@@ -8686,7 +8690,8 @@
       "year": 2023,
       "slug": "trails_to_azure",
       "filename": "965_trails_to_azure_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T16:12:14Z"
     },
     {
       "id": 966,
@@ -8694,7 +8699,8 @@
       "year": 2023,
       "slug": "risk_of_rain_returns",
       "filename": "966_risk_of_rain_returns_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T16:12:14Z"
     },
     {
       "id": 967,
@@ -8702,7 +8708,8 @@
       "year": 2023,
       "slug": "demonologist",
       "filename": "967_demonologist_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T16:12:14Z"
     },
     {
       "id": 968,
@@ -8710,7 +8717,8 @@
       "year": 2023,
       "slug": "hrot",
       "filename": "968_hrot_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T16:12:14Z"
     },
     {
       "id": 969,
@@ -8718,7 +8726,8 @@
       "year": 2023,
       "slug": "dordogne",
       "filename": "969_dordogne_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T16:12:14Z"
     },
     {
       "id": 970,
@@ -8726,7 +8735,8 @@
       "year": 2023,
       "slug": "the_last_spell",
       "filename": "970_the_last_spell_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T16:12:14Z"
     },
     {
       "id": 971,
@@ -8734,7 +8744,8 @@
       "year": 2023,
       "slug": "moonstone_island",
       "filename": "971_moonstone_island_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T16:12:14Z"
     },
     {
       "id": 972,
@@ -8742,7 +8753,8 @@
       "year": 2023,
       "slug": "roots_of_pacha",
       "filename": "972_roots_of_pacha_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T16:12:14Z"
     },
     {
       "id": 973,
@@ -8750,7 +8762,8 @@
       "year": 2024,
       "slug": "anger_foot",
       "filename": "973_anger_foot_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T16:12:14Z"
     },
     {
       "id": 974,
@@ -8758,7 +8771,8 @@
       "year": 2024,
       "slug": "wrath_aeon_of_ruin",
       "filename": "974_wrath_aeon_of_ruin_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T16:12:14Z"
     },
     {
       "id": 975,
@@ -8766,7 +8780,8 @@
       "year": 2024,
       "slug": "shogun_showdown",
       "filename": "975_shogun_showdown_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T16:12:14Z"
     },
     {
       "id": 976,
@@ -8849,6 +8864,6 @@
       "status": "pending"
     }
   ],
-  "iteration": 43,
+  "iteration": 44,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
