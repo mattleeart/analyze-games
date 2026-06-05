@@ -8384,7 +8384,8 @@
       "year": 2020,
       "slug": "panzer_corps_2",
       "filename": "931_panzer_corps_2_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T12:12:54Z"
     },
     {
       "id": 932,
@@ -8392,7 +8393,8 @@
       "year": 2021,
       "slug": "life_is_strange_true_colors",
       "filename": "932_life_is_strange_true_colors_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T12:12:54Z"
     },
     {
       "id": 933,
@@ -8400,7 +8402,8 @@
       "year": 2021,
       "slug": "fnaf_security_breach",
       "filename": "933_fnaf_security_breach_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T12:12:54Z"
     },
     {
       "id": 934,
@@ -8408,7 +8411,8 @@
       "year": 2021,
       "slug": "poppy_playtime",
       "filename": "934_poppy_playtime_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T12:12:54Z"
     },
     {
       "id": 935,
@@ -8416,7 +8420,8 @@
       "year": 2021,
       "slug": "gnosia",
       "filename": "935_gnosia_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T12:12:54Z"
     },
     {
       "id": 936,
@@ -8424,7 +8429,8 @@
       "year": 2021,
       "slug": "fist_forged_in_shadow_torch",
       "filename": "936_fist_forged_in_shadow_torch_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T12:12:54Z"
     },
     {
       "id": 937,
@@ -8432,7 +8438,8 @@
       "year": 2021,
       "slug": "bonfire_peaks",
       "filename": "937_bonfire_peaks_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T12:12:54Z"
     },
     {
       "id": 938,
@@ -8440,7 +8447,8 @@
       "year": 2021,
       "slug": "gloomhaven",
       "filename": "938_gloomhaven_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T12:12:54Z"
     },
     {
       "id": 939,
@@ -8448,7 +8456,8 @@
       "year": 2021,
       "slug": "mundaun",
       "filename": "939_mundaun_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T12:12:54Z"
     },
     {
       "id": 940,
@@ -8456,7 +8465,8 @@
       "year": 2021,
       "slug": "unrailed",
       "filename": "940_unrailed_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T12:12:54Z"
     },
     {
       "id": 941,
@@ -8464,7 +8474,8 @@
       "year": 2021,
       "slug": "escape_simulator",
       "filename": "941_escape_simulator_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T12:12:54Z"
     },
     {
       "id": 942,
@@ -8472,7 +8483,8 @@
       "year": 2021,
       "slug": "monster_hunter_stories_2",
       "filename": "942_monster_hunter_stories_2_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T12:12:54Z"
     },
     {
       "id": 943,
@@ -8480,7 +8492,8 @@
       "year": 2022,
       "slug": "iron_lung",
       "filename": "943_iron_lung_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T12:12:54Z"
     },
     {
       "id": 944,
@@ -8488,7 +8501,8 @@
       "year": 2022,
       "slug": "cultic",
       "filename": "944_cultic_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T12:12:54Z"
     },
     {
       "id": 945,
@@ -8496,7 +8510,8 @@
       "year": 2022,
       "slug": "metal_hellsinger",
       "filename": "945_metal_hellsinger_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T12:12:54Z"
     },
     {
       "id": 946,
@@ -8819,6 +8834,6 @@
       "status": "pending"
     }
   ],
-  "iteration": 42,
+  "iteration": 43,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
