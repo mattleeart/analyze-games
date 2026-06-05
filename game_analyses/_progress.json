@@ -8114,7 +8114,8 @@
       "year": 2017,
       "slug": "endless_space_2",
       "filename": "901_endless_space_2_2017.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T08:13:07.286763+00:00"
     },
     {
       "id": 902,
@@ -8122,7 +8123,8 @@
       "year": 2018,
       "slug": "the_red_strings_club",
       "filename": "902_the_red_strings_club_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T08:13:07.286763+00:00"
     },
     {
       "id": 903,
@@ -8130,7 +8132,8 @@
       "year": 2018,
       "slug": "yokus_island_express",
       "filename": "903_yokus_island_express_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T08:13:07.286763+00:00"
     },
     {
       "id": 904,
@@ -8138,7 +8141,8 @@
       "year": 2018,
       "slug": "blazblue_cross_tag_battle",
       "filename": "904_blazblue_cross_tag_battle_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T08:13:07.286763+00:00"
     },
     {
       "id": 905,
@@ -8146,7 +8150,8 @@
       "year": 2018,
       "slug": "kingdom_two_crowns",
       "filename": "905_kingdom_two_crowns_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T08:13:07.286763+00:00"
     },
     {
       "id": 906,
@@ -8154,7 +8159,8 @@
       "year": 2018,
       "slug": "bad_north",
       "filename": "906_bad_north_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T08:13:07.286763+00:00"
     },
     {
       "id": 907,
@@ -8162,7 +8168,8 @@
       "year": 2018,
       "slug": "parkitect",
       "filename": "907_parkitect_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T08:13:07.286763+00:00"
     },
     {
       "id": 908,
@@ -8170,7 +8177,8 @@
       "year": 2018,
       "slug": "pummel_party",
       "filename": "908_pummel_party_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T08:13:07.286763+00:00"
     },
     {
       "id": 909,
@@ -8178,7 +8186,8 @@
       "year": 2018,
       "slug": "atom_rpg",
       "filename": "909_atom_rpg_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T08:13:07.286763+00:00"
     },
     {
       "id": 910,
@@ -8186,7 +8195,8 @@
       "year": 2018,
       "slug": "life_is_strange_2",
       "filename": "910_life_is_strange_2_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T08:13:07.286763+00:00"
     },
     {
       "id": 911,
@@ -8194,7 +8204,8 @@
       "year": 2019,
       "slug": "unity_of_command_ii",
       "filename": "911_unity_of_command_ii_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T08:13:07.286763+00:00"
     },
     {
       "id": 912,
@@ -8202,7 +8213,8 @@
       "year": 2019,
       "slug": "steins_gate_elite",
       "filename": "912_steins_gate_elite_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T08:13:07.286763+00:00"
     },
     {
       "id": 913,
@@ -8210,7 +8222,8 @@
       "year": 2019,
       "slug": "devotion",
       "filename": "913_devotion_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T08:13:07.286763+00:00"
     },
     {
       "id": 914,
@@ -8218,7 +8231,8 @@
       "year": 2019,
       "slug": "observation",
       "filename": "914_observation_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T08:13:07.286763+00:00"
     },
     {
       "id": 915,
@@ -8226,7 +8240,8 @@
       "year": 2019,
       "slug": "mutazione",
       "filename": "915_mutazione_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-05T08:13:07.286763+00:00"
     },
     {
       "id": 916,
@@ -8789,6 +8804,6 @@
       "status": "pending"
     }
   ],
-  "iteration": 41,
+  "iteration": 42,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
