@@ -10049,7 +10049,8 @@
       "year": 2021,
       "slug": "cruelty_squad",
       "filename": "1116_cruelty_squad_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T14:13:07.839047+00:00"
     },
     {
       "id": 1117,
@@ -10057,7 +10058,8 @@
       "year": 2025,
       "slug": "xenonauts_2",
       "filename": "1117_xenonauts_2_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T14:13:07.839047+00:00"
     },
     {
       "id": 1118,
@@ -10065,7 +10067,8 @@
       "year": 2025,
       "slug": "slay_the_spire_2",
       "filename": "1118_slay_the_spire_2_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T14:13:07.839047+00:00"
     },
     {
       "id": 1119,
@@ -10073,7 +10076,8 @@
       "year": 2025,
       "slug": "hyper_light_breaker",
       "filename": "1119_hyper_light_breaker_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T14:13:07.839047+00:00"
     },
     {
       "id": 1120,
@@ -10081,7 +10085,8 @@
       "year": 2026,
       "slug": "phantom_blade_zero",
       "filename": "1120_phantom_blade_zero_2026.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T14:13:07.839047+00:00"
     },
     {
       "id": 1121,
@@ -10089,7 +10094,8 @@
       "year": 2024,
       "slug": "inkbound",
       "filename": "1121_inkbound_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T14:13:07.839047+00:00"
     },
     {
       "id": 1122,
@@ -10097,7 +10103,8 @@
       "year": 2025,
       "slug": "starvaders",
       "filename": "1122_starvaders_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T14:13:07.839047+00:00"
     },
     {
       "id": 1123,
@@ -10105,7 +10112,8 @@
       "year": 2024,
       "slug": "caravan_sandwitch",
       "filename": "1123_caravan_sandwitch_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T14:13:07.839047+00:00"
     },
     {
       "id": 1124,
@@ -10113,7 +10121,8 @@
       "year": 2024,
       "slug": "loddlenaut",
       "filename": "1124_loddlenaut_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T14:13:07.839047+00:00"
     },
     {
       "id": 1125,
@@ -10121,7 +10130,8 @@
       "year": 2025,
       "slug": "tiny_bookshop",
       "filename": "1125_tiny_bookshop_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T14:13:07.839047+00:00"
     },
     {
       "id": 1126,
@@ -10129,7 +10139,8 @@
       "year": 2022,
       "slug": "trombone_champ",
       "filename": "1126_trombone_champ_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T14:13:07.839047+00:00"
     },
     {
       "id": 1127,
@@ -10137,7 +10148,8 @@
       "year": 2017,
       "slug": "nidhogg_2",
       "filename": "1127_nidhogg_2_2017.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T14:13:07.839047+00:00"
     },
     {
       "id": 1128,
@@ -10145,7 +10157,8 @@
       "year": 2017,
       "slug": "sundered",
       "filename": "1128_sundered_2017.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T14:13:07.839047+00:00"
     },
     {
       "id": 1129,
@@ -10153,7 +10166,8 @@
       "year": 2018,
       "slug": "iconoclasts",
       "filename": "1129_iconoclasts_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T14:13:07.839047+00:00"
     },
     {
       "id": 1130,
@@ -10161,7 +10175,8 @@
       "year": 2024,
       "slug": "steamworld_heist_2",
       "filename": "1130_steamworld_heist_2_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T14:13:07.839047+00:00"
     },
     {
       "id": 1131,
@@ -10604,6 +10619,6 @@
       "status": "pending"
     }
   ],
-  "iteration": 52,
+  "iteration": 53,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
