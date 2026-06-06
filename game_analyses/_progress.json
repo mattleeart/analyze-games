@@ -10184,7 +10184,8 @@
       "year": 2021,
       "slug": "maquette",
       "filename": "1131_maquette_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T16:13:15.349808+00:00"
     },
     {
       "id": 1132,
@@ -10192,7 +10193,8 @@
       "year": 2021,
       "slug": "unsighted",
       "filename": "1132_unsighted_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T16:13:15.349808+00:00"
     },
     {
       "id": 1133,
@@ -10200,7 +10202,8 @@
       "year": 2025,
       "slug": "consume_me",
       "filename": "1133_consume_me_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T16:13:15.349808+00:00"
     },
     {
       "id": 1134,
@@ -10208,7 +10211,8 @@
       "year": 2025,
       "slug": "tokyo_extreme_racer",
       "filename": "1134_tokyo_extreme_racer_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T16:13:15.349808+00:00"
     },
     {
       "id": 1135,
@@ -10216,7 +10220,8 @@
       "year": 2023,
       "slug": "spirittea",
       "filename": "1135_spirittea_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T16:13:15.349808+00:00"
     },
     {
       "id": 1136,
@@ -10224,7 +10229,8 @@
       "year": 2020,
       "slug": "calico",
       "filename": "1136_calico_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T16:13:15.349808+00:00"
     },
     {
       "id": 1137,
@@ -10232,7 +10238,8 @@
       "year": 2024,
       "slug": "snufkin_melody_of_moominvalley",
       "filename": "1137_snufkin_melody_of_moominvalley_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T16:13:15.349808+00:00"
     },
     {
       "id": 1138,
@@ -10240,7 +10247,8 @@
       "year": 2020,
       "slug": "story_of_seasons_friends_of_mineral_town",
       "filename": "1138_story_of_seasons_friends_of_mineral_town_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T16:13:15.349808+00:00"
     },
     {
       "id": 1139,
@@ -10248,7 +10256,8 @@
       "year": 2022,
       "slug": "betrayal_at_club_low",
       "filename": "1139_betrayal_at_club_low_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T16:13:15.349808+00:00"
     },
     {
       "id": 1140,
@@ -10256,7 +10265,8 @@
       "year": 2025,
       "slug": "mind_over_magic",
       "filename": "1140_mind_over_magic_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T16:13:15.349808+00:00"
     },
     {
       "id": 1141,
@@ -10264,7 +10274,8 @@
       "year": 2024,
       "slug": "hauntii",
       "filename": "1141_hauntii_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T16:13:15.349808+00:00"
     },
     {
       "id": 1142,
@@ -10272,7 +10283,8 @@
       "year": 2025,
       "slug": "sopa_tale_of_the_stolen_potato",
       "filename": "1142_sopa_tale_of_the_stolen_potato_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T16:13:15.349808+00:00"
     },
     {
       "id": 1143,
@@ -10280,7 +10292,8 @@
       "year": 2024,
       "slug": "yars_rising",
       "filename": "1143_yars_rising_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T16:13:15.349808+00:00"
     },
     {
       "id": 1144,
@@ -10288,7 +10301,8 @@
       "year": 2024,
       "slug": "schim",
       "filename": "1144_schim_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T16:13:15.349808+00:00"
     },
     {
       "id": 1145,
@@ -10296,7 +10310,8 @@
       "year": 2025,
       "slug": "the_stone_of_madness",
       "filename": "1145_the_stone_of_madness_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T16:13:15.349808+00:00"
     },
     {
       "id": 1146,
@@ -10619,6 +10634,6 @@
       "status": "pending"
     }
   ],
-  "iteration": 53,
+  "iteration": 54,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
