@@ -9689,7 +9689,8 @@
       "year": 2021,
       "slug": "endzone_a_world_apart",
       "filename": "1076_endzone_a_world_apart_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T08:14:06Z"
     },
     {
       "id": 1077,
@@ -9697,7 +9698,8 @@
       "year": 2024,
       "slug": "sumerian_six",
       "filename": "1077_sumerian_six_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T08:14:06Z"
     },
     {
       "id": 1078,
@@ -9705,7 +9707,8 @@
       "year": 2023,
       "slug": "the_lamplighters_league",
       "filename": "1078_the_lamplighters_league_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T08:14:06Z"
     },
     {
       "id": 1079,
@@ -9713,7 +9716,8 @@
       "year": 2021,
       "slug": "solar_ash",
       "filename": "1079_solar_ash_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T08:14:06Z"
     },
     {
       "id": 1080,
@@ -9721,7 +9725,8 @@
       "year": 2016,
       "slug": "unravel",
       "filename": "1080_unravel_2016.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T08:14:06Z"
     },
     {
       "id": 1081,
@@ -9729,7 +9734,8 @@
       "year": 2017,
       "slug": "middle_earth_shadow_of_war",
       "filename": "1081_middle_earth_shadow_of_war_2017.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T08:14:06Z"
     },
     {
       "id": 1082,
@@ -9737,7 +9743,8 @@
       "year": 2024,
       "slug": "ara_history_untold",
       "filename": "1082_ara_history_untold_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T08:14:06Z"
     },
     {
       "id": 1083,
@@ -9745,7 +9752,8 @@
       "year": 2025,
       "slug": "foundation",
       "filename": "1083_foundation_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T08:14:06Z"
     },
     {
       "id": 1084,
@@ -9753,7 +9761,8 @@
       "year": 2017,
       "slug": "injustice_2",
       "filename": "1084_injustice_2_2017.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T08:14:06Z"
     },
     {
       "id": 1085,
@@ -9761,9 +9770,10 @@
       "year": 2021,
       "slug": "rhythm_doctor",
       "filename": "1085_rhythm_doctor_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T08:14:06Z"
     }
   ],
-  "iteration": 49,
+  "iteration": 50,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
