@@ -9149,7 +9149,8 @@
       "year": 2022,
       "slug": "anno_mutationem",
       "filename": "1016_anno_mutationem_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T00:14:53Z"
     },
     {
       "id": 1017,
@@ -9157,7 +9158,8 @@
       "year": 2018,
       "slug": "dungreed",
       "filename": "1017_dungreed_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T00:14:53Z"
     },
     {
       "id": 1018,
@@ -9165,7 +9167,8 @@
       "year": 2020,
       "slug": "troubleshooter_abandoned_children",
       "filename": "1018_troubleshooter_abandoned_children_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T00:14:53Z"
     },
     {
       "id": 1019,
@@ -9173,7 +9176,8 @@
       "year": 2020,
       "slug": "sakuna_of_rice_and_ruin",
       "filename": "1019_sakuna_of_rice_and_ruin_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T00:14:53Z"
     },
     {
       "id": 1020,
@@ -9181,7 +9185,8 @@
       "year": 2018,
       "slug": "death_end_re_quest",
       "filename": "1020_death_end_re_quest_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T00:14:53Z"
     },
     {
       "id": 1021,
@@ -9189,7 +9194,8 @@
       "year": 2019,
       "slug": "raging_loop",
       "filename": "1021_raging_loop_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T00:14:53Z"
     },
     {
       "id": 1022,
@@ -9197,7 +9203,8 @@
       "year": 2016,
       "slug": "valdis_story_abyssal_city",
       "filename": "1022_valdis_story_abyssal_city_2016.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T00:14:53Z"
     },
     {
       "id": 1023,
@@ -9205,7 +9212,8 @@
       "year": 2021,
       "slug": "hoa",
       "filename": "1023_hoa_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T00:14:53Z"
     },
     {
       "id": 1024,
@@ -9213,7 +9221,8 @@
       "year": 2018,
       "slug": "far_lone_sails",
       "filename": "1024_far_lone_sails_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T00:14:53Z"
     },
     {
       "id": 1025,
@@ -9221,7 +9230,8 @@
       "year": 2019,
       "slug": "supraland",
       "filename": "1025_supraland_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T00:14:53Z"
     },
     {
       "id": 1026,
@@ -9229,7 +9239,8 @@
       "year": 2020,
       "slug": "iris_and_the_giant",
       "filename": "1026_iris_and_the_giant_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T00:14:53Z"
     },
     {
       "id": 1027,
@@ -9237,7 +9248,8 @@
       "year": 2024,
       "slug": "alina_of_the_arena",
       "filename": "1027_alina_of_the_arena_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T00:14:53Z"
     },
     {
       "id": 1028,
@@ -9245,7 +9257,8 @@
       "year": 2022,
       "slug": "the_excavation_of_hob_s_barrow",
       "filename": "1028_the_excavation_of_hob_s_barrow_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T00:14:53Z"
     },
     {
       "id": 1029,
@@ -9253,7 +9266,8 @@
       "year": 2020,
       "slug": "before_i_forget",
       "filename": "1029_before_i_forget_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T00:14:53Z"
     },
     {
       "id": 1030,
@@ -9261,7 +9275,8 @@
       "year": 2024,
       "slug": "fields_of_mistria",
       "filename": "1030_fields_of_mistria_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T00:14:53Z"
     },
     {
       "id": 1031,
@@ -9704,6 +9719,6 @@
       "status": "pending"
     }
   ],
-  "iteration": 47,
+  "iteration": 48,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
