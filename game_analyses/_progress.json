@@ -9419,7 +9419,8 @@
       "year": 2024,
       "slug": "sovereign_syndicate",
       "filename": "1046_sovereign_syndicate_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T04:13:07.142283+00:00"
     },
     {
       "id": 1047,
@@ -9427,7 +9428,8 @@
       "year": 2017,
       "slug": "the_surge",
       "filename": "1047_the_surge_2017.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T04:13:07.142283+00:00"
     },
     {
       "id": 1048,
@@ -9435,7 +9437,8 @@
       "year": 2017,
       "slug": "victor_vran_overkill_edition",
       "filename": "1048_victor_vran_overkill_edition_2017.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T04:13:07.142283+00:00"
     },
     {
       "id": 1049,
@@ -9443,7 +9446,8 @@
       "year": 2018,
       "slug": "book_of_demons",
       "filename": "1049_book_of_demons_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T04:13:07.142283+00:00"
     },
     {
       "id": 1050,
@@ -9451,7 +9455,8 @@
       "year": 2020,
       "slug": "torchlight_iii",
       "filename": "1050_torchlight_iii_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T04:13:07.142283+00:00"
     },
     {
       "id": 1051,
@@ -9459,7 +9464,8 @@
       "year": 2016,
       "slug": "massive_chalice",
       "filename": "1051_massive_chalice_2016.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T04:13:07.142283+00:00"
     },
     {
       "id": 1052,
@@ -9467,7 +9473,8 @@
       "year": 2018,
       "slug": "the_banner_saga_3",
       "filename": "1052_the_banner_saga_3_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T04:13:07.142283+00:00"
     },
     {
       "id": 1053,
@@ -9475,7 +9482,8 @@
       "year": 2020,
       "slug": "fae_tactics",
       "filename": "1053_fae_tactics_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T04:13:07.142283+00:00"
     },
     {
       "id": 1054,
@@ -9483,7 +9491,8 @@
       "year": 2020,
       "slug": "vigil_the_longest_night",
       "filename": "1054_vigil_the_longest_night_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T04:13:07.142283+00:00"
     },
     {
       "id": 1055,
@@ -9491,7 +9500,8 @@
       "year": 2021,
       "slug": "pascal_s_wager",
       "filename": "1055_pascal_s_wager_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T04:13:07.142283+00:00"
     },
     {
       "id": 1056,
@@ -9499,7 +9509,8 @@
       "year": 2017,
       "slug": "elex",
       "filename": "1056_elex_2017.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T04:13:07.142283+00:00"
     },
     {
       "id": 1057,
@@ -9507,7 +9518,8 @@
       "year": 2023,
       "slug": "across_the_obelisk",
       "filename": "1057_across_the_obelisk_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T04:13:07.142283+00:00"
     },
     {
       "id": 1058,
@@ -9515,7 +9527,8 @@
       "year": 2022,
       "slug": "lost_eidolons",
       "filename": "1058_lost_eidolons_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T04:13:07.142283+00:00"
     },
     {
       "id": 1059,
@@ -9523,7 +9536,8 @@
       "year": 2020,
       "slug": "iratus_lord_of_the_dead",
       "filename": "1059_iratus_lord_of_the_dead_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T04:13:07.142283+00:00"
     },
     {
       "id": 1060,
@@ -9531,7 +9545,8 @@
       "year": 2020,
       "slug": "airborne_kingdom",
       "filename": "1060_airborne_kingdom_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T04:13:07.142283+00:00"
     },
     {
       "id": 1061,
@@ -9734,6 +9749,6 @@
       "status": "pending"
     }
   ],
-  "iteration": 48,
+  "iteration": 49,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
