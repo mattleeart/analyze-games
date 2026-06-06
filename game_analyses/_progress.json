@@ -9914,7 +9914,8 @@
       "year": 2024,
       "slug": "nobody_wants_to_die",
       "filename": "1101_nobody_wants_to_die_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T12:15:23Z"
     },
     {
       "id": 1102,
@@ -9922,7 +9923,8 @@
       "year": 2023,
       "slug": "the_invincible",
       "filename": "1102_the_invincible_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T12:15:23Z"
     },
     {
       "id": 1103,
@@ -9930,7 +9932,8 @@
       "year": 2024,
       "slug": "miside",
       "filename": "1103_miside_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T12:15:23Z"
     },
     {
       "id": 1104,
@@ -9938,7 +9941,8 @@
       "year": 2023,
       "slug": "eternal_return",
       "filename": "1104_eternal_return_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T12:15:23Z"
     },
     {
       "id": 1105,
@@ -9946,7 +9950,8 @@
       "year": 2020,
       "slug": "djmax_respect_v",
       "filename": "1105_djmax_respect_v_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T12:15:23Z"
     },
     {
       "id": 1106,
@@ -9954,7 +9959,8 @@
       "year": 2026,
       "slug": "crimson_desert",
       "filename": "1106_crimson_desert_2026.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T12:15:23Z"
     },
     {
       "id": 1107,
@@ -9962,7 +9968,8 @@
       "year": 2016,
       "slug": "thumper",
       "filename": "1107_thumper_2016.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T12:15:23Z"
     },
     {
       "id": 1108,
@@ -9970,7 +9977,8 @@
       "year": 2018,
       "slug": "muse_dash",
       "filename": "1108_muse_dash_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T12:15:23Z"
     },
     {
       "id": 1109,
@@ -9978,7 +9986,8 @@
       "year": 2024,
       "slug": "arco",
       "filename": "1109_arco_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T12:15:23Z"
     },
     {
       "id": 1110,
@@ -9986,7 +9995,8 @@
       "year": 2023,
       "slug": "thirsty_suitors",
       "filename": "1110_thirsty_suitors_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T12:15:23Z"
     },
     {
       "id": 1111,
@@ -9994,7 +10004,8 @@
       "year": 2025,
       "slug": "grounded_2",
       "filename": "1111_grounded_2_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T12:15:23Z"
     },
     {
       "id": 1112,
@@ -10002,7 +10013,8 @@
       "year": 2023,
       "slug": "shadows_of_doubt",
       "filename": "1112_shadows_of_doubt_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T12:15:23Z"
     },
     {
       "id": 1113,
@@ -10010,7 +10022,8 @@
       "year": 2022,
       "slug": "gloomwood",
       "filename": "1113_gloomwood_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T12:15:23Z"
     },
     {
       "id": 1114,
@@ -10018,7 +10031,8 @@
       "year": 2022,
       "slug": "ctrl_alt_ego",
       "filename": "1114_ctrl_alt_ego_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T12:15:23Z"
     },
     {
       "id": 1115,
@@ -10026,7 +10040,8 @@
       "year": 2023,
       "slug": "blood_west",
       "filename": "1115_blood_west_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-06T12:15:23Z"
     },
     {
       "id": 1116,
@@ -10589,6 +10604,6 @@
       "status": "pending"
     }
   ],
-  "iteration": 51,
+  "iteration": 52,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
