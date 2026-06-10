@@ -10319,7 +10319,8 @@
       "year": 2025,
       "slug": "yasha_legends_of_the_demon_blade",
       "filename": "1146_yasha_legends_of_the_demon_blade_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T13:51:31.905442+00:00"
     },
     {
       "id": 1147,
@@ -10327,7 +10328,8 @@
       "year": 2023,
       "slug": "pizza_possum",
       "filename": "1147_pizza_possum_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T13:51:31.905442+00:00"
     },
     {
       "id": 1148,
@@ -10335,7 +10337,8 @@
       "year": 2024,
       "slug": "berserk_boy",
       "filename": "1148_berserk_boy_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T13:51:31.905442+00:00"
     },
     {
       "id": 1149,
@@ -10343,7 +10346,8 @@
       "year": 2025,
       "slug": "karma_the_dark_world",
       "filename": "1149_karma_the_dark_world_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T13:51:31.905442+00:00"
     },
     {
       "id": 1150,
@@ -10351,7 +10355,8 @@
       "year": 2019,
       "slug": "lonely_mountains_downhill",
       "filename": "1150_lonely_mountains_downhill_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T13:51:31.905442+00:00"
     },
     {
       "id": 1151,
@@ -10359,7 +10364,8 @@
       "year": 2019,
       "slug": "ape_out",
       "filename": "1151_ape_out_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T13:51:31.905442+00:00"
     },
     {
       "id": 1152,
@@ -10367,7 +10373,8 @@
       "year": 2019,
       "slug": "knights_and_bikes",
       "filename": "1152_knights_and_bikes_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T13:51:31.905442+00:00"
     },
     {
       "id": 1153,
@@ -10375,7 +10382,8 @@
       "year": 2024,
       "slug": "harold_halibut",
       "filename": "1153_harold_halibut_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T13:51:31.905442+00:00"
     },
     {
       "id": 1154,
@@ -10383,7 +10391,8 @@
       "year": 2021,
       "slug": "lacuna",
       "filename": "1154_lacuna_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T13:51:31.905442+00:00"
     },
     {
       "id": 1155,
@@ -10391,7 +10400,8 @@
       "year": 2019,
       "slug": "wattam",
       "filename": "1155_wattam_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T13:51:31.905442+00:00"
     },
     {
       "id": 1156,
@@ -10399,7 +10409,8 @@
       "year": 2019,
       "slug": "trover_saves_the_universe",
       "filename": "1156_trover_saves_the_universe_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T13:51:31.905442+00:00"
     },
     {
       "id": 1157,
@@ -10407,7 +10418,8 @@
       "year": 2019,
       "slug": "eliza",
       "filename": "1157_eliza_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T13:51:31.905442+00:00"
     },
     {
       "id": 1158,
@@ -10415,7 +10427,8 @@
       "year": 2021,
       "slug": "webbed",
       "filename": "1158_webbed_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T13:51:31.905442+00:00"
     },
     {
       "id": 1159,
@@ -10423,7 +10436,8 @@
       "year": 2017,
       "slug": "hob",
       "filename": "1159_hob_2017.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T13:51:31.905442+00:00"
     },
     {
       "id": 1160,
@@ -10431,7 +10445,8 @@
       "year": 2025,
       "slug": "cyber_knights_flashpoint",
       "filename": "1160_cyber_knights_flashpoint_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T13:51:31.905442+00:00"
     },
     {
       "id": 1161,
@@ -10634,6 +10649,6 @@
       "status": "pending"
     }
   ],
-  "iteration": 54,
+  "iteration": 55,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
