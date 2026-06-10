@@ -10454,7 +10454,8 @@
       "year": 2022,
       "slug": "vampire_the_masquerade_swansong",
       "filename": "1161_vampire_the_masquerade_swansong_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T14:17:15Z"
     },
     {
       "id": 1162,
@@ -10462,7 +10463,8 @@
       "year": 2023,
       "slug": "howl",
       "filename": "1162_howl_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T14:17:15Z"
     },
     {
       "id": 1163,
@@ -10470,7 +10472,8 @@
       "year": 2021,
       "slug": "genesis_noir",
       "filename": "1163_genesis_noir_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T14:17:15Z"
     },
     {
       "id": 1164,
@@ -10478,7 +10481,8 @@
       "year": 2020,
       "slug": "necrobarista",
       "filename": "1164_necrobarista_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T14:17:15Z"
     },
     {
       "id": 1165,
@@ -10486,7 +10490,8 @@
       "year": 2020,
       "slug": "raji_an_ancient_epic",
       "filename": "1165_raji_an_ancient_epic_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T14:17:15Z"
     },
     {
       "id": 1166,
@@ -10494,7 +10499,8 @@
       "year": 2021,
       "slug": "olija",
       "filename": "1166_olija_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T14:17:15Z"
     },
     {
       "id": 1167,
@@ -10502,7 +10508,8 @@
       "year": 2020,
       "slug": "if_found",
       "filename": "1167_if_found_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T14:17:15Z"
     },
     {
       "id": 1168,
@@ -10510,7 +10517,8 @@
       "year": 2025,
       "slug": "tales_of_the_shire",
       "filename": "1168_tales_of_the_shire_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T14:17:15Z"
     },
     {
       "id": 1169,
@@ -10518,7 +10526,8 @@
       "year": 2023,
       "slug": "steamworld_build",
       "filename": "1169_steamworld_build_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T14:17:15Z"
     },
     {
       "id": 1170,
@@ -10526,7 +10535,8 @@
       "year": 2024,
       "slug": "bzzzt",
       "filename": "1170_bzzzt_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T14:17:15Z"
     },
     {
       "id": 1171,
@@ -10534,7 +10544,8 @@
       "year": 2024,
       "slug": "caribbean_legend",
       "filename": "1171_caribbean_legend_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T14:17:15Z"
     },
     {
       "id": 1172,
@@ -10542,7 +10553,8 @@
       "year": 2026,
       "slug": "sacrifire",
       "filename": "1172_sacrifire_2026.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T14:17:15Z"
     },
     {
       "id": 1173,
@@ -10550,7 +10562,8 @@
       "year": 2023,
       "slug": "9_years_of_shadows",
       "filename": "1173_9_years_of_shadows_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T14:17:15Z"
     },
     {
       "id": 1174,
@@ -10558,7 +10571,8 @@
       "year": 2023,
       "slug": "gunbrella",
       "filename": "1174_gunbrella_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T14:17:15Z"
     },
     {
       "id": 1175,
@@ -10566,7 +10580,8 @@
       "year": 2022,
       "slug": "soulstone_survivors",
       "filename": "1175_soulstone_survivors_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T14:17:15Z"
     },
     {
       "id": 1176,
@@ -10574,7 +10589,8 @@
       "year": 2023,
       "slug": "en_garde",
       "filename": "1176_en_garde_2023.md",
-      "status": "pending"
+      "status": "pending",
+      "completed_at": null
     },
     {
       "id": 1177,
@@ -10582,7 +10598,8 @@
       "year": 2023,
       "slug": "goodbye_volcano_high",
       "filename": "1177_goodbye_volcano_high_2023.md",
-      "status": "pending"
+      "status": "pending",
+      "completed_at": null
     },
     {
       "id": 1178,
@@ -10590,7 +10607,8 @@
       "year": 2023,
       "slug": "mediterranea_inferno",
       "filename": "1178_mediterranea_inferno_2023.md",
-      "status": "pending"
+      "status": "pending",
+      "completed_at": null
     },
     {
       "id": 1179,
@@ -10598,7 +10616,8 @@
       "year": 2024,
       "slug": "star_trucker",
       "filename": "1179_star_trucker_2024.md",
-      "status": "pending"
+      "status": "pending",
+      "completed_at": null
     },
     {
       "id": 1180,
@@ -10606,7 +10625,8 @@
       "year": 2022,
       "slug": "cursed_to_golf",
       "filename": "1180_cursed_to_golf_2022.md",
-      "status": "pending"
+      "status": "pending",
+      "completed_at": null
     },
     {
       "id": 1181,
@@ -10614,7 +10634,8 @@
       "year": 2025,
       "slug": "powerwash_simulator_2",
       "filename": "1181_powerwash_simulator_2_2025.md",
-      "status": "pending"
+      "status": "pending",
+      "completed_at": null
     },
     {
       "id": 1182,
@@ -10622,7 +10643,8 @@
       "year": 2024,
       "slug": "saviorless",
       "filename": "1182_saviorless_2024.md",
-      "status": "pending"
+      "status": "pending",
+      "completed_at": null
     },
     {
       "id": 1183,
@@ -10630,7 +10652,8 @@
       "year": 2024,
       "slug": "drova_forsaken_kin",
       "filename": "1183_drova_forsaken_kin_2024.md",
-      "status": "pending"
+      "status": "pending",
+      "completed_at": null
     },
     {
       "id": 1184,
@@ -10638,7 +10661,8 @@
       "year": 2025,
       "slug": "cataclismo",
       "filename": "1184_cataclismo_2025.md",
-      "status": "pending"
+      "status": "pending",
+      "completed_at": null
     },
     {
       "id": 1185,
@@ -10646,9 +10670,10 @@
       "year": 2025,
       "slug": "wheel_world",
       "filename": "1185_wheel_world_2025.md",
-      "status": "pending"
+      "status": "pending",
+      "completed_at": null
     }
   ],
-  "iteration": 55,
+  "iteration": 56,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
