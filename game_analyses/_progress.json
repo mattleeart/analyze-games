@@ -10589,8 +10589,8 @@
       "year": 2023,
       "slug": "en_garde",
       "filename": "1176_en_garde_2023.md",
-      "status": "pending",
-      "completed_at": null
+      "status": "completed",
+      "completed_at": "2026-06-10T16:15:04.100734+00:00"
     },
     {
       "id": 1177,
@@ -10598,8 +10598,8 @@
       "year": 2023,
       "slug": "goodbye_volcano_high",
       "filename": "1177_goodbye_volcano_high_2023.md",
-      "status": "pending",
-      "completed_at": null
+      "status": "completed",
+      "completed_at": "2026-06-10T16:15:04.100734+00:00"
     },
     {
       "id": 1178,
@@ -10607,8 +10607,8 @@
       "year": 2023,
       "slug": "mediterranea_inferno",
       "filename": "1178_mediterranea_inferno_2023.md",
-      "status": "pending",
-      "completed_at": null
+      "status": "completed",
+      "completed_at": "2026-06-10T16:15:04.100734+00:00"
     },
     {
       "id": 1179,
@@ -10616,8 +10616,8 @@
       "year": 2024,
       "slug": "star_trucker",
       "filename": "1179_star_trucker_2024.md",
-      "status": "pending",
-      "completed_at": null
+      "status": "completed",
+      "completed_at": "2026-06-10T16:15:04.100734+00:00"
     },
     {
       "id": 1180,
@@ -10625,8 +10625,8 @@
       "year": 2022,
       "slug": "cursed_to_golf",
       "filename": "1180_cursed_to_golf_2022.md",
-      "status": "pending",
-      "completed_at": null
+      "status": "completed",
+      "completed_at": "2026-06-10T16:15:04.100734+00:00"
     },
     {
       "id": 1181,
@@ -10634,8 +10634,8 @@
       "year": 2025,
       "slug": "powerwash_simulator_2",
       "filename": "1181_powerwash_simulator_2_2025.md",
-      "status": "pending",
-      "completed_at": null
+      "status": "completed",
+      "completed_at": "2026-06-10T16:15:04.100734+00:00"
     },
     {
       "id": 1182,
@@ -10643,8 +10643,8 @@
       "year": 2024,
       "slug": "saviorless",
       "filename": "1182_saviorless_2024.md",
-      "status": "pending",
-      "completed_at": null
+      "status": "completed",
+      "completed_at": "2026-06-10T16:15:04.100734+00:00"
     },
     {
       "id": 1183,
@@ -10652,8 +10652,8 @@
       "year": 2024,
       "slug": "drova_forsaken_kin",
       "filename": "1183_drova_forsaken_kin_2024.md",
-      "status": "pending",
-      "completed_at": null
+      "status": "completed",
+      "completed_at": "2026-06-10T16:15:04.100734+00:00"
     },
     {
       "id": 1184,
@@ -10661,8 +10661,8 @@
       "year": 2025,
       "slug": "cataclismo",
       "filename": "1184_cataclismo_2025.md",
-      "status": "pending",
-      "completed_at": null
+      "status": "completed",
+      "completed_at": "2026-06-10T16:15:04.100734+00:00"
     },
     {
       "id": 1185,
@@ -10670,10 +10670,10 @@
       "year": 2025,
       "slug": "wheel_world",
       "filename": "1185_wheel_world_2025.md",
-      "status": "pending",
-      "completed_at": null
+      "status": "completed",
+      "completed_at": "2026-06-10T16:15:04.100734+00:00"
     }
   ],
-  "iteration": 56,
+  "iteration": 57,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
