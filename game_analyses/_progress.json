@@ -10814,7 +10814,8 @@
       "year": 2024,
       "slug": "microsoft_flight_simulator_2024",
       "filename": "1201_microsoft_flight_simulator_2024_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T22:15:18Z"
     },
     {
       "id": 1202,
@@ -10822,7 +10823,8 @@
       "year": 2023,
       "slug": "everspace_2",
       "filename": "1202_everspace_2_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T22:15:18Z"
     },
     {
       "id": 1203,
@@ -10830,7 +10832,8 @@
       "year": 2025,
       "slug": "assetto_corsa_evo",
       "filename": "1203_assetto_corsa_evo_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T22:15:18Z"
     },
     {
       "id": 1204,
@@ -10838,7 +10841,8 @@
       "year": 2021,
       "slug": "myst",
       "filename": "1204_myst_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T22:15:18Z"
     },
     {
       "id": 1205,
@@ -10846,7 +10850,8 @@
       "year": 2025,
       "slug": "ink_inside",
       "filename": "1205_ink_inside_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T22:15:18Z"
     },
     {
       "id": 1206,
@@ -10854,7 +10859,8 @@
       "year": 2025,
       "slug": "henry_halfhead",
       "filename": "1206_henry_halfhead_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T22:15:18Z"
     },
     {
       "id": 1207,
@@ -10862,7 +10868,8 @@
       "year": 2024,
       "slug": "biogun",
       "filename": "1207_biogun_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T22:15:18Z"
     },
     {
       "id": 1208,
@@ -10870,7 +10877,8 @@
       "year": 2026,
       "slug": "007_first_light",
       "filename": "1208_007_first_light_2026.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T22:15:18Z"
     },
     {
       "id": 1209,
@@ -10878,7 +10886,8 @@
       "year": 2026,
       "slug": "pragmata",
       "filename": "1209_pragmata_2026.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T22:15:18Z"
     },
     {
       "id": 1210,
@@ -10886,7 +10895,8 @@
       "year": 2026,
       "slug": "monster_hunter_stories_3_twisted_reflection",
       "filename": "1210_monster_hunter_stories_3_twisted_reflection_2026.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T22:15:18Z"
     },
     {
       "id": 1211,
@@ -10894,7 +10904,8 @@
       "year": 2026,
       "slug": "resident_evil_requiem",
       "filename": "1211_resident_evil_requiem_2026.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T22:15:18Z"
     },
     {
       "id": 1212,
@@ -10902,7 +10913,8 @@
       "year": 2026,
       "slug": "marathon",
       "filename": "1212_marathon_2026.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T22:15:18Z"
     },
     {
       "id": 1213,
@@ -10910,7 +10922,8 @@
       "year": 2021,
       "slug": "astalon_tears_of_the_earth",
       "filename": "1213_astalon_tears_of_the_earth_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T22:15:18Z"
     },
     {
       "id": 1214,
@@ -10918,7 +10931,8 @@
       "year": 2022,
       "slug": "infernax",
       "filename": "1214_infernax_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T22:15:18Z"
     },
     {
       "id": 1215,
@@ -10926,7 +10940,8 @@
       "year": 2023,
       "slug": "rusted_moss",
       "filename": "1215_rusted_moss_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T22:15:18Z"
     },
     {
       "id": 1216,
@@ -11489,6 +11504,6 @@
       "status": "pending"
     }
   ],
-  "iteration": 59,
+  "iteration": 60,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
