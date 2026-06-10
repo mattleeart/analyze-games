@@ -10679,7 +10679,8 @@
       "year": 2023,
       "slug": "hellcard",
       "filename": "1186_hellcard_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T20:15:19Z"
     },
     {
       "id": 1187,
@@ -10687,7 +10688,8 @@
       "year": 2023,
       "slug": "paleo_pines",
       "filename": "1187_paleo_pines_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T20:15:19Z"
     },
     {
       "id": 1188,
@@ -10695,7 +10697,8 @@
       "year": 2023,
       "slug": "i_am_future",
       "filename": "1188_i_am_future_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T20:15:19Z"
     },
     {
       "id": 1189,
@@ -10703,7 +10706,8 @@
       "year": 2022,
       "slug": "hard_west_2",
       "filename": "1189_hard_west_2_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T20:15:19Z"
     },
     {
       "id": 1190,
@@ -10711,7 +10715,8 @@
       "year": 2021,
       "slug": "disciples_liberation",
       "filename": "1190_disciples_liberation_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T20:15:19Z"
     },
     {
       "id": 1191,
@@ -10719,7 +10724,8 @@
       "year": 2025,
       "slug": "inzoi",
       "filename": "1191_inzoi_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T20:15:19Z"
     },
     {
       "id": 1192,
@@ -10727,7 +10733,8 @@
       "year": 2025,
       "slug": "pipistrello_and_the_cursed_yoyo",
       "filename": "1192_pipistrello_and_the_cursed_yoyo_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T20:15:19Z"
     },
     {
       "id": 1193,
@@ -10735,7 +10742,8 @@
       "year": 2022,
       "slug": "midnight_fight_express",
       "filename": "1193_midnight_fight_express_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T20:15:19Z"
     },
     {
       "id": 1194,
@@ -10743,7 +10751,8 @@
       "year": 2023,
       "slug": "hitman_world_of_assassination",
       "filename": "1194_hitman_world_of_assassination_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T20:15:19Z"
     },
     {
       "id": 1195,
@@ -10751,7 +10760,8 @@
       "year": 2025,
       "slug": "keep_driving",
       "filename": "1195_keep_driving_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T20:15:19Z"
     },
     {
       "id": 1196,
@@ -10759,7 +10769,8 @@
       "year": 2025,
       "slug": "battle_suit_aces",
       "filename": "1196_battle_suit_aces_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T20:15:19Z"
     },
     {
       "id": 1197,
@@ -10767,7 +10778,8 @@
       "year": 2023,
       "slug": "bramble_the_mountain_king",
       "filename": "1197_bramble_the_mountain_king_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T20:15:19Z"
     },
     {
       "id": 1198,
@@ -10775,7 +10787,8 @@
       "year": 2021,
       "slug": "nuclear_blaze",
       "filename": "1198_nuclear_blaze_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T20:15:19Z"
     },
     {
       "id": 1199,
@@ -10783,7 +10796,8 @@
       "year": 2023,
       "slug": "anode_heart",
       "filename": "1199_anode_heart_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T20:15:19Z"
     },
     {
       "id": 1200,
@@ -10791,7 +10805,8 @@
       "year": 2023,
       "slug": "coffee_talk_episode_2_hibiscus_and_butterfly",
       "filename": "1200_coffee_talk_episode_2_hibiscus_and_butterfly_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-10T20:15:19Z"
     },
     {
       "id": 1201,
@@ -11474,6 +11489,6 @@
       "status": "pending"
     }
   ],
-  "iteration": 58,
+  "iteration": 59,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
