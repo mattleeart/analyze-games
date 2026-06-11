@@ -11354,7 +11354,8 @@
       "year": 2024,
       "slug": "underdogs",
       "filename": "1261_underdogs_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T08:15:19Z"
     },
     {
       "id": 1262,
@@ -11362,7 +11363,8 @@
       "year": 2022,
       "slug": "bonelab",
       "filename": "1262_bonelab_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T08:15:19Z"
     },
     {
       "id": 1263,
@@ -11370,7 +11372,8 @@
       "year": 2023,
       "slug": "horizon_call_of_the_mountain",
       "filename": "1263_horizon_call_of_the_mountain_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T08:15:19Z"
     },
     {
       "id": 1264,
@@ -11378,7 +11381,8 @@
       "year": 2024,
       "slug": "reach",
       "filename": "1264_reach_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T08:15:19Z"
     },
     {
       "id": 1265,
@@ -11386,7 +11390,8 @@
       "year": 2023,
       "slug": "dungeons_of_eternity",
       "filename": "1265_dungeons_of_eternity_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T08:15:19Z"
     },
     {
       "id": 1266,
@@ -11394,7 +11399,8 @@
       "year": 2024,
       "slug": "strinova",
       "filename": "1266_strinova_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T08:15:19Z"
     },
     {
       "id": 1267,
@@ -11402,7 +11408,8 @@
       "year": 2024,
       "slug": "the_exhausted_man",
       "filename": "1267_the_exhausted_man_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T08:15:19Z"
     },
     {
       "id": 1268,
@@ -11410,7 +11417,8 @@
       "year": 2025,
       "slug": "sultan_s_game",
       "filename": "1268_sultan_s_game_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T08:15:19Z"
     },
     {
       "id": 1269,
@@ -11418,7 +11426,8 @@
       "year": 2025,
       "slug": "road_to_empress",
       "filename": "1269_road_to_empress_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T08:15:19Z"
     },
     {
       "id": 1270,
@@ -11426,7 +11435,8 @@
       "year": 2025,
       "slug": "cabernet",
       "filename": "1270_cabernet_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T08:15:19Z"
     },
     {
       "id": 1271,
@@ -11434,7 +11444,8 @@
       "year": 2023,
       "slug": "dead_space",
       "filename": "1271_dead_space_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T08:15:19Z"
     },
     {
       "id": 1272,
@@ -11442,7 +11453,8 @@
       "year": 2024,
       "slug": "star_wars_dark_forces_remaster",
       "filename": "1272_star_wars_dark_forces_remaster_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T08:15:19Z"
     },
     {
       "id": 1273,
@@ -11450,7 +11462,8 @@
       "year": 2023,
       "slug": "yi_xian_the_card_game",
       "filename": "1273_yi_xian_the_card_game_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T08:15:19Z"
     },
     {
       "id": 1274,
@@ -11458,7 +11471,8 @@
       "year": 2022,
       "slug": "sands_of_salzaar",
       "filename": "1274_sands_of_salzaar_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T08:15:19Z"
     },
     {
       "id": 1275,
@@ -11466,7 +11480,8 @@
       "year": 2021,
       "slug": "tale_of_immortal",
       "filename": "1275_tale_of_immortal_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T08:15:19Z"
     },
     {
       "id": 1276,
@@ -11549,6 +11564,6 @@
       "status": "pending"
     }
   ],
-  "iteration": 63,
+  "iteration": 64,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
