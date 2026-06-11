@@ -10949,7 +10949,8 @@
       "year": 2019,
       "slug": "minoria",
       "filename": "1216_minoria_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T00:15:59.476905+00:00"
     },
     {
       "id": 1217,
@@ -10957,7 +10958,8 @@
       "year": 2023,
       "slug": "fabledom",
       "filename": "1217_fabledom_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T00:15:59.476905+00:00"
     },
     {
       "id": 1218,
@@ -10965,7 +10967,8 @@
       "year": 2022,
       "slug": "jojo_s_bizarre_adventure_all_star_battle_r",
       "filename": "1218_jojo_s_bizarre_adventure_all_star_battle_r_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T00:15:59.476905+00:00"
     },
     {
       "id": 1219,
@@ -10973,7 +10976,8 @@
       "year": 2024,
       "slug": "kunitsu_gami_path_of_the_goddess",
       "filename": "1219_kunitsu_gami_path_of_the_goddess_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T00:15:59.476905+00:00"
     },
     {
       "id": 1220,
@@ -10981,7 +10985,8 @@
       "year": 2022,
       "slug": "despot_s_game",
       "filename": "1220_despot_s_game_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T00:15:59.476905+00:00"
     },
     {
       "id": 1221,
@@ -10989,7 +10994,8 @@
       "year": 2022,
       "slug": "tmnt_shredder_s_revenge",
       "filename": "1221_tmnt_shredder_s_revenge_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T00:15:59.476905+00:00"
     },
     {
       "id": 1222,
@@ -10997,7 +11003,8 @@
       "year": 2024,
       "slug": "momodora_moonlit_farewell",
       "filename": "1222_momodora_moonlit_farewell_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T00:15:59.476905+00:00"
     },
     {
       "id": 1223,
@@ -11005,7 +11012,8 @@
       "year": 2022,
       "slug": "hadean_tactics",
       "filename": "1223_hadean_tactics_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T00:15:59.476905+00:00"
     },
     {
       "id": 1224,
@@ -11013,7 +11021,8 @@
       "year": 2022,
       "slug": "legion_td_2",
       "filename": "1224_legion_td_2_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T00:15:59.476905+00:00"
     },
     {
       "id": 1225,
@@ -11021,7 +11030,8 @@
       "year": 2026,
       "slug": "forza_horizon_6",
       "filename": "1225_forza_horizon_6_2026.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T00:15:59.476905+00:00"
     },
     {
       "id": 1226,
@@ -11029,7 +11039,8 @@
       "year": 2026,
       "slug": "big_hops",
       "filename": "1226_big_hops_2026.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T00:15:59.476905+00:00"
     },
     {
       "id": 1227,
@@ -11037,7 +11048,8 @@
       "year": 2026,
       "slug": "creature_kitchen",
       "filename": "1227_creature_kitchen_2026.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T00:15:59.476905+00:00"
     },
     {
       "id": 1228,
@@ -11045,7 +11057,8 @@
       "year": 2025,
       "slug": "labyrinth_of_the_demon_king",
       "filename": "1228_labyrinth_of_the_demon_king_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T00:15:59.476905+00:00"
     },
     {
       "id": 1229,
@@ -11053,7 +11066,8 @@
       "year": 2025,
       "slug": "little_nightmares_3",
       "filename": "1229_little_nightmares_3_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T00:15:59.476905+00:00"
     },
     {
       "id": 1230,
@@ -11061,7 +11075,8 @@
       "year": 2025,
       "slug": "virtua_fighter_5_revo",
       "filename": "1230_virtua_fighter_5_revo_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T00:15:59.476905+00:00"
     },
     {
       "id": 1231,
@@ -11504,6 +11519,6 @@
       "status": "pending"
     }
   ],
-  "iteration": 60,
+  "iteration": 61,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
