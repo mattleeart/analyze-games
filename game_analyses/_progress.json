@@ -11084,7 +11084,8 @@
       "year": 2025,
       "slug": "octopath_traveler_0",
       "filename": "1231_octopath_traveler_0_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T02:13:22.522035+00:00"
     },
     {
       "id": 1232,
@@ -11092,7 +11093,8 @@
       "year": 2025,
       "slug": "xenoblade_chronicles_x_definitive_edition",
       "filename": "1232_xenoblade_chronicles_x_definitive_edition_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T02:13:22.522035+00:00"
     },
     {
       "id": 1233,
@@ -11100,7 +11102,8 @@
       "year": 2024,
       "slug": "webfishing",
       "filename": "1233_webfishing_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T02:13:22.522035+00:00"
     },
     {
       "id": 1234,
@@ -11108,7 +11111,8 @@
       "year": 2024,
       "slug": "robobeat",
       "filename": "1234_robobeat_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T02:13:22.522035+00:00"
     },
     {
       "id": 1235,
@@ -11116,7 +11120,8 @@
       "year": 2023,
       "slug": "phantom_brigade",
       "filename": "1235_phantom_brigade_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T02:13:22.522035+00:00"
     },
     {
       "id": 1236,
@@ -11124,7 +11129,8 @@
       "year": 2025,
       "slug": "dice_gambit",
       "filename": "1236_dice_gambit_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T02:13:22.522035+00:00"
     },
     {
       "id": 1237,
@@ -11132,7 +11138,8 @@
       "year": 2023,
       "slug": "spellforce_conquest_of_eo",
       "filename": "1237_spellforce_conquest_of_eo_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T02:13:22.522035+00:00"
     },
     {
       "id": 1238,
@@ -11140,7 +11147,8 @@
       "year": 2021,
       "slug": "warhammer_40_000_battlesector",
       "filename": "1238_warhammer_40_000_battlesector_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T02:13:22.522035+00:00"
     },
     {
       "id": 1239,
@@ -11148,7 +11156,8 @@
       "year": 2025,
       "slug": "best_served_cold",
       "filename": "1239_best_served_cold_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T02:13:22.522035+00:00"
     },
     {
       "id": 1240,
@@ -11156,7 +11165,8 @@
       "year": 2025,
       "slug": "old_skies",
       "filename": "1240_old_skies_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T02:13:22.522035+00:00"
     },
     {
       "id": 1241,
@@ -11164,7 +11174,8 @@
       "year": 2022,
       "slug": "the_spirit_and_the_mouse",
       "filename": "1241_the_spirit_and_the_mouse_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T02:13:22.522035+00:00"
     },
     {
       "id": 1242,
@@ -11172,7 +11183,8 @@
       "year": 2024,
       "slug": "duck_detective_the_secret_salami",
       "filename": "1242_duck_detective_the_secret_salami_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T02:13:22.522035+00:00"
     },
     {
       "id": 1243,
@@ -11180,7 +11192,8 @@
       "year": 2025,
       "slug": "ball_x_pit",
       "filename": "1243_ball_x_pit_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T02:13:22.522035+00:00"
     },
     {
       "id": 1244,
@@ -11188,7 +11201,8 @@
       "year": 2024,
       "slug": "steamworld_heist_ii",
       "filename": "1244_steamworld_heist_ii_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T02:13:22.522035+00:00"
     },
     {
       "id": 1245,
@@ -11196,7 +11210,8 @@
       "year": 2025,
       "slug": "menace",
       "filename": "1245_menace_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T02:13:22.522035+00:00"
     },
     {
       "id": 1246,
@@ -11519,6 +11534,6 @@
       "status": "pending"
     }
   ],
-  "iteration": 61,
+  "iteration": 62,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
