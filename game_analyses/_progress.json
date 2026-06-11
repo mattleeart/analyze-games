@@ -11219,7 +11219,8 @@
       "year": 2024,
       "slug": "reus_2",
       "filename": "1246_reus_2_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T06:15:01.505030+00:00"
     },
     {
       "id": 1247,
@@ -11227,7 +11228,8 @@
       "year": 2023,
       "slug": "train_sim_world_4",
       "filename": "1247_train_sim_world_4_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T06:15:01.505030+00:00"
     },
     {
       "id": 1248,
@@ -11235,7 +11237,8 @@
       "year": 2025,
       "slug": "forgive_me_father_2",
       "filename": "1248_forgive_me_father_2_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T06:15:01.505030+00:00"
     },
     {
       "id": 1249,
@@ -11243,7 +11246,8 @@
       "year": 2025,
       "slug": "endless_legend_2",
       "filename": "1249_endless_legend_2_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T06:15:01.505030+00:00"
     },
     {
       "id": 1250,
@@ -11251,7 +11255,8 @@
       "year": 2024,
       "slug": "the_last_of_us_part_ii_remastered",
       "filename": "1250_the_last_of_us_part_ii_remastered_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T06:15:01.505030+00:00"
     },
     {
       "id": 1251,
@@ -11259,7 +11264,8 @@
       "year": 2021,
       "slug": "conquest_of_elysium_5",
       "filename": "1251_conquest_of_elysium_5_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T06:15:01.505030+00:00"
     },
     {
       "id": 1252,
@@ -11267,7 +11273,8 @@
       "year": 2024,
       "slug": "millennia",
       "filename": "1252_millennia_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T06:15:01.505030+00:00"
     },
     {
       "id": 1253,
@@ -11275,7 +11282,8 @@
       "year": 2025,
       "slug": "europa_universalis_v",
       "filename": "1253_europa_universalis_v_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T06:15:01.505030+00:00"
     },
     {
       "id": 1254,
@@ -11283,7 +11291,8 @@
       "year": 2024,
       "slug": "no_rest_for_the_wicked",
       "filename": "1254_no_rest_for_the_wicked_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T06:15:01.505030+00:00"
     },
     {
       "id": 1255,
@@ -11291,7 +11300,8 @@
       "year": 2024,
       "slug": "out_of_the_park_baseball_25",
       "filename": "1255_out_of_the_park_baseball_25_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T06:15:01.505030+00:00"
     },
     {
       "id": 1256,
@@ -11299,7 +11309,8 @@
       "year": 2024,
       "slug": "f1_manager_2024",
       "filename": "1256_f1_manager_2024_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T06:15:01.505030+00:00"
     },
     {
       "id": 1257,
@@ -11307,7 +11318,8 @@
       "year": 2024,
       "slug": "topspin_2k25",
       "filename": "1257_topspin_2k25_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T06:15:01.505030+00:00"
     },
     {
       "id": 1258,
@@ -11315,7 +11327,8 @@
       "year": 2025,
       "slug": "the_bazaar",
       "filename": "1258_the_bazaar_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T06:15:01.505030+00:00"
     },
     {
       "id": 1259,
@@ -11323,7 +11336,8 @@
       "year": 2025,
       "slug": "pga_tour_2k25",
       "filename": "1259_pga_tour_2k25_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T06:15:01.505030+00:00"
     },
     {
       "id": 1260,
@@ -11331,7 +11345,8 @@
       "year": 2025,
       "slug": "khazan_the_first_berserker",
       "filename": "1260_khazan_the_first_berserker_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T06:15:01.505030+00:00"
     },
     {
       "id": 1261,
@@ -11534,6 +11549,6 @@
       "status": "pending"
     }
   ],
-  "iteration": 62,
+  "iteration": 63,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
