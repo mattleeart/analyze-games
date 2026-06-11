@@ -11579,7 +11579,8 @@
       "year": 2022,
       "slug": "yomawari_lost_in_the_dark",
       "filename": "1286_yomawari_lost_in_the_dark_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T14:15:36Z"
     },
     {
       "id": 1287,
@@ -11587,7 +11588,8 @@
       "year": 2021,
       "slug": "alisa",
       "filename": "1287_alisa_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T14:15:36Z"
     },
     {
       "id": 1288,
@@ -11595,7 +11597,8 @@
       "year": 2022,
       "slug": "fobia_st_dinfna_hotel",
       "filename": "1288_fobia_st_dinfna_hotel_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T14:15:36Z"
     },
     {
       "id": 1289,
@@ -11603,7 +11606,8 @@
       "year": 2021,
       "slug": "f1_2021",
       "filename": "1289_f1_2021_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T14:15:36Z"
     },
     {
       "id": 1290,
@@ -11611,7 +11615,8 @@
       "year": 2020,
       "slug": "inertial_drift",
       "filename": "1290_inertial_drift_2020.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T14:15:36Z"
     },
     {
       "id": 1291,
@@ -11619,7 +11624,8 @@
       "year": 2019,
       "slug": "aokana_four_rhythms_across_the_blue",
       "filename": "1291_aokana_four_rhythms_across_the_blue_2019.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T14:15:36Z"
     },
     {
       "id": 1292,
@@ -11627,7 +11633,8 @@
       "year": 2024,
       "slug": "kaku_ancient_seal",
       "filename": "1292_kaku_ancient_seal_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T14:15:36Z"
     },
     {
       "id": 1293,
@@ -11635,7 +11642,8 @@
       "year": 2023,
       "slug": "volcano_princess",
       "filename": "1293_volcano_princess_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T14:15:36Z"
     },
     {
       "id": 1294,
@@ -11643,7 +11651,8 @@
       "year": 2018,
       "slug": "farm_together",
       "filename": "1294_farm_together_2018.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T14:15:36Z"
     },
     {
       "id": 1295,
@@ -11651,7 +11660,8 @@
       "year": 2021,
       "slug": "banners_of_ruin",
       "filename": "1295_banners_of_ruin_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T14:15:36Z"
     },
     {
       "id": 1296,
@@ -11659,7 +11669,8 @@
       "year": 2021,
       "slug": "nba_2k22",
       "filename": "1296_nba_2k22_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T14:15:36Z"
     },
     {
       "id": 1297,
@@ -11667,7 +11678,8 @@
       "year": 2021,
       "slug": "fifa_22",
       "filename": "1297_fifa_22_2021.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T14:15:36Z"
     },
     {
       "id": 1298,
@@ -11675,7 +11687,8 @@
       "year": 2022,
       "slug": "mlb_the_show_22",
       "filename": "1298_mlb_the_show_22_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T14:15:36Z"
     },
     {
       "id": 1299,
@@ -11683,7 +11696,8 @@
       "year": 2022,
       "slug": "madden_nfl_23",
       "filename": "1299_madden_nfl_23_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T14:15:36Z"
     },
     {
       "id": 1300,
@@ -11691,7 +11705,8 @@
       "year": 2022,
       "slug": "nba_2k23",
       "filename": "1300_nba_2k23_2022.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T14:15:36Z"
     },
     {
       "id": 1301,
@@ -12374,6 +12389,6 @@
       "status": "pending"
     }
   ],
-  "iteration": 66,
+  "iteration": 67,
   "notes": "collect iteration 66: 100 new candidates added as pending (ids 1286-1385); analysis deferred to next queue-worker run."
 }
