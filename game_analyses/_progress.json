@@ -11489,7 +11489,8 @@
       "year": 2025,
       "slug": "dog_witch",
       "filename": "1276_dog_witch_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T10:13:35Z"
     },
     {
       "id": 1277,
@@ -11497,7 +11498,8 @@
       "year": 2024,
       "slug": "spellrogue",
       "filename": "1277_spellrogue_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T10:13:35Z"
     },
     {
       "id": 1278,
@@ -11505,7 +11507,8 @@
       "year": 2024,
       "slug": "bo_path_of_the_teal_lotus_2",
       "filename": "1278_bo_path_of_the_teal_lotus_2_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T10:13:35Z"
     },
     {
       "id": 1279,
@@ -11513,7 +11516,8 @@
       "year": 2025,
       "slug": "tales_of_graces_f_remastered",
       "filename": "1279_tales_of_graces_f_remastered_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T10:13:35Z"
     },
     {
       "id": 1280,
@@ -11521,7 +11525,8 @@
       "year": 2023,
       "slug": "trinity_fusion",
       "filename": "1280_trinity_fusion_2023.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T10:13:35Z"
     },
     {
       "id": 1281,
@@ -11529,7 +11534,8 @@
       "year": 2024,
       "slug": "tiny_rogues",
       "filename": "1281_tiny_rogues_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T10:13:35Z"
     },
     {
       "id": 1282,
@@ -11537,7 +11543,8 @@
       "year": 2025,
       "slug": "riddlewood_manor",
       "filename": "1282_riddlewood_manor_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T10:13:35Z"
     },
     {
       "id": 1283,
@@ -11545,7 +11552,8 @@
       "year": 2025,
       "slug": "lumines_arise",
       "filename": "1283_lumines_arise_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T10:13:35Z"
     },
     {
       "id": 1284,
@@ -11553,7 +11561,8 @@
       "year": 2025,
       "slug": "everdeep_aurora",
       "filename": "1284_everdeep_aurora_2025.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T10:13:35Z"
     },
     {
       "id": 1285,
@@ -11561,9 +11570,10 @@
       "year": 2024,
       "slug": "zoria_age_of_shattering",
       "filename": "1285_zoria_age_of_shattering_2024.md",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T10:13:35Z"
     }
   ],
-  "iteration": 64,
+  "iteration": 65,
   "notes": "collect iteration 13: total 40 new candidates added this run (ids 366-405) as pending; analysis deferred to next queue-worker run."
 }
